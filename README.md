@@ -21,7 +21,7 @@ cd satnogsdump
 Execute the script:
 
 ```bash
-python gemini-code-1782418973676.py
+python satdump.py
 ```
 
 The file amateur_satellite_repeaters.csv will be created automatically in the project folder.
