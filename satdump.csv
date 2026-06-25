@@ -1,0 +1,2821 @@
+NORAD ID,Satellite Name,Type,Mode,Downlink (MHz),Uplink (MHz),Inverted
+44316,2019-032G - Unknown Satellite,Transmitter,FM,401.3050,N/A,False
+44884,2019-093F,Transmitter,FM,401.5460,N/A,False
+57183,2023-091T,Transmitter,LoRa,435.0500,N/A,False
+58820,2024-016A,Transmitter,FM,401.9500,N/A,False
+67253,2025-313F,Transmitter,FM,436.0900,N/A,False
+67253,2025-313F,Transmitter,FM,435.7920,N/A,False
+57582,23117C,Transmitter,FSK,400.4500,N/A,False
+58555,23193C,Transmitter,FM,401.6120,N/A,False
+64881,239Alferov,Transmitter,DVB-S2,10473.3500,N/A,False
+64881,239Alferov,Transmitter,GFSK,436.2700,N/A,False
+58923,24024G,Transmitter,FM,2246.4000,N/A,False
+60745,24153A,Transmitter,FM,400.4550,N/A,False
+60745,24153A,Transmitter,FM,400.0550,N/A,False
+98878,3CAT-4,Transmitter,GMSK,437.3500,N/A,False
+46292,"3CAT-5/A, FSSCat A",Transmitter,FM,401.3370,N/A,False
+46293,"3CAT-5/B, FSSCat B",Transmitter,FM,401.3770,N/A,False
+98517,3UCUBED-A,Transmitter,GFSK,437.0100,N/A,False
+98500,6GSTARLAB,Transmitter,BPSK,2275.0000,N/A,False
+57197,A-SEANSAT-PG1,Transmitter,GMSK USP,401.5230,N/A,False
+57197,A-SEANSAT-PG1,Transmitter,GMSK USP,401.6338,N/A,False
+55107,AAC-AIS-SAT-1,Transmitter,FM,161.8630,N/A,False
+55107,AAC-AIS-SAT-1,Transmitter,FM,157.2620,N/A,False
+56996,AAC-AIS-SAT2,Transmitter,BPSK,2241.0000,N/A,False
+58997,AAC-AIS-SAT3,Transmitter,BPSK,2241.0000,N/A,False
+39087,AAUSAT 3,Transmitter,CW,437.4250,N/A,False
+98501,AC1-001,Transmitter,FM,2255.0000,N/A,False
+98502,AC1-002,Transmitter,FM,2255.0000,N/A,False
+98503,AC1-003,Transmitter,FM,2255.0000,N/A,False
+59588,ACS3,Transmitter,FM,2268.0000,N/A,False
+59588,ACS3,Transmitter,GMSK,401.5000,N/A,False
+98574,ADDCUBE,Transmitter,FM,2412.0000,N/A,False
+98574,ADDCUBE,Transmitter,FM,435.5000,N/A,False
+98698,AE1c,Transmitter,FM,2228.0000,N/A,False
+98698,AE1c,Transmitter,FM,922.0000,N/A,False
+98698,AE1c,Transmitter,FM,2277.3000,N/A,False
+98698,AE1c,Transmitter,FM,8340.0000,N/A,False
+98699,AE1d,Transmitter,FM,922.0000,N/A,False
+98699,AE1d,Transmitter,FM,2228.0000,N/A,False
+98699,AE1d,Transmitter,FM,2277.3000,N/A,False
+98699,AE1d,Transmitter,FM,8340.0000,N/A,False
+38760,AENEAS,Transmitter,AFSK,437.6000,N/A,False
+68506,AEPEX,Transmitter,OQPSK,2405.0000,N/A,False
+68506,AEPEX,Transmitter,OQPSK,2405.0000,N/A,False
+68506,AEPEX,Transmitter,GFSK,437.3250,N/A,False
+68506,AEPEX,Transmitter,GFSK,437.3250,N/A,False
+59291,AEROCUBE 16B,Transmitter,FM,2225.0000,N/A,False
+63220,AEROCUBE-18 A,Transmitter,OQPSK,2225.0000,N/A,False
+63222,AEROCUBE-18 B,Transmitter,OQPSK,2225.0000,N/A,False
+98387,AETS-1,Transmitter,FM,2277.3000,N/A,False
+98387,AETS-1,Transmitter,FM,2228.0000,N/A,False
+98387,AETS-1,Transmitter,FM,922.0000,N/A,False
+98387,AETS-1,Transmitter,FM,8340.0000,N/A,False
+56964,AFR-1,Transmitter,FM,2245.0000,N/A,False
+56964,AFR-1,Transmitter,FM,8210.0000,N/A,False
+56964,AFR-1,Transmitter,FM,436.6300,N/A,False
+57206,AHMAT-1,Transmitter,AFSK,437.0500,N/A,False
+57206,AHMAT-1,Transmitter,SSTV,437.0500,N/A,False
+57206,AHMAT-1,Transmitter,AFSK,435.8000,N/A,False
+48270,AII-BRAVO,Transmitter,FM,402.0010,N/A,False
+48270,AII-BRAVO,Transmitter,FM,401.0502,N/A,False
+39492,AIST-1,Transmitter,CW,435.2650,N/A,False
+39492,AIST-1,Transmitter,PSK,435.2650,N/A,False
+98420,AIST-ST,Transmitter,LoRa,436.9950,N/A,False
+43768,AISTECHSAT-2,Transmitter,FSK AX.100 Mode 5,436.7300,N/A,False
+40054,AISat,Transmitter,CW,437.2500,N/A,False
+40054,AISat,Transmitter,CW,437.5050,N/A,False
+40054,AISat,Transmitter,FM,2259.0000,N/A,False
+98697,ALAINSAT-1,Transmitter,MSK AX.100 Mode 5,400.6500,N/A,False
+98697,ALAINSAT-1,Transmitter,MSK AX.100 Mode 5,400.8500,N/A,False
+98697,ALAINSAT-1,Transmitter,FM,2279.0000,N/A,False
+98697,ALAINSAT-1,Transmitter,FM,2268.0000,N/A,False
+98697,ALAINSAT-1,Transmitter,FM,2260.0000,N/A,False
+60182,ALOS-4 Daichi-4,Transmitter,BPSK,2220.0000,N/A,False
+1804,ALOUETTE-2,Transmitter,USB,136.9810,N/A,False
+99380,ALPHA,Transmitter,LoRa,436.5000,N/A,False
+99380,ALPHA,Transmitter,FSK,436.5000,N/A,False
+41785,ALSAT 1B,Transmitter,FM,2233.3320,N/A,False
+41789,ALSAT 1N,Transmitter,FSK,437.6500,N/A,False
+36798,ALSAT 2A,Transmitter,BPSK,2266.5000,N/A,False
+41786,ALSAT 2B,Transmitter,FM,2266.5000,N/A,False
+44876,ANGELS,Transmitter,FM,1698.4000,N/A,False
+44876,ANGELS,Transmitter,FM,2238.5000,N/A,False
+44876,ANGELS,Transmitter,FM,1703.0000,N/A,False
+99043,ANSER FOLLOWER 1,Transmitter,FSK,401.8500,N/A,False
+99042,ANSER FOLLOWER 2,Transmitter,FSK,401.8500,N/A,False
+98696,ANSER Leader-S,Transmitter,FSK,401.8500,N/A,False
+98696,ANSER Leader-S,Transmitter,FM,2204.5250,N/A,False
+59129,APEX ARIES 1,Transmitter,FM,2287.5010,N/A,False
+59129,APEX ARIES 1,Transmitter,FSK,400.5000,N/A,False
+40019,APRIZESAT 10,Transmitter,GMSK,400.5730,N/A,False
+27424,AQUA,Transmitter,SQPSK,8160.0000,N/A,False
+27424,AQUA,Transmitter,BPSK,2287.5000,N/A,False
+99058,ARCADE,Transmitter,GFSK,437.7600,N/A,False
+52161,ARCSAT,Transmitter,FMN,2260.0000,N/A,False
+52161,ARCSAT,Transmitter,BPSK,2206.5000,N/A,False
+52161,ARCSAT,Transmitter,FM,267.3000,N/A,False
+52161,ARCSAT,Transmitter,FM,268.8000,N/A,False
+52161,ARCSAT,Transmitter,FM,312.0500,N/A,False
+52161,ARCSAT,Transmitter,FM,314.7000,N/A,False
+64540,ARCSTONE,Transmitter,FM,2203.0000,N/A,False
+54023,ARGOS-4,Transmitter,QPSK,1703.0000,N/A,False
+98329,ARICA-2,Transmitter,CW,436.8300,N/A,False
+98329,ARICA-2,Transmitter,GMSK,436.8300,N/A,False
+99166,ARKSAT-1,Transmitter,FSK,435.4500,N/A,False
+68419,ARQSAT-1,Transmitter,GMSK,401.3550,N/A,False
+63252,ARVAKER I,Transmitter,FM,2245.0000,N/A,False
+40298,ASNARO,Transmitter,BPSK,2271.6000,N/A,False
+54029,ASO-S (Kuafu),Transmitter,BPSK,2221.2010,N/A,False
+61781,ASRTU-1,Transmitter,QPSK,10460.0000,N/A,False
+61781,ASRTU-1,Transmitter,BPSK,435.4000,N/A,False
+61781,ASRTU-1,Transmitter,BPSK,436.2100,N/A,False
+61781,ASRTU-1,Transceiver,FM,435.4000,145.8500,False
+5560,ASTEX 1,Transmitter,FM,2242.5280,N/A,False
+98336,ASTRA-HyRAX,Transmitter,GFSK,401.4750,N/A,False
+53107,ASTROBIO,Transmitter,FSK,435.6000,N/A,False
+53107,ASTROBIO,Transmitter,FSK,437.4250,N/A,False
+4068,ATS-5,Transmitter,FM,148.2600,N/A,False
+43681,AUTcube2,Transmitter,WSJT,437.5050,N/A,False
+43681,AUTcube2,Transmitter,FSK,437.3850,N/A,False
+98863,Acadia-5,Transmitter,FM,8027.0000,N/A,False
+98863,Acadia-5,Transmitter,FM,8212.5000,N/A,False
+57754,Aditya-L1,Transmitter,FM,8482.3200,N/A,False
+57754,Aditya-L1,Transmitter,FM,8497.5000,N/A,False
+63240,Al-Munther,Transmitter,BPSK,401.1750,N/A,False
+63240,Al-Munther,Transmitter,BPSK,436.5000,N/A,False
+39766,Alos 2,Transmitter,FM,2220.0000,N/A,False
+61779,Altair,Transmitter,BPSK,435.6150,N/A,False
+61779,Altair,Transmitter,BPSK,435.7150,N/A,False
+61779,Altair,Transmitter,AFSK,435.2150,N/A,False
+51841,Anxi Tieguanyin 1,Transmitter,FM,401.7340,N/A,False
+39416,AprizeSat 7,Transmitter,GMSK,400.5850,N/A,False
+39425,AprizeSat 8,Transmitter,GMSK,400.5530,N/A,False
+40018,AprizeSat 9,Transmitter,GMSK,400.5520,N/A,False
+37793,AprizeSat-6,Transmitter,GMSK,400.5910,N/A,False
+60543,Arctic Weather Satellite,Transmitter,FM,1707.0000,N/A,False
+60543,Arctic Weather Satellite,Transmitter,FM,2230.0000,N/A,False
+60239,Ariane 6 - Upper Stage,Transmitter,SSTV,144.5500,N/A,False
+60239,Ariane 6 - Upper Stage,Transmitter,FM,2235.0000,N/A,False
+60239,Ariane 6 - Upper Stage,Transmitter,SIDLOC,401.5000,N/A,False
+60239,Ariane 6 - Upper Stage,Transmitter,FT8,144.1750,N/A,False
+60239,Ariane 6 - Upper Stage,Transmitter,DATV,2440.0000,N/A,False
+47719,Arktika-M1,Transmitter,FM,1703.0000,N/A,False
+47719,Arktika-M1,Transmitter,FM,1544.5000,N/A,False
+47719,Arktika-M1,Transmitter,FM,7865.0000,N/A,False
+43152,Asnaro-2,Transmitter,FM,2271.6040,N/A,False
+43798,Astrocast 0.1,Transmitter,FSK,437.1500,N/A,False
+43798,Astrocast 0.1,Transmitter,FM,2406.0000,N/A,False
+47430,Astrocast-0101,Transmitter,QPSK,1530.9050,N/A,False
+47487,Astrocast-0103,Transmitter,FM,1530.9050,N/A,False
+48954,Astrocast-0201,Transmitter,FM,1530.9050,N/A,False
+48955,Astrocast-0203,Transmitter,FM,1530.9050,N/A,False
+28376,Aura,Transmitter,,8160.0000,N/A,False
+28376,Aura,Transmitter,BPSK,2287.5000,N/A,False
+57195,Avion Kaluga 650,Transmitter,DOKA,435.6150,N/A,False
+57195,Avion Kaluga 650,Transmitter,AFSK,435.7150,N/A,False
+57195,Avion Kaluga 650,Transmitter,AFSK,435.6150,N/A,False
+57195,Avion Kaluga 650,Transmitter,GFSK,435.1400,N/A,False
+57195,Avion Kaluga 650,Transmitter,DOKA,435.7150,N/A,False
+62611,BALKAN-1,Transmitter,FM,2102.5000,N/A,False
+62611,BALKAN-1,Transmitter,GMSK,401.3600,N/A,False
+62611,BALKAN-1,Transmitter,FM,24600.0000,N/A,False
+62611,BALKAN-1,Transmitter,FM,26250.0000,N/A,False
+62611,BALKAN-1,Transmitter,FM,2276.5000,N/A,False
+62611,BALKAN-1,Transmitter,FM,2277.5000,N/A,False
+98493,BEE-1000,Transceiver,FSK AX.100 Mode 5,436.5000,436.5000,False
+98493,BEE-1000,Transmitter,DVB-S2,2403.5000,N/A,False
+35933,BEESAT,Transmitter,GMSK,435.9500,N/A,False
+35933,BEESAT,Transceiver,GMSK,435.9500,435.9500,False
+38251,BEIDOU 13,Transmitter,FM,2256.0000,N/A,False
+38251,BEIDOU 13,Transmitter,FM,1544.2100,N/A,False
+38251,BEIDOU 13,Transmitter,FM,1207.1400,N/A,False
+38251,BEIDOU 13,Transmitter,FM,1268.5200,N/A,False
+38251,BEIDOU 13,Transmitter,FSK,1561.0980,N/A,False
+38251,BEIDOU 13,Transmitter,FM,2202.0000,N/A,False
+31115,BEIDOU 2,Transmitter,FM,2256.0000,N/A,False
+31115,BEIDOU 2,Transmitter,FM,2202.0000,N/A,False
+64588,BIFROST-DNK,Transmitter,FM,2256.0000,N/A,False
+98607,BIOMASS,Transmitter,FM,2247.9639,N/A,False
+40974,BISONSAT,Transmitter,FSK,437.3755,N/A,False
+62688,BLUEBON,Transmitter,FM,400.6500,N/A,False
+62688,BLUEBON,Transmitter,FM,400.9500,N/A,False
+53807,BLUEWALKER-3,Transmitter,GFSK,437.5000,N/A,False
+53807,BLUEWALKER-3,Transmitter,QPSK,2210.0000,N/A,False
+53807,BLUEWALKER-3,Transmitter,QPSK,759.7000,N/A,False
+53807,BLUEWALKER-3,Transmitter,QPSK,2026.0000,N/A,False
+53807,BLUEWALKER-3,Transmitter,FM,892.0000,N/A,False
+53807,BLUEWALKER-3,Transmitter,FM,763.0000,N/A,False
+53807,BLUEWALKER-3,Transmitter,FM,400.5750,N/A,False
+53807,BLUEWALKER-3,Transmitter,GMSK,2245.0000,N/A,False
+44529,BNU-1,Transmitter,BPSK,2262.2420,N/A,False
+63216,BOTSAT-1,Transmitter,GMSK,401.3600,N/A,False
+63216,BOTSAT-1,Transmitter,FM,8185.0000,N/A,False
+40020,BRITE-CA 1,Transmitter,FM,2234.4000,N/A,False
+39431,BRITE-PL,Transmitter,FM,2234.4000,N/A,False
+39431,BRITE-PL,Transmitter,FM,437.3650,N/A,False
+40119,BRITE-PL 2,Transmitter,BPSK,2234.3991,N/A,False
+58331,BRO-10,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+58331,BRO-10,Transmitter,BPSK,2260.5000,N/A,False
+58264,BRO-11,Transmitter,FSK AX.100 Mode 5,401.7000,N/A,False
+58264,BRO-11,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+58264,BRO-11,Transmitter,BPSK,2260.5000,N/A,False
+59108,BRO-12,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+59108,BRO-12,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+59108,BRO-12,Transmitter,BPSK,2260.5000,N/A,False
+59107,BRO-13,Transmitter,FSK AX.100 Mode 5,401.7600,N/A,False
+59107,BRO-13,Transmitter,BPSK,2260.5000,N/A,False
+59107,BRO-13,Transmitter,FSK AX.100 Mode 5,401.7600,N/A,False
+60551,BRO-14,Transmitter,BPSK,2260.5000,N/A,False
+60551,BRO-14,Transmitter,FSK AX.100 Mode 5,401.7900,N/A,False
+60553,BRO-15,Transmitter,FSK AX.100 Mode 5,401.8200,N/A,False
+60553,BRO-15,Transmitter,BPSK,2260.5000,N/A,False
+98694,BRO-16,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98694,BRO-16,Transmitter,BPSK,2260.5000,N/A,False
+98499,BRO-17,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98499,BRO-17,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+64550,BRO-18,Transmitter,FSK AX.100 Mode 5,401.5200,N/A,False
+64550,BRO-18,Transmitter,BPSK,2260.5000,N/A,False
+98364,BRO-19,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98498,BRO-20,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98498,BRO-20,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98311,BRO-21,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+98304,BRO-22,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+51061,BRO-5,Transmitter,FSK AX.100 Mode 5,401.1760,N/A,False
+51061,BRO-5,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+51061,BRO-5,Transmitter,FSK,2260.5000,N/A,False
+51061,BRO-5,Transmitter,FM,401.4900,N/A,False
+52422,BRO-6,Transmitter,FM,2275.9380,N/A,False
+52422,BRO-6,Transmitter,FSK,2260.5000,N/A,False
+52422,BRO-6,Transmitter,FSK AX.100 Mode 5,401.2460,N/A,False
+52422,BRO-6,Transmitter,FSK AX.100 Mode 5,401.5500,N/A,False
+55011,BRO-8,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+55011,BRO-8,Transmitter,FSK AX.100 Mode 5,401.6120,N/A,False
+55011,BRO-8,Transmitter,FSK,2260.5000,N/A,False
+56185,BRO-9,Transmitter,FSK AX.100 Mode 5,401.6420,N/A,False
+56185,BRO-9,Transmitter,BPSK,2260.5000,N/A,False
+56185,BRO-9,Transmitter,FSK AX.100 Mode 5,401.7350,N/A,False
+40014,BUGSAT-1,Transmitter,AFSK,437.4450,N/A,False
+40014,BUGSAT-1,Transmitter,GMSK,437.4450,N/A,False
+40014,BUGSAT-1,Transmitter,FSK,437.4450,N/A,False
+62609,BUZZZER-1,Transmitter,FM,401.8820,N/A,False
+98310,Balkan-2,Transmitter,GMSK,401.3600,N/A,False
+58465,Bane,Transmitter,BPSK,2257.5000,N/A,False
+58465,Bane,Transmitter,BPSK,2243.5000,N/A,False
+55015,Birkeland,Transmitter,BPSK,2207.0000,N/A,False
+55015,Birkeland,Transmitter,FM,401.5000,N/A,False
+55015,Birkeland,Transmitter,BPSK,2206.5000,N/A,False
+98527,Black Kite-1,Transmitter,GMSK,2288.0000,N/A,False
+98371,Black Kite-2,Transmitter,GMSK,2286.0000,N/A,False
+67369,BlackCAT,Transmitter,GFSK,402.0000,N/A,False
+56956,Blackjack-1,Transmitter,FM,2264.8000,N/A,False
+56955,Blackjack-2,Transmitter,BPSK,2264.8000,N/A,False
+56950,Blackjack-3,Transmitter,BPSK,2264.8000,N/A,False
+56952,Blackjack-4,Transmitter,BPSK,2264.8000,N/A,False
+61047,Bluebird 01,Transmitter,GFSK,439.5000,N/A,False
+61047,Bluebird 01,Transmitter,BPSK,2225.0000,N/A,False
+61048,Bluebird 02,Transmitter,BPSK,2235.0000,N/A,False
+61048,Bluebird 02,Transmitter,GFSK,435.9000,N/A,False
+61045,Bluebird 03,Transmitter,BPSK,2225.0000,N/A,False
+61045,Bluebird 03,Transmitter,GFSK,434.1000,N/A,False
+61049,Bluebird 04,Transmitter,GFSK,432.3000,N/A,False
+61049,Bluebird 04,Transmitter,BPSK,2235.0000,N/A,False
+61046,Bluebird 05,Transmitter,FM,2235.0000,N/A,False
+61046,Bluebird 05,Transmitter,GFSK,430.5000,N/A,False
+61046,Bluebird 05,Transmitter,BPSK,2225.0000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,437.5000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,434.1000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,439.5000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,435.9000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,435.0000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,430.5000,N/A,False
+67232,Bluebird 06,Transmitter,GFSK,432.3000,N/A,False
+69589,Bluebird 08,Transmitter,FSK,439.5000,N/A,False
+69589,Bluebird 08,Transmitter,FM,434.1000,N/A,False
+69589,Bluebird 08,Transmitter,FM,432.3000,N/A,False
+69589,Bluebird 08,Transmitter,FM,435.9000,N/A,False
+69589,Bluebird 08,Transmitter,FM,430.5000,N/A,False
+69590,Bluebird 09,Transmitter,FSK,434.1000,N/A,False
+69591,Bluebird 10,Transmitter,FSK,435.9000,N/A,False
+63245,Buccaneer MM,Transmitter,FSK,400.8000,N/A,False
+44312,Bufeng-1A,Transmitter,FM,401.1260,N/A,False
+98312,BusanSat,Transmitter,FM,2261.9500,N/A,False
+98861,CAKRA-1,Transmitter,FM,2245.0000,N/A,False
+29108,CALIPSO,Transmitter,BPSK,2268.4670,N/A,False
+29108,CALIPSO,Transmitter,FM,8330.0000,N/A,False
+29108,CALIPSO,Transmitter,FM,2220.0000,N/A,False
+29108,CALIPSO,Transmitter,FM,8150.0000,N/A,False
+68635,CANVAS,Transmitter,OQPSK,2405.3000,N/A,False
+68635,CANVAS,Transceiver,GMSK,437.2500,437.2500,False
+40055,CANX-4,Transmitter,BPSK,145.8900,N/A,False
+40055,CANX-4,Transmitter,BPSK,2234.4000,N/A,False
+40056,CANX-5,Transmitter,BPSK,437.3650,N/A,False
+40056,CANX-5,Transmitter,BPSK,2234.4000,N/A,False
+40056,CANX-5,Transmitter,BPSK,145.8900,N/A,False
+31130,CAPE-1,Transmitter,CW,435.2450,N/A,False
+31130,CAPE-1,Transmitter,CW,435.2470,N/A,False
+31130,CAPE-1,Transmitter,FM,435.2450,N/A,False
+31130,CAPE-1,Transmitter,FM,435.2470,N/A,False
+40718,CARBONITE 1,Transmitter,BPSK,2240.0000,N/A,False
+98417,CARBSAR,Transmitter,FM,2243.3330,N/A,False
+41948,CARTOSAT 2D,Transmitter,BPSK,402.7610,N/A,False
+41948,CARTOSAT 2D,Transmitter,CW,2245.6870,N/A,False
+32783,CARTOSAT-2A,Transmitter,CW,2245.6780,N/A,False
+36795,CARTOSAT-2B,Transmitter,CW,2245.6870,N/A,False
+41599,CARTOSAT-2C,Transmitter,CW,2245.6870,N/A,False
+42767,CARTOSAT-2E,Transmitter,CW,2245.6870,N/A,False
+43111,CARTOSAT-2F,Transmitter,BPSK,2242.0000,N/A,False
+43111,CARTOSAT-2F,Transmitter,CW,2245.6870,N/A,False
+44804,CARTOSAT-3,Transmitter,CW,2224.8000,N/A,False
+44804,CARTOSAT-3,Transmitter,BPSK,2224.8000,N/A,False
+98533,CAS-11,Transceiver,GMSK,435.7000,145.8950,False
+98533,CAS-11,Transmitter,GMSK,435.6500,N/A,False
+98533,CAS-11,Transponder,FM,435.4975,0.0138,False
+98533,CAS-11,Transponder,FM,435.5250,145.8450,False
+98533,CAS-11,Transmitter,CW,435.5700,N/A,False
+98533,CAS-11,Transmitter,SSTV,2405.5000,N/A,False
+98533,CAS-11,Transmitter,SSTV,2405.5000,N/A,False
+98533,CAS-11,Transponder,FM,435.5960,145.9210,False
+98533,CAS-11,Transmitter,GMSK,435.6500,N/A,False
+98533,CAS-11,Transmitter,PPM,2405.5000,N/A,False
+98533,CAS-11,Transmitter,FT8,2405.5000,N/A,False
+98533,CAS-11,Transmitter,CW,2405.5000,N/A,False
+41847,CAS-2T & KS-1Q,Transmitter,CW,435.7100,N/A,False
+41847,CAS-2T & KS-1Q,Transceiver,FMN,435.6150,145.9250,False
+54684,CAS-5A,Transmitter,CW,29.4650,N/A,False
+44881,CAS-6 (TO-108),Transmitter,CW,145.9100,N/A,False
+44881,CAS-6 (TO-108),Transmitter,GMSK,145.8900,N/A,False
+44881,CAS-6 (TO-108),Transponder,USB,145.9150,435.2700,True
+44881,CAS-6 (TO-108),Transmitter,FM,401.5500,N/A,False
+44881,CAS-6 (TO-108),Transmitter,FM,2278.3280,N/A,False
+47932,CAS500-1,Transmitter,BPSK,2265.5000,N/A,False
+98483,CAS500-3,Transmitter,FM,2236.6890,N/A,False
+98483,CAS500-3,Transmitter,FM,8210.0000,N/A,False
+39265,CASSIOPE,Transmitter,CERTO,1066.7520,N/A,False
+39265,CASSIOPE,Transmitter,CERTO,400.0320,N/A,False
+39265,CASSIOPE,Transmitter,CERTO,150.0120,N/A,False
+32062,CBERS-2B,Transmitter,QPSK,8112.0000,N/A,False
+32062,CBERS-2B,Transmitter,USB,180.0100,N/A,False
+32062,CBERS-2B,Transmitter,FM,8320.0000,N/A,False
+40336,CBERS-4,Transmitter,FM,2217.1210,N/A,False
+44879,CBERS-4A,Transmitter,QPSK,2259.1250,N/A,False
+62579,CENTISPACE-1 S10,Transmitter,BPSK,2246.9630,N/A,False
+62579,CENTISPACE-1 S10,Transmitter,BPSK,2226.9630,N/A,False
+62581,CENTISPACE-1 S12,Transmitter,FM,2261.6000,N/A,False
+62582,CENTISPACE-1 S13,Transmitter,BPSK,2217.1200,N/A,False
+62585,CENTISPACE-1 S16,Transmitter,BPSK,2222.1610,N/A,False
+62576,CENTISPACE-1 S7,Transmitter,FM,2259.6800,N/A,False
+62578,CENTISPACE-1 S9,Transmitter,BPSK,2224.5600,N/A,False
+62578,CENTISPACE-1 S9,Transmitter,BPSK,2244.5600,N/A,False
+98526,CEVROSAT-1,Transceiver,GFSK,436.0250,436.0250,False
+98526,CEVROSAT-1,Transmitter,GFSK,436.0250,N/A,False
+43662,CFOSAT,Transmitter,FM,8304.0000,N/A,False
+43662,CFOSAT,Transmitter,FM,2262.4850,N/A,False
+61072,CHAMRAN-1,Transmitter,FSK,436.7400,N/A,False
+44874,CHEOPS,Transmitter,FM,2208.5000,N/A,False
+41338,CHUBUSAT-2,Transmitter,GMSK,437.1000,N/A,False
+41338,CHUBUSAT-2,Transmitter,CW,437.0940,N/A,False
+41338,CHUBUSAT-2,Transceiver,AFSK,N/A,145.8150,False
+41339,CHUBUSAT-3,Transmitter,CW,437.4230,N/A,False
+41339,CHUBUSAT-3,Transceiver,AFSK,N/A,145.8400,False
+41339,CHUBUSAT-3,Transmitter,GMSK,437.4250,N/A,False
+39426,CINEMA-3,Transmitter,FM,2200.0000,N/A,False
+64903,CO3D1,Transmitter,FM,2273.0000,N/A,False
+20322,COBE,Transmitter,FM,2287.5000,N/A,False
+59117,CONTECSAT-1,Transmitter,FM,2245.0000,N/A,False
+59117,CONTECSAT-1,Transmitter,GFSK,401.0500,N/A,False
+59117,CONTECSAT-1,Transmitter,FM,8110.0000,N/A,False
+59117,CONTECSAT-1,Transmitter,FM,2220.0000,N/A,False
+42847,CORVUS BC1,Transmitter,BPSK,2240.0000,N/A,False
+42846,CORVUS BC2,Transmitter,FM,401.2000,N/A,False
+43767,CORVUS BC4,Transmitter,FM,400.1750,N/A,False
+98494,COSMIC,Transceiver,GMSK,2249.5100,2030.4000,False
+68460,COSMO,Transmitter,OQPSK,2222.0000,N/A,False
+68460,COSMO,Transmitter,GMSK,401.2000,N/A,False
+22034,COSMOS 2197,Transmitter,FM,387.1748,N/A,False
+39059,COSMOS 2484,Transmitter,FM,388.6873,N/A,False
+39059,COSMOS 2484,Transmitter,FM,387.1748,N/A,False
+39483,COSMOS 2488,Transmitter,FM,388.6873,N/A,False
+39483,COSMOS 2488,Transmitter,FM,387.1748,N/A,False
+39484,COSMOS 2489,Transmitter,FM,265.9501,N/A,False
+39484,COSMOS 2489,Transmitter,FM,388.6873,N/A,False
+39484,COSMOS 2489,Transmitter,FM,387.1748,N/A,False
+39485,COSMOS 2490,Transmitter,FM,388.6870,N/A,False
+39485,COSMOS 2490,Transmitter,FM,387.1748,N/A,False
+39497,COSMOS 2491,Transmitter,CW,435.4650,N/A,False
+39497,COSMOS 2491,Transmitter,CW,435.5650,N/A,False
+39497,COSMOS 2491,Transmitter,FM,435.5650,N/A,False
+39497,COSMOS 2491,Transmitter,FM,435.4650,N/A,False
+39761,COSMOS 2496,Transmitter,FM,387.1748,N/A,False
+39761,COSMOS 2496,Transmitter,,388.6870,N/A,False
+39761,COSMOS 2496,Transmitter,FM,388.1873,N/A,False
+39765,COSMOS 2499,Transmitter,FM,435.4650,N/A,False
+39765,COSMOS 2499,Transmitter,FM,435.5650,N/A,False
+41579,COSMOS 2517 (GEO-IK),Transmitter,BPSK,2232.0000,N/A,False
+44421,COSMOS 2535,Transmitter,FM,2281.0080,N/A,False
+53323,COSMOS 2558,Transmitter,BPSK,2266.0000,N/A,False
+53323,COSMOS 2558,Transmitter,FM,2284.0000,N/A,False
+59773,COSMOS 2576,Transmitter,FM,2283.9980,N/A,False
+62902,COSMOS 2581,Transmitter,FM,2284.0000,N/A,False
+62903,COSMOS 2582,Transmitter,FM,2280.0000,N/A,False
+62904,COSMOS 2583,Transmitter,FM,2280.0000,N/A,False
+64095,COSMOS 2588,Transmitter,FM,2283.9970,N/A,False
+38763,CP5,Transmitter,AFSK,437.4050,N/A,False
+39471,CP8,Transmitter,FSK AX.25 G3RUH,437.2700,N/A,False
+58022,CSC-1,Transmitter,BPSK,2213.3000,N/A,False
+58022,CSC-1,Transmitter,BPSK,401.1750,N/A,False
+58022,CSC-1,Transmitter,FM,2245.0000,N/A,False
+58021,CSC-2,Transmitter,BPSK,401.2500,N/A,False
+58021,CSC-2,Transmitter,FM,2245.0000,N/A,False
+47305,CSO 2,Transmitter,BPSK,2205.9230,N/A,False
+48274,CSS (Tianhe),Transmitter,FM,2224.0750,N/A,False
+48274,CSS (Tianhe),Transceiver,SSTV,436.5100,435.0500,False
+48274,CSS (Tianhe),Transceiver,AFSK,437.5500,437.5500,False
+48274,CSS (Tianhe),Transceiver,AFSK,145.8250,145.8250,False
+48274,CSS (Tianhe),Transceiver,FMN,145.9850,435.0750,False
+48274,CSS (Tianhe),Transceiver,FMN,436.5100,145.8750,False
+48274,CSS (Tianhe),Transceiver,FMN,436.5100,435.0500,False
+48274,CSS (Tianhe),Transceiver,FMN,145.9850,145.8500,False
+48274,CSS (Tianhe),Transmitter,FM,2208.7220,N/A,False
+48274,CSS (Tianhe),Transmitter,FM,2250.7200,N/A,False
+48274,CSS (Tianhe),Transmitter,FM,2232.2200,N/A,False
+48274,CSS (Tianhe),Transceiver,SSTV,145.9850,145.8500,False
+38761,CSSWE,Transmitter,FSK AX.25 G3RUH,437.3490,N/A,False
+57202,CSTP-1.1,Transmitter,LoRa,436.0750,N/A,False
+57186,CSTP-1.2,Transmitter,LoRa,436.2700,N/A,False
+98769,CSTP-2.1,Transmitter,FSK,437.4850,N/A,False
+98769,CSTP-2.1,Transmitter,LoRa,437.4850,N/A,False
+98767,CSTP-2.11,Transmitter,LoRa,435.9500,N/A,False
+98767,CSTP-2.11,Transmitter,FSK,437.9850,N/A,False
+98767,CSTP-2.11,Transmitter,LoRa,437.9850,N/A,False
+98768,CSTP-2.2,Transmitter,FSK,437.0500,N/A,False
+98768,CSTP-2.2,Transmitter,LoRa,437.0500,N/A,False
+64895,CSTP-4.1,Transmitter,LoRa,436.7250,N/A,False
+64883,CSTP-4.2,Transmitter,LoRa,437.1620,N/A,False
+64882,CSTP-4.3,Transmitter,LoRa,435.5750,N/A,False
+62401,CTC-0,Transmitter,GFSK,401.5000,N/A,False
+62401,CTC-0,Transmitter,4FSK,2240.5000,N/A,False
+62401,CTC-0,Transmitter,QPSK,2185.0000,N/A,False
+98482,CTC-1A,Transmitter,GMSK,2245.0000,N/A,False
+98482,CTC-1A,Transmitter,GFSK,401.5000,N/A,False
+98482,CTC-1A,Transmitter,64-QAM,2185.0000,N/A,False
+98482,CTC-1A,Transmitter,64-QAM,2245.0000,N/A,False
+98481,CTC-1B,Transmitter,64-QAM,2245.0000,N/A,False
+98481,CTC-1B,Transmitter,GMSK,2245.0000,N/A,False
+98481,CTC-1B,Transmitter,GFSK,401.5000,N/A,False
+98481,CTC-1B,Transmitter,64-QAM,2185.0000,N/A,False
+98480,CTC-1C,Transmitter,GFSK,401.5000,N/A,False
+98480,CTC-1C,Transmitter,GMSK,2245.0000,N/A,False
+98480,CTC-1C,Transmitter,64-QAM,2185.0000,N/A,False
+98480,CTC-1C,Transmitter,64-QAM,2245.0000,N/A,False
+60527,CUAVA-2,Transmitter,BPSK,400.6500,N/A,False
+57175,CUBEBEL-2,Transmitter,FM,2425.0000,N/A,False
+57175,CUBEBEL-2,Transmitter,FSK,436.9900,N/A,False
+39153,CUBEBUG-1,Transmitter,AFSK,437.4450,N/A,False
+39440,CUBEBUG-2,Transmitter,AFSK,437.4450,N/A,False
+39440,CUBEBUG-2,Transmitter,FSK,437.4450,N/A,False
+27848,CUBESAT XI-IV,Transmitter,CW,436.8475,N/A,False
+27848,CUBESAT XI-IV,Transmitter,AFSK,437.4900,N/A,False
+27848,CUBESAT XI-IV,Transmitter,CW,436.8487,N/A,False
+28895,CUBESAT XI-V,Transmitter,CW,437.4631,N/A,False
+98879,CURIE,Transmitter,FSK,2395.0000,N/A,False
+98879,CURIE,Transmitter,GFSK,916.0000,N/A,False
+49263,CUTE,Transmitter,GFSK,437.2500,N/A,False
+27844,CUTE-1,Transmitter,CW,436.8375,N/A,False
+27844,CUTE-1,Transmitter,AFSK,437.4700,N/A,False
+27844,CUTE-1,Transmitter,CW,436.8358,N/A,False
+32785,CUTE-1.7+APD II,Transmitter,AFSK,437.4750,N/A,False
+32785,CUTE-1.7+APD II,Transceiver,GMSK,437.4750,1267.6000,False
+32785,CUTE-1.7+APD II,Transmitter,CW,437.2746,N/A,False
+32785,CUTE-1.7+APD II,Transmitter,CW,437.2750,N/A,False
+43656,CZ-4B R/B,Transmitter,FM,432.0836,N/A,False
+43012,CZ-4C R/B,Transmitter,FSK,436.3600,N/A,False
+43012,CZ-4C R/B,Transmitter,FM,435.9650,N/A,False
+43012,CZ-4C R/B,Transmitter,FM,437.5090,N/A,False
+43012,CZ-4C R/B,Transmitter,FSK,437.0800,N/A,False
+52085,CZ-4C R/B,Transmitter,FM,401.5500,N/A,False
+43012,CZ-4C R/B,Transmitter,FM,437.5290,N/A,False
+43012,CZ-4C R/B,Transmitter,FM,437.5490,N/A,False
+52085,CZ-4C R/B,Transmitter,FM,400.0060,N/A,False
+60246,CatSat,Transmitter,FSK AX.100 Mode 5,437.1850,N/A,False
+59451,Centauri 6,Transmitter,FSK,400.1800,N/A,False
+62708,Centauri 7,Transmitter,BPSK,2255.0000,N/A,False
+62708,Centauri 7,Transmitter,FSK,400.2200,N/A,False
+62714,Centauri 8,Transmitter,BPSK,2275.0000,N/A,False
+62714,Centauri 8,Transmitter,FSK,400.2200,N/A,False
+43809,Centauri-1,Transmitter,FSK,400.6250,N/A,False
+53757,CentiSpace-1 S3,Transmitter,FM,1575.4200,N/A,False
+53757,CentiSpace-1 S3,Transmitter,FM,1176.4500,N/A,False
+54021,CentiSpace-1 S6,Transmitter,FM,1176.4500,N/A,False
+54021,CentiSpace-1 S6,Transmitter,FM,2209.9450,N/A,False
+54021,CentiSpace-1 S6,Transmitter,FM,1575.4200,N/A,False
+62580,Centispace-1 S11,Transmitter,FM,2234.8750,N/A,False
+62580,Centispace-1 S11,Transmitter,FM,2226.9550,N/A,False
+53758,Centispace-1 S4,Transmitter,FM,1575.4100,N/A,False
+53758,Centispace-1 S4,Transmitter,FM,2220.0000,N/A,False
+54020,Centispace-1 S5,Transmitter,BPSK,2207.5200,N/A,False
+33434,Chuang Xin 1-02,Transmitter,FM,2249.9900,N/A,False
+63227,Clarity-1,Transmitter,FM,2223.0000,N/A,False
+63227,Clarity-1,Transmitter,FM,8200.0000,N/A,False
+29107,CloudSat,Transmitter,BPSK,2217.5000,N/A,False
+29107,CloudSat,Transmitter,BPSK,2262.3050,N/A,False
+26463,Cluster II FM5,Transmitter,FM,2256.0080,N/A,False
+26411,Cluster II FM7,Transmitter,FM,2270.0000,N/A,False
+26410,Cluster II FM7,Transmitter,FM,2277.0000,N/A,False
+26464,Cluster II FM8,Transmitter,FM,2277.5030,N/A,False
+26464,Cluster II FM8,Transmitter,FM,2249.0060,N/A,False
+67685,CoRAL,Transmitter,MSK AX.100 Mode 5,401.1400,N/A,False
+61746,Colibri-S,Transmitter,GFSK,436.8350,N/A,False
+61746,Colibri-S,Transmitter,DVB-S2,10475.0000,N/A,False
+61746,Colibri-S,Transmitter,CW,436.8350,N/A,False
+55012,Connecta T1.2,Transmitter,GFSK,401.5250,N/A,False
+55012,Connecta T1.2,Transmitter,GMSK,2223.0000,N/A,False
+60472,ConnectaIoT-1,Transmitter,BPSK,2240.0000,N/A,False
+60472,ConnectaIoT-1,Transmitter,GMSK,401.5100,N/A,False
+64555,ConnectaIoT-10,Transmitter,GMSK,401.5200,N/A,False
+64555,ConnectaIoT-10,Transmitter,GMSK,2240.0000,N/A,False
+64557,ConnectaIoT-11,Transmitter,GMSK,401.5300,N/A,False
+64553,ConnectaIoT-12,Transmitter,GMSK,2240.0000,N/A,False
+64553,ConnectaIoT-12,Transmitter,GMSK,401.5400,N/A,False
+98457,ConnectaIoT-13,Transmitter,GMSK,401.5100,N/A,False
+98458,ConnectaIoT-14,Transmitter,FM,2240.0000,N/A,False
+98458,ConnectaIoT-14,Transmitter,GMSK,401.5200,N/A,False
+98459,ConnectaIoT-15,Transmitter,GMSK,401.5300,N/A,False
+98460,ConnectaIoT-16,Transmitter,GMSK,401.5400,N/A,False
+60522,ConnectaIoT-2,Transmitter,GMSK,401.5200,N/A,False
+60475,ConnectaIoT-3,Transmitter,GMSK,401.5300,N/A,False
+60475,ConnectaIoT-3,Transmitter,FM,2240.0000,N/A,False
+60524,ConnectaIoT-4,Transmitter,LoRa,869.5250,N/A,False
+60524,ConnectaIoT-4,Transmitter,FM,2240.0000,N/A,False
+60524,ConnectaIoT-4,Transmitter,GMSK,401.5400,N/A,False
+62703,ConnectaIoT-5,Transmitter,GMSK,2240.0000,N/A,False
+62703,ConnectaIoT-5,Transmitter,GMSK,401.5100,N/A,False
+62709,ConnectaIoT-6,Transmitter,GMSK,401.5200,N/A,False
+62709,ConnectaIoT-6,Transmitter,GMSK,2240.0000,N/A,False
+62715,ConnectaIoT-7,Transmitter,GMSK,401.5300,N/A,False
+62715,ConnectaIoT-7,Transmitter,GMSK,2240.0000,N/A,False
+62695,ConnectaIoT-8,Transmitter,GMSK,401.5400,N/A,False
+62695,ConnectaIoT-8,Transmitter,GMSK,2240.0000,N/A,False
+64534,ConnectaIoT-9,Transmitter,FM,2240.0000,N/A,False
+64534,ConnectaIoT-9,Transmitter,GMSK,401.5100,N/A,False
+98468,ContentCube,Transmitter,GMSK,437.0200,N/A,False
+27640,Coriolis,Transmitter,BPSK,2221.5100,N/A,False
+27640,Coriolis,Transmitter,QPSK,8075.0000,N/A,False
+27640,Coriolis,Transmitter,FM,2212.5040,N/A,False
+27640,Coriolis,Transmitter,FM,2222.5280,N/A,False
+28380,Cosmos 2407,Transmitter,CW,399.9200,N/A,False
+28380,Cosmos 2407,Transmitter,FSK,149.9700,N/A,False
+28521,Cosmos 2414,Transmitter,CW,399.9200,N/A,False
+28521,Cosmos 2414,Transmitter,FSK,149.9700,N/A,False
+36519,Cosmos 2463,Transmitter,FSK,149.9400,N/A,False
+36519,Cosmos 2463,Transmitter,CW,399.8400,N/A,False
+54109,Cosmos 2561,Transmitter,FM,2280.0000,N/A,False
+58435,Cosmos 2572,Transmitter,BPSK,2285.0000,N/A,False
+62394,CroCube,Transceiver,GFSK,436.7750,436.7750,False
+62394,CroCube,Transmitter,CW,436.7750,N/A,False
+62394,CroCube,Transmitter,GFSK,436.7750,N/A,False
+36508,CryoSat-2,Transmitter,,2201.0000,N/A,False
+98973,Crypto3,Transmitter,FM,1622.6100,N/A,False
+98973,Crypto3,Transmitter,FM,2260.0000,N/A,False
+99511,CuPID,Transmitter,GFSK,400.5000,N/A,False
+57178,CubeSX-HSE-3,Transmitter,GMSK USP,436.5700,N/A,False
+60242,Curium One,Transmitter,GMSK,436.2400,N/A,False
+98528,CyBEEsat,Transmitter,GMSK,137.5000,N/A,False
+42794,D-SAT,Transmitter,CW,437.5050,N/A,False
+42794,D-SAT,Transmitter,FM,437.5090,N/A,False
+42794,D-SAT,Transmitter,FSK,437.5050,N/A,False
+43881,D-Star ONE Sparrow,Transmitter,GMSK,435.7000,N/A,False
+43881,D-Star ONE Sparrow,Transceiver,DSTAR,435.5250,437.3250,False
+43879,D-Star ONE iSat,Transmitter,GMSK,435.7000,N/A,False
+43879,D-Star ONE iSat,Transceiver,DSTAR,435.5250,437.3250,False
+41173,DAMPE,Transmitter,FM,2227.4480,N/A,False
+52257,DAQI 1,Transmitter,FM,2236.0790,N/A,False
+68760,DAQI-2,Transmitter,UNKNOWN,2288.8750,N/A,False
+68760,DAQI-2,Transmitter,UNKNOWN,2228.1800,N/A,False
+99331,DART,Transmitter,FM,8437.5000,N/A,False
+98432,DCS-1,Transmitter,GMSK USP,401.1500,N/A,False
+98416,DCUBED-1,Transmitter,FM,435.2250,N/A,False
+35681,DEIMOS 1,Transmitter,FM,2240.0000,N/A,False
+40013,DEIMOS 2,Transmitter,BPSK,2224.0020,N/A,False
+46493,DEKART,Transmitter,GMSK,437.0000,N/A,False
+39428,DELFI-N3XT,Transmitter,BPSK,145.9300,N/A,False
+39428,DELFI-N3XT,Transmitter,MSK,2405.0000,N/A,False
+39428,DELFI-N3XT,Transmitter,BPSK,145.8700,N/A,False
+40719,DEORBITSAIL,Transmitter,BPSK,145.9737,N/A,False
+40719,DEORBITSAIL,Transmitter,BPSK,145.9750,N/A,False
+98842,DIONE,Transmitter,FM,2273.7600,N/A,False
+98381,DISCO-2,Transmitter,GMSK,437.0750,N/A,False
+98381,DISCO-2,Transmitter,GMSK,2432.5000,N/A,False
+43678,DIWATA-2,Transceiver,FM,145.9000,437.5000,False
+43678,DIWATA-2,Transmitter,CW,145.9000,N/A,False
+43678,DIWATA-2,Transmitter,FM,2284.9910,N/A,False
+62402,DJIBOUTI-1B,Transmitter,GMSK,401.8000,N/A,False
+35683,DMC 2,Transmitter,BPSK,2233.3374,N/A,False
+40715,DMC 3-FM1,Transmitter,BPSK,2230.0061,N/A,False
+40715,DMC 3-FM1,Transmitter,FM,8212.5000,N/A,False
+40716,DMC 3-FM2,Transmitter,BPSK,2233.3366,N/A,False
+40716,DMC 3-FM2,Transmitter,FM,8212.5000,N/A,False
+40717,DMC 3-FM3,Transmitter,FM,8212.5000,N/A,False
+40717,DMC 3-FM3,Transmitter,BPSK,2236.6670,N/A,False
+25991,DMSP 5D-2 F15,Transmitter,CW,400.0320,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,FM,2232.5000,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,FM,2249.5000,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,BPSK,2238.5000,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,FM,400.8220,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,FM,400.3280,N/A,False
+29522,DMSP 5D-3 F17,Transmitter,FM,2252.5000,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,FM,400.3280,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,FM,400.8220,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,FM,2208.4820,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,FM,2252.5000,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,FM,2254.4890,N/A,False
+35951,DMSP 5D-3 F18,Transmitter,BPSK,2267.5070,N/A,False
+28054,DMSP 5F-3 (USA 172),Transmitter,BPSK,2207.5100,N/A,False
+28054,DMSP 5F-3 (USA 172),Transmitter,FM,2212.8340,N/A,False
+44909,DOSAAF-85,Transponder,USB,435.6100,145.9350,True
+44909,DOSAAF-85,Transmitter,FSK,435.3150,N/A,False
+44909,DOSAAF-85,Transmitter,BPSK,435.6600,N/A,False
+44909,DOSAAF-85,Transmitter,CW,435.6050,N/A,False
+44909,DOSAAF-85,Transmitter,DOKA,435.2150,N/A,False
+63223,DROID.002,Transmitter,FM,2240.0000,N/A,False
+63223,DROID.002,Transmitter,FM,8210.0000,N/A,False
+63223,DROID.002,Transmitter,FM,2243.0000,N/A,False
+40030,DTUSAT-2,Transmitter,MSK,2401.8350,N/A,False
+40021,DUCHIFAT-1,Transmitter,BPSK,145.9800,N/A,False
+40021,DUCHIFAT-1,Transmitter,CW,145.9800,N/A,False
+40021,DUCHIFAT-1,Transmitter,BPSK,145.9814,N/A,False
+98592,DUTHSat-2,Transmitter,GMSK,2280.0000,N/A,False
+40071,DX1,Transmitter,FM,2270.0000,N/A,False
+40071,DX1,Transmitter,GFSK,438.2260,N/A,False
+40071,DX1,Transmitter,GFSK,438.2250,N/A,False
+98376,DecimalSat-1,Transmitter,CW,436.6000,N/A,False
+98376,DecimalSat-1,Transmitter,GFSK,436.6000,N/A,False
+60526,Deimos,Transmitter,GMSK,400.3000,N/A,False
+60526,Deimos,Transmitter,FM,400.2000,N/A,False
+43834,Douyu-666,Transmitter,FSK,400.1620,N/A,False
+64542,Dragoon,Transmitter,FM,2225.7000,N/A,False
+64542,Dragoon,Transmitter,BPSK,2225.7000,N/A,False
+98313,Drishti,Transmitter,FM,2240.0000,N/A,False
+98313,Drishti,Transmitter,FSK AX.100 Mode 5,400.2000,N/A,False
+98313,Drishti,Transmitter,FSK,400.2000,N/A,False
+56965,Droid.001,Transmitter,FM,8212.5000,N/A,False
+56965,Droid.001,Transmitter,BPSK,2220.0000,N/A,False
+98486,E3_TESTER_KARI-1,Transmitter,FM,2256.0000,N/A,False
+62610,EDISON-1,Transmitter,BPSK,2256.0000,N/A,False
+46267,EG 1,Transmitter,FM,401.2000,N/A,False
+48892,EG 3,Transmitter,FSK,401.2000,N/A,False
+62677,ELEVATION-1,Transmitter,FM,2245.5000,N/A,False
+62677,ELEVATION-1,Transmitter,FSK,400.2000,N/A,False
+48271,ELO ALPHA,Transmitter,FM,401.7600,N/A,False
+98362,EMISAR,Transmitter,GFSK,401.3340,N/A,False
+52159,ENMAP,Transmitter,BPSK,2268.0000,N/A,False
+99215,EOSSAT-1,Transmitter,FM,2245.0000,N/A,False
+99215,EOSSAT-1,Transmitter,BPSK,2230.3000,N/A,False
+63100,EPIC CHIMERA GEO 1,Transmitter,GMSK,2264.0000,N/A,False
+63100,EPIC CHIMERA GEO 1,Transmitter,GMSK,2240.0000,N/A,False
+63100,EPIC CHIMERA GEO 1,Transmitter,GMSK,2221.0000,N/A,False
+99209,EPIC CHIMERA LEO 1,Transmitter,GFSK,401.8000,N/A,False
+68468,ERMIS-1,Transmitter,FSK AX.100 Mode 5,401.5500,N/A,False
+68468,ERMIS-1,Transmitter,FM,2218.0000,N/A,False
+68420,ERMIS-2,Transmitter,FSK AX.100 Mode 5,401.2500,N/A,False
+68420,ERMIS-2,Transmitter,FM,2218.0000,N/A,False
+98367,ERMIS-3,Transmitter,FSK AX.100 Mode 5,401.3125,N/A,False
+98367,ERMIS-3,Transmitter,FM,2218.0000,N/A,False
+98367,ERMIS-3,Transmitter,FM,8366.6500,N/A,False
+60528,ERNST,Transmitter,FM,8356.0000,N/A,False
+60528,ERNST,Transmitter,FSK AX.100 Mode 5,401.1000,N/A,False
+2768,ERS 20 (OV5-3),Transmitter,USB,136.2600,N/A,False
+2412,ERS-15,Transmitter,CW,136.4390,N/A,False
+43792,ESEO,Transmitter,GMSK,437.0000,N/A,False
+43792,ESEO,Transceiver,FM,145.8950,1263.5000,False
+43792,ESEO,Transmitter,BPSK,145.8950,N/A,False
+43792,ESEO,Transmitter,GMSK,437.0000,N/A,False
+43792,ESEO,Transmitter,BPSK,145.8950,N/A,False
+39161,ESTCUBE 1,Transmitter,CW,437.2500,N/A,False
+39161,ESTCUBE 1,Transmitter,FSK,437.5050,N/A,False
+98485,ETRISat,Transmitter,FM,2207.7330,N/A,False
+98485,ETRISat,Transmitter,LoRa,916.0000,N/A,False
+98485,ETRISat,Transmitter,FM,2252.5840,N/A,False
+51060,ETV-A1,Transmitter,BPSK,2210.7430,N/A,False
+51060,ETV-A1,Transmitter,BPSK,401.0500,N/A,False
+51060,ETV-A1,Transmitter,BPSK,2224.7650,N/A,False
+43807,EUCROPIS,Transmitter,FM,2263.0070,N/A,False
+59175,EXO-0,Transmitter,GMSK,401.3600,N/A,False
+22825,EYESAT-1,Transmitter,AFSK,436.7950,N/A,False
+22825,EYESAT-1,Transceiver,FM,436.7950,145.8500,False
+22825,EYESAT-1,Transmitter,GMSK,436.7970,N/A,False
+22825,EYESAT-1,Transmitter,FM,2218.0000,N/A,False
+63247,EZIE-A,Transmitter,FM,2217.5000,N/A,False
+63247,EZIE-A,Transmitter,FM,2210.9000,N/A,False
+63247,EZIE-A,Transmitter,FM,2268.1000,N/A,False
+63250,EZIE-B,Transmitter,FM,2268.1000,N/A,False
+63250,EZIE-B,Transmitter,FM,2217.5000,N/A,False
+63250,EZIE-B,Transmitter,FM,2210.9000,N/A,False
+63249,EZIE-C,Transmitter,FM,2217.5000,N/A,False
+63249,EZIE-C,Transmitter,FM,2268.1000,N/A,False
+63249,EZIE-C,Transmitter,FM,2210.9000,N/A,False
+60508,EagleEye,Transmitter,FM,8200.0000,N/A,False
+60508,EagleEye,Transmitter,FM,2268.0000,N/A,False
+43790,Eaglet 1,Transmitter,BPSK,435.2000,N/A,False
+43790,Eaglet 1,Transmitter,GMSK,435.8000,N/A,False
+44047,Egyptsat A,Transmitter,FM,2270.5060,N/A,False
+37344,Elektro-L 1,Transmitter,FSK,1693.0000,N/A,False
+41105,Elektro-L 2,Transmitter,FM,7502.0000,N/A,False
+41105,Elektro-L 2,Transmitter,FM,1544.5000,N/A,False
+41105,Elektro-L 2,Transmitter,FSK,1693.0000,N/A,False
+44903,Elektro-L 3,Transmitter,BPSK,1544.5000,N/A,False
+44903,Elektro-L 3,Transmitter,BPSK,1693.0000,N/A,False
+44903,Elektro-L 3,Transmitter,BPSK PMT-A3,1697.0000,N/A,False
+44903,Elektro-L 3,Transmitter,FM,7500.0000,N/A,False
+44903,Elektro-L 3,Transmitter,FM,3405.7030,N/A,False
+44903,Elektro-L 3,Transmitter,FM,465.0000,N/A,False
+44903,Elektro-L 3,Transmitter,BPSK,1691.0000,N/A,False
+67756,Elektro-L 5,Transmitter,BPSK,1691.0000,N/A,False
+67756,Elektro-L 5,Transmitter,FM,465.0000,N/A,False
+44078,Emisat,Transmitter,FM,2255.1410,N/A,False
+29079,Eros B,Transmitter,FM,2295.0010,N/A,False
+43700,Es'hail 2,Transponder,BPSK,10489.7450,N/A,False
+43700,Es'hail 2,Transponder,FM,10489.9950,N/A,False
+43700,Es'hail 2,Transmitter,CW,10489.5030,N/A,False
+43700,Es'hail 2,Transmitter,OFDM,10489.6350,N/A,False
+43700,Es'hail 2,Transponder,BPSK,10489.7450,N/A,False
+43700,Es'hail 2,Transponder,BPSK,10489.7950,N/A,False
+43700,Es'hail 2,Transponder,CW,10489.5050,2400.0050,False
+43700,Es'hail 2,Transponder,FM,10489.5400,2400.0400,False
+43700,Es'hail 2,Transponder,FM,10489.5800,2400.0800,False
+43700,Es'hail 2,Transponder,FM,10489.6500,2400.1500,False
+43700,Es'hail 2,Transponder,FM,10489.7550,2400.2550,False
+43700,Es'hail 2,Transmitter,OFDM,10489.6350,N/A,False
+43700,Es'hail 2,Transceiver,USB,10489.8600,2400.3600,False
+43700,Es'hail 2,Transponder,CW,10489.9950,N/A,False
+43700,Es'hail 2,Transponder,FM,10489.8500,2400.3500,False
+99076,Euclid,Transmitter,FM,8454.9305,N/A,False
+18351,Eutelsat I F-4,Transmitter,BPSK,137.1410,N/A,False
+18351,Eutelsat I F-4,Transmitter,CW,137.1410,N/A,False
+99914,ExseedSat 1,Transceiver,AFSK,145.9000,435.3400,False
+99914,ExseedSat 1,Transceiver,FM,145.9000,435.3400,False
+98315,Eycore-1,Transmitter,FM,401.0500,N/A,False
+98315,Eycore-1,Transmitter,FM,2277.5000,N/A,False
+58291,FALCONSAT-10,Transmitter,FM,2287.9820,N/A,False
+43491,FENGYUN 2H,Transmitter,CW,1702.5000,N/A,False
+43491,FENGYUN 2H,Transmitter,BPSK,1690.5000,N/A,False
+43491,FENGYUN 2H,Transmitter,BPSK,1687.5000,N/A,False
+32958,FENGYUN 3A,Transmitter,QPSK,8145.9500,N/A,False
+32958,FENGYUN 3A,Transmitter,AHRPT,1704.5000,N/A,False
+32958,FENGYUN 3A,Transmitter,AHRPT,1704.5000,N/A,False
+32958,FENGYUN 3A,Transmitter,FM,2264.6300,N/A,False
+32958,FENGYUN 3A,Transmitter,PSK,7775.0000,N/A,False
+37214,FENGYUN 3B,Transmitter,QPSK,8145.9500,N/A,False
+39260,FENGYUN 3C,Transmitter,AHRPT,1701.4000,N/A,False
+39260,FENGYUN 3C,Transmitter,QPSK,8175.0000,N/A,False
+39260,FENGYUN 3C,Transmitter,FM,2252.8920,N/A,False
+39260,FENGYUN 3C,Transmitter,AHRPT,1701.3000,N/A,False
+39260,FENGYUN 3C,Transmitter,FM,7780.0000,N/A,False
+39260,FENGYUN 3C,Transmitter,BPSK,2218.5657,N/A,False
+57490,FENGYUN 3F,Transmitter,AHRPT,7790.0000,N/A,False
+57490,FENGYUN 3F,Transmitter,BPSK,2264.6410,N/A,False
+57490,FENGYUN 3F,Transmitter,FM,8212.5000,N/A,False
+57490,FENGYUN 3F,Transmitter,FM,2246.4030,N/A,False
+65320,FFLY-1,Transmitter,FM,2243.0000,N/A,False
+65322,FFLY-2,Transmitter,FM,2243.0000,N/A,False
+98360,FGN 100 D3,Transmitter,FM,2253.0000,N/A,False
+98360,FGN 100 D3,Transmitter,FM,2280.0000,N/A,False
+98687,FGN-100-D1,Transmitter,FM,2253.0000,N/A,False
+98687,FGN-100-D1,Transmitter,FM,2280.0000,N/A,False
+39464,FIREBIRD-B,Transmitter,FSK AX.25 G3RUH,437.2300,N/A,False
+62701,FIREFLY-1,Transmitter,FM,8100.0000,N/A,False
+62701,FIREFLY-1,Transmitter,FM,2243.0000,N/A,False
+62704,FIREFLY-2,Transmitter,FM,2243.0000,N/A,False
+62704,FIREFLY-2,Transmitter,FM,8100.0000,N/A,False
+62710,FIREFLY-3,Transmitter,FM,2238.0000,N/A,False
+62710,FIREFLY-3,Transmitter,FM,8100.0000,N/A,False
+62710,FIREFLY-3,Transmitter,FM,2248.0000,N/A,False
+98629,FIRESAT-0,Transmitter,BPSK,2208.0000,N/A,False
+98629,FIRESAT-0,Transmitter,FM,8390.0000,N/A,False
+98629,FIRESAT-0,Transmitter,FM,8385.0000,N/A,False
+98629,FIRESAT-0,Transmitter,FM,8205.0000,N/A,False
+43120,FLOCK 3P'-2,Transmitter,GFSK,401.3000,N/A,False
+58270,FLOCK 4Q 1,Transmitter,DVB-S2,8150.0000,N/A,False
+58270,FLOCK 4Q 1,Transmitter,GFSK,401.3000,N/A,False
+58303,FLOCK 4Q 25,Transmitter,FM,401.3340,N/A,False
+42831,FLYING LAPTOP,Transmitter,QPSK,2408.0000,N/A,False
+42831,FLYING LAPTOP,Transmitter,BPSK,2263.5000,N/A,False
+40320,FO-82,Transponder,LSB,435.2600,145.9400,True
+40320,FO-82,Transmitter,WSJT,437.3850,N/A,False
+40320,FO-82,Transmitter,CW,437.5050,N/A,False
+44349,FORMOSAT 7-1,Transmitter,CW,400.9000,N/A,False
+44351,FORMOSAT 7-2,Transmitter,CW,400.9000,N/A,False
+44351,FORMOSAT 7-2,Transmitter,FM,2200.2700,N/A,False
+44351,FORMOSAT 7-2,Transmitter,FM,2264.0000,N/A,False
+44343,FORMOSAT 7-3,Transmitter,CW,400.9000,N/A,False
+44350,FORMOSAT 7-4,Transmitter,FM,2200.2700,N/A,False
+44350,FORMOSAT 7-4,Transmitter,CW,400.9000,N/A,False
+44350,FORMOSAT 7-4,Transmitter,FM,2264.0000,N/A,False
+44358,FORMOSAT 7-5,Transmitter,CW,400.9000,N/A,False
+44353,FORMOSAT 7-6,Transmitter,CW,400.9000,N/A,False
+42920,FORMOSAT-5,Transmitter,FM,2215.0000,N/A,False
+42920,FORMOSAT-5,Transmitter,FM,401.0510,N/A,False
+24920,FORTE,Transmitter,BPSK,401.5700,N/A,False
+24920,FORTE,Transmitter,CW,401.5680,N/A,False
+62686,FOSSASAT-2E18,Transmitter,LoRa,401.7000,N/A,False
+62676,FOSSASAT-2E19,Transmitter,LoRa,401.7000,N/A,False
+63003,FOSSASAT-2E20,Transmitter,LoRa,401.7000,N/A,False
+64536,FOSSASAT-2E21,Transmitter,LoRa,401.7000,N/A,False
+98351,FOSSASAT-2E25,Transmitter,LoRa,401.7000,N/A,False
+43017,FOX-1B,Transceiver,FM,145.9600,435.2500,False
+43017,FOX-1B,Transmitter,DUV,145.9600,N/A,False
+43770,FOX-1C,Transmitter,AFSK,145.9200,N/A,False
+43770,FOX-1C,Transmitter,DUV,145.9200,N/A,False
+98914,FRAMSAT-1,Transmitter,FSK,435.1410,N/A,False
+98326,FSI-SAT2,Transmitter,CW,437.1750,N/A,False
+98326,FSI-SAT2,Transmitter,GMSK,437.1750,N/A,False
+39444,FUNCUBE-1,Transmitter,BPSK,145.9350,N/A,False
+39444,FUNCUBE-1,Transmitter,CW,145.8150,N/A,False
+39444,FUNCUBE-1,Transponder,USB,145.9500,435.1300,True
+98681,FUSSION-1,Transmitter,FM,8055.0000,N/A,False
+98681,FUSSION-1,Transmitter,FM,922.0000,N/A,False
+98681,FUSSION-1,Transmitter,FM,2277.3000,N/A,False
+48924,Faraday Phoenix,Transmitter,FSK AX.100 Mode 5,401.1500,N/A,False
+43010,FengYun 3D,Transmitter,BPSK,2246.4030,N/A,False
+43010,FengYun 3D,Transmitter,AHRPT,7820.0000,N/A,False
+43010,FengYun 3D,Transmitter,BPSK,2264.6430,N/A,False
+49008,FengYun 3E,Transmitter,BPSK,2252.8813,N/A,False
+49008,FengYun 3E,Transmitter,FM,8212.5000,N/A,False
+49008,FengYun 3E,Transmitter,FM,2218.5390,N/A,False
+49008,FengYun 3E,Transmitter,AHRPT,7860.0000,N/A,False
+67246,FengYun 4C,Transmitter,BPSK,1681.0000,N/A,False
+67246,FengYun 4C,Transmitter,BPSK,1697.0000,N/A,False
+27431,FengYun-1D,Transmitter,BPSK,1700.5000,N/A,False
+27431,FengYun-1D,Transmitter,CW,480.0190,N/A,False
+27431,FengYun-1D,Transmitter,FM,2201.0500,N/A,False
+27431,FengYun-1D,Transmitter,USB,180.0070,N/A,False
+27431,FengYun-1D,Transmitter,HRPT,1700.5000,N/A,False
+67391,Flamingo-1,Transmitter,GMSK,401.0500,N/A,False
+67391,Flamingo-1,Transmitter,FM,2240.0000,N/A,False
+44885,FloripaSat-1,Transceiver,GFSK,436.1000,436.1000,False
+44885,FloripaSat-1,Transmitter,GFSK,145.9000,N/A,False
+98465,Foras Promineo,Transmitter,LoRa,437.4000,N/A,False
+66778,Foresail-1p,Transceiver,GMSK,437.1250,437.1250,False
+66778,Foresail-1p,Transmitter,GMSK,437.1250,N/A,False
+64546,ForgeStar-1,Transmitter,FM,2262.1300,N/A,False
+64546,ForgeStar-1,Transmitter,FM,2260.9900,N/A,False
+99496,FossaSat-2E6,Transmitter,LoRa,401.7000,N/A,False
+69015,FrontierSat,Transmitter,FSK AX.100 Mode 5,436.1500,N/A,False
+67279,GALAPAGOS-UTE-SWSU,Transmitter,FSK,435.7500,N/A,False
+67279,GALAPAGOS-UTE-SWSU,Transmitter,SSTV,437.0500,N/A,False
+67279,GALAPAGOS-UTE-SWSU,Transmitter,AFSK,437.0500,N/A,False
+57486,GALASSIA-2,Transmitter,FSK AX.100 Mode 5,436.4000,N/A,False
+39150,GAOFEN 1,Transmitter,BPSK,2235.1280,N/A,False
+40118,GAOFEN 2,Transmitter,BPSK,2212.5630,N/A,False
+49495,GAOFEN 3 02,Transmitter,FM,2212.0850,N/A,False
+52200,GAOFEN 3 03,Transmitter,FM,2208.2400,N/A,False
+43484,GAOFEN 6,Transmitter,FM,2205.4740,N/A,False
+44703,GAOFEN 7,Transmitter,LoRa,400.4500,N/A,False
+44703,GAOFEN 7,Transmitter,BPSK,2202.4780,N/A,False
+44703,GAOFEN 7,Transmitter,BPSK,2251.8170,N/A,False
+40701,GAOFEN 8,Transmitter,FM,2280.0000,N/A,False
+45856,GAOFEN DUOMO,Transmitter,FM,2283.1160,N/A,False
+49122,GAOFEN-5 02,Transmitter,BPSK,2230.3170,N/A,False
+98361,GARAI-B,Transmitter,FM,2243.0000,N/A,False
+38337,GCOM W1,Transmitter,FM,2220.0000,N/A,False
+43065,GCOM-C,Transmitter,BPSK,2220.0000,N/A,False
+56934,GEISAT PRECURSOR,Transmitter,FM,401.4000,N/A,False
+98354,GEMS2-Amethyst,Transmitter,FM,2245.0000,N/A,False
+98354,GEMS2-Amethyst,Transmitter,FM,2253.0000,N/A,False
+98354,GEMS2-Amethyst,Transmitter,FM,8150.0000,N/A,False
+98354,GEMS2-Amethyst,Transmitter,FM,8300.0000,N/A,False
+58276,GENMAT-1,Transmitter,GFSK,2245.0000,N/A,False
+15595,GEOSAT,Transmitter,CW,400.0320,N/A,False
+15595,GEOSAT,Transmitter,CW,150.0125,N/A,False
+62612,GESAT GEN1,Transmitter,FM,2287.5250,N/A,False
+62612,GESAT GEN1,Transmitter,FM,2289.5750,N/A,False
+62612,GESAT GEN1,Transmitter,FM,8366.5000,N/A,False
+56958,GHOST-3,Transmitter,GFSK,400.5000,N/A,False
+59133,GHOST-4,Transmitter,FSK,400.5000,N/A,False
+62388,GITAI-SC1,Transmitter,FSK,2264.0000,N/A,False
+62388,GITAI-SC1,Transmitter,QPSK,8200.0000,N/A,False
+63027,GLOBAL 31,Transmitter,FM,400.9450,N/A,False
+64231,GLOBAL 32,Transmitter,FM,401.5000,N/A,False
+49772,GLOBAL-12,Transmitter,GMSK,401.4350,N/A,False
+49773,GLOBAL-13,Transmitter,FM,401.3750,N/A,False
+49950,GLOBAL-16,Transmitter,BPSK,401.1500,N/A,False
+49949,GLOBAL-17,Transmitter,FM,400.8750,N/A,False
+52196,GLOBAL-18,Transmitter,BPSK,401.2250,N/A,False
+52196,GLOBAL-18,Transmitter,FM,400.8750,N/A,False
+52196,GLOBAL-18,Transmitter,FM,401.0850,N/A,False
+55982,GLOBAL-19,Transmitter,FM,401.0150,N/A,False
+43812,GLOBAL-2,Transmitter,FM,401.5000,N/A,False
+43812,GLOBAL-2,Transmitter,FM,400.7490,N/A,False
+66554,GLOBAL-33,Transmitter,FM,401.0150,N/A,False
+44499,GLOBAL-4,Transmitter,FM,401.5000,N/A,False
+55983,GLOBAL-5,Transmitter,FM,401.0150,N/A,False
+47971,GLOBAL-9,Transmitter,BPSK,401.5000,N/A,False
+47971,GLOBAL-9,Transmitter,FM,400.8760,N/A,False
+98828,GNA-3,Transmitter,FM,2219.0000,N/A,False
+52158,GNOMES-3,Transmitter,BPSK,2282.4500,N/A,False
+98841,GNOMES-5,Transmitter,FM,8260.0000,N/A,False
+35491,GOES 14,Transmitter,BPSK,1694.0000,N/A,False
+41866,GOES-16,Transmitter,FM,1544.5500,N/A,False
+41866,GOES-16,Transmitter,BPSK,1693.0000,N/A,False
+41866,GOES-16,Transmitter,FM,1686.6000,N/A,False
+41866,GOES-16,Transmitter,FM,1694.1000,N/A,False
+43226,GOES-17,Transmitter,FM,468.7750,N/A,False
+43226,GOES-17,Transmitter,FM,148.5450,N/A,False
+43226,GOES-17,Transmitter,BPSK PMT-A3,1694.1000,N/A,False
+43226,GOES-17,Transmitter,OQPSK,1692.7000,N/A,False
+43226,GOES-17,Transmitter,FM,468.8250,N/A,False
+43226,GOES-17,Transmitter,FM,1693.0000,N/A,False
+43226,GOES-17,Transmitter,BPSK,1544.5500,N/A,False
+43226,GOES-17,Transmitter,PSK,2211.0400,N/A,False
+51850,GOES-18,Transmitter,FM,1686.6000,N/A,False
+51850,GOES-18,Transmitter,FM,1694.1000,N/A,False
+51850,GOES-18,Transmitter,FM,1693.0000,N/A,False
+51850,GOES-18,Transmitter,FM,2211.0400,N/A,False
+51850,GOES-18,Transmitter,FM,1544.5500,N/A,False
+51850,GOES-18,Transmitter,FM,1679.9000,N/A,False
+51850,GOES-18,Transmitter,FM,468.7750,N/A,False
+60133,GOES-19,Transmitter,BPSK,1693.0000,N/A,False
+60133,GOES-19,Transmitter,FM,16941.0000,N/A,False
+60133,GOES-19,Transmitter,FM,1681.6000,N/A,False
+60133,GOES-19,Transmitter,FM,1694.1000,N/A,False
+39430,GOMX 1,Transmitter,FM,8198.0000,N/A,False
+39430,GOMX 1,Transmitter,GMSK,437.2500,N/A,False
+40063,GONETS M 10,Transmitter,FM,388.7874,N/A,False
+40063,GONETS M 10,Transmitter,FM,388.6873,N/A,False
+40552,GONETS M 11,Transmitter,FM,387.0624,N/A,False
+40552,GONETS M 11,Transmitter,FM,387.8373,N/A,False
+40552,GONETS M 11,Transmitter,FM,387.6248,N/A,False
+40552,GONETS M 11,Transmitter,FM,264.9810,N/A,False
+40553,GONETS M 12,Transmitter,FM,266.9510,N/A,False
+40553,GONETS M 12,Transmitter,FM,387.8373,N/A,False
+40553,GONETS M 12,Transmitter,FM,387.6248,N/A,False
+40553,GONETS M 12,Transmitter,FM,387.0618,N/A,False
+40554,GONETS M 13,Transmitter,FM,387.0622,N/A,False
+40554,GONETS M 13,Transmitter,FM,387.6248,N/A,False
+40554,GONETS M 13,Transmitter,FM,387.8373,N/A,False
+40554,GONETS M 13,Transmitter,FM,265.0590,N/A,False
+44906,GONETS M 15,Transmitter,FM,387.4623,N/A,False
+44907,GONETS M 16,Transmitter,FM,387.6497,N/A,False
+46486,GONETS M 17,Transmitter,FM,388.6873,N/A,False
+46486,GONETS M 17,Transmitter,FM,387.1748,N/A,False
+46486,GONETS M 17,Transmitter,FM,387.7750,N/A,False
+46486,GONETS M 17,Transmitter,FM,388.7873,N/A,False
+46487,GONETS M 18,Transmitter,FM,387.1748,N/A,False
+46487,GONETS M 18,Transmitter,FM,387.7740,N/A,False
+46488,GONETS M 19,Transmitter,FM,388.7874,N/A,False
+47227,GONETS M 20,Transmitter,FM,388.7873,N/A,False
+47227,GONETS M 20,Transmitter,FM,262.9100,N/A,False
+47227,GONETS M 20,Transmitter,FM,388.6873,N/A,False
+47228,GONETS M 21,Transmitter,FM,388.7874,N/A,False
+47228,GONETS M 21,Transmitter,FM,262.9100,N/A,False
+47229,GONETS M 22,Transmitter,FM,262.9100,N/A,False
+47229,GONETS M 22,Transmitter,FM,388.6873,N/A,False
+47229,GONETS M 22,Transmitter,FM,388.7873,N/A,False
+39249,GONETS M 5,Transmitter,FM,388.6873,N/A,False
+39249,GONETS M 5,Transmitter,FM,387.1748,N/A,False
+39249,GONETS M 5,Transmitter,FM,387.4620,N/A,False
+39249,GONETS M 5,Transmitter,FM,388.7874,N/A,False
+39251,GONETS M 7,Transmitter,FM,387.4497,N/A,False
+39251,GONETS M 7,Transmitter,FM,388.6750,N/A,False
+39251,GONETS M 7,Transmitter,FM,388.7749,N/A,False
+54150,GONETS-M 23,Transmitter,FM,388.6874,N/A,False
+54150,GONETS-M 23,Transmitter,FM,388.7873,N/A,False
+54150,GONETS-M 23,Transmitter,FM,387.7750,N/A,False
+54150,GONETS-M 23,Transmitter,FM,387.1747,N/A,False
+54151,GONETS-M 24,Transmitter,FM,262.9100,N/A,False
+54151,GONETS-M 24,Transmitter,FM,388.7874,N/A,False
+54151,GONETS-M 24,Transmitter,FM,387.7747,N/A,False
+54151,GONETS-M 24,Transmitter,FM,388.5000,N/A,False
+54151,GONETS-M 24,Transmitter,FM,388.6874,N/A,False
+54152,GONETS-M 25,Transmitter,FM,262.9100,N/A,False
+54152,GONETS-M 25,Transmitter,FM,388.7873,N/A,False
+54152,GONETS-M 25,Transmitter,FM,388.6873,N/A,False
+54152,GONETS-M 25,Transmitter,FM,387.1748,N/A,False
+33492,GOSAT (IBUKI),Transmitter,FM,2220.0000,N/A,False
+39574,GPM,Transmitter,FM,2287.5010,N/A,False
+98355,GRAVITAS,Transmitter,FM,400.5750,N/A,False
+60237,GRBBeta,Transmitter,GFSK,145.9350,N/A,False
+60237,GRBBeta,Transmitter,GFSK,436.7850,N/A,False
+60237,GRBBeta,Transmitter,FSK,2405.0000,N/A,False
+60237,GRBBeta,Transceiver,GFSK,145.9350,145.9350,False
+60237,GRBBeta,Transceiver,GFSK,436.7850,436.7850,False
+60237,GRBBeta,Transmitter,CW,436.7850,N/A,False
+53106,GREENCUBE,Transmitter,FSK AX.100 Mode 5,435.3100,N/A,False
+53106,GREENCUBE,Transmitter,FSK AX.100 Mode 5,435.3100,N/A,False
+53106,GREENCUBE,Transceiver,FSK AX.100 Mode 5,435.3100,435.3100,False
+56946,GREGOIRE,Transmitter,FM,8320.0000,N/A,False
+56946,GREGOIRE,Transmitter,FM,2223.0000,N/A,False
+43890,GRUS-1A,Transmitter,FM,2275.9000,N/A,False
+47934,GRUS-1B,Transmitter,BPSK,2275.9000,N/A,False
+47934,GRUS-1B,Transmitter,FM,401.4160,N/A,False
+47933,GRUS-1C,Transmitter,FM,2275.9000,N/A,False
+47936,GRUS-1D,Transmitter,FM,2275.9000,N/A,False
+47935,GRUS-1D,Transmitter,FM,2275.9000,N/A,False
+64579,GRUS-3 ALPHA,Transmitter,FM,2275.9000,N/A,False
+67684,GXIBA-1,Transmitter,MSK AX.100 Mode 5,437.3000,N/A,False
+98476,GYEONGGISAT-1,Transmitter,FM,2219.0000,N/A,False
+98476,GYEONGGISAT-1,Transmitter,FM,2246.0000,N/A,False
+41727,Gaofen 3,Transmitter,FM,2215.9160,N/A,False
+62635,Garai-A,Transmitter,BPSK,2241.0000,N/A,False
+98320,Gemini-Pollux,Transmitter,BPSK,436.5000,N/A,False
+98320,Gemini-Pollux,Transmitter,BPSK,436.5000,N/A,False
+64880,Geoscan-1,Transmitter,GFSK,435.9700,N/A,False
+64890,Geoscan-2,Transmitter,GFSK,436.1600,N/A,False
+64893,Geoscan-3,Transmitter,GFSK,435.7400,N/A,False
+64892,Geoscan-4,Transmitter,GFSK,435.3350,N/A,False
+64891,Geoscan-5,Transmitter,GFSK,436.6600,N/A,False
+64879,Geoscan-6,Transmitter,GFSK,436.9400,N/A,False
+59130,Ghost 5,Transmitter,FSK,400.5030,N/A,False
+56195,Ghost-1,Transmitter,FSK,400.5000,N/A,False
+49469,Global-14,Transmitter,FM,400.8750,N/A,False
+99459,Gossamer Piccolomini,Transmitter,LoRa,917.5000,N/A,False
+98402,Grifon-1,Transmitter,LoRa,401.3150,N/A,False
+98401,Grifon-2,Transmitter,LoRa,401.3150,N/A,False
+98400,Grifon-3,Transmitter,LoRa,401.4000,N/A,False
+98399,Grifon-4,Transmitter,LoRa,401.4000,N/A,False
+57213,H2SAT,Transmitter,FM,2285.9720,N/A,False
+68446,HADES-SA,Transceiver,FSK,436.8750,145.8750,False
+68446,HADES-SA,Transmitter,GENESIS FSK,436.8750,N/A,False
+68446,HADES-SA,Transmitter,GENESIS FSK,436.8750,N/A,False
+68446,HADES-SA,Transmitter,SSDV,436.8750,N/A,False
+43609,HAIYANG 1C,Transmitter,FM,2210.1670,N/A,False
+37781,HAIYANG 2A,Transmitter,FM,2228.3920,N/A,False
+48621,HAIYANG 2D,Transmitter,FM,2237.0410,N/A,False
+61936,HAIYANG 4A,Transmitter,FM,2220.0000,N/A,False
+46469,HAIYANG-2C,Transmitter,BPSK,2202.7200,N/A,False
+46469,HAIYANG-2C,Transmitter,FM,2216.7190,N/A,False
+59148,HAMMER,Transmitter,FM,2263.4660,N/A,False
+28650,HAMSAT,Transmitter,PSK,137.2000,N/A,False
+28650,HAMSAT,Transmitter,CW,145.8600,N/A,False
+98525,HAVEN-DEMO,Transmitter,FM,400.5000,N/A,False
+98525,HAVEN-DEMO,Transmitter,FM,400.5750,N/A,False
+58349,HAYANG 3A,Transmitter,BPSK,2226.9620,N/A,False
+98704,HCT-SAT1,Transmitter,GMSK,436.2000,N/A,False
+98470,HCT-SAT2,Transmitter,GMSK,436.3000,N/A,False
+69021,HELIOS,Transmitter,FSK,2255.0000,N/A,False
+28492,HELIOS 2A,Transmitter,FM,2206.5420,N/A,False
+63242,HERMES H1,Transmitter,GFSK,401.5000,N/A,False
+63243,HERMES H2,Transmitter,GFSK,401.5000,N/A,False
+63835,HERMES H3,Transmitter,GFSK,401.5000,N/A,False
+63833,HERMES H4,Transmitter,GFSK,401.5000,N/A,False
+63834,HERMES H5,Transmitter,GFSK,401.5000,N/A,False
+63489,HERMES H6,Transmitter,GFSK,401.5000,N/A,False
+99060,HERON Mk. II,Transceiver,GFSK,437.1200,437.1200,False
+49400,HIBARI,Transmitter,GMSK,2285.0090,N/A,False
+43774,HIBER-2,Transmitter,BPSK,401.4400,N/A,False
+14154,HILAT,Transmitter,CW,401.9930,N/A,False
+14154,HILAT,Transmitter,FM,1239.0840,N/A,False
+14154,HILAT,Transmitter,FM,399.9440,N/A,False
+14154,HILAT,Transmitter,FM,137.6760,N/A,False
+14154,HILAT,Transmitter,FM,390.0820,N/A,False
+14154,HILAT,Transmitter,FM,413.0280,N/A,False
+39445,HINCUBE,Transmitter,FM,437.3050,N/A,False
+57519,HJ 2F,Transmitter,BPSK,2208.0020,N/A,False
+33320,HJ-1A,Transmitter,BPSK,2241.5973,N/A,False
+33321,HJ-1B,Transmitter,BPSK,2209.7942,N/A,False
+33321,HJ-1B,Transmitter,FM,8260.0000,N/A,False
+33321,HJ-1B,Transmitter,FM,8140.0000,N/A,False
+46478,HJ-2A,Transmitter,FM,2237.5220,N/A,False
+46479,HJ-2B,Transmitter,BPSK,2243.2780,N/A,False
+54035,HJ-2E,Transmitter,BPSK,2203.2020,N/A,False
+63429,HJS-6B,Transmitter,FM,2244.1000,N/A,False
+98771,HOD-HOD,Transmitter,LoRa,436.2500,N/A,False
+98771,HOD-HOD,Transmitter,FM,2234.0000,N/A,False
+98771,HOD-HOD,Transmitter,FM,437.3500,N/A,False
+98771,HOD-HOD,Transmitter,FM,2231.0000,N/A,False
+98771,HOD-HOD,Transmitter,FSK,436.2500,N/A,False
+98771,HOD-HOD,Transmitter,FM,144.2250,N/A,False
+98771,HOD-HOD,Transmitter,FM,2228.0000,N/A,False
+98771,HOD-HOD,Transmitter,FM,2225.0000,N/A,False
+98771,HOD-HOD,Transmitter,FM,401.6500,N/A,False
+40015,HODOYOSHI 3,Transmitter,FM,2263.6060,N/A,False
+69648,HOKUSHIN-1,Transmitter,UNKNOWN,2287.5000,N/A,False
+43914,HONGYAN 1,Transmitter,FM,2257.2270,N/A,False
+59098,HORACIO,Transmitter,FM,401.2020,N/A,False
+55690,HORUS 1,Transmitter,FM,2207.2800,N/A,False
+55844,HORUS 2,Transmitter,FM,2262.4820,N/A,False
+38340,HORYU 2,Transmitter,CW,437.3750,N/A,False
+41340,HORYU-IV,Transmitter,AFSK,437.3750,N/A,False
+41340,HORYU-IV,Transmitter,CW,437.3750,N/A,False
+41340,HORYU-IV,Transmitter,BPSK,2400.3000,N/A,False
+41340,HORYU-IV,Transmitter,CW,437.3730,N/A,False
+66670,HUNITY,Transmitter,GMSK,437.3900,N/A,False
+42758,HXMT,Transmitter,FM,2216.3914,N/A,False
+98414,HYDRA-2,Transmitter,GMSK,401.3200,N/A,False
+98506,HYDROGNSS-1,Transmitter,FM,2243.3330,N/A,False
+98506,HYDROGNSS-1,Transmitter,FM,2240.0000,N/A,False
+98505,HYDROGNSS-2,Transmitter,FM,2243.3330,N/A,False
+98505,HYDROGNSS-2,Transmitter,FM,2240.0000,N/A,False
+99458,HYPSO-1,Transmitter,FM,401.5000,N/A,False
+99458,HYPSO-1,Transmitter,FM,400.5750,N/A,False
+98852,HYPSO-2,Transmitter,FM,8200.0000,N/A,False
+98852,HYPSO-2,Transmitter,FM,401.5000,N/A,False
+98852,HYPSO-2,Transmitter,FM,400.5750,N/A,False
+43719,HYSIS,Transmitter,FM,2262.8620,N/A,False
+43719,HYSIS,Transmitter,FM,2245.0000,N/A,False
+98630,HYVRID,Transmitter,GFSK,436.5000,N/A,False
+98630,HYVRID,Transmitter,FM,2404.7500,N/A,False
+43655,Haiyang 2B,Transmitter,FM,2247.1270,N/A,False
+31113,Haiyang-1B,Transmitter,BPSK,2273.5000,N/A,False
+31113,Haiyang-1B,Transmitter,BPSK,2273.5000,N/A,False
+45721,Hayang 1D,Transmitter,FM,2216.1600,N/A,False
+98998,Hello Test 1,Transmitter,FSK,401.0750,N/A,False
+98998,Hello Test 1,Transmitter,FSK,2262.5000,N/A,False
+98999,Hello Test 2,Transmitter,FSK,401.0750,N/A,False
+98999,Hello Test 2,Transmitter,FSK,2262.5000,N/A,False
+98657,HelloSpace SKYLINK-1,Transmitter,FSK,401.0750,N/A,False
+98656,HelloSpace SKYLINK-2,Transmitter,FSK,401.0750,N/A,False
+29479,Hinode (SOLAR B),Transmitter,FM,2256.2190,N/A,False
+40011,Hodoyoshi 4,Transmitter,FM,2263.5920,N/A,False
+57188,Hors 1,Transmitter,FSK,435.3000,N/A,False
+57188,Hors 1,Transmitter,FSK,435.3000,N/A,False
+57196,Hors 2,Transmitter,FSK,435.5000,N/A,False
+57196,Hors 2,Transmitter,FSK,435.5000,N/A,False
+61753,Hors 3,Transmitter,FSK,435.6500,N/A,False
+61753,Hors 3,Transmitter,FSK,435.2000,N/A,False
+61754,Hors 4,Transmitter,FSK,435.7000,N/A,False
+56954,Hotsat-1,Transmitter,FM,2240.0000,N/A,False
+64565,Hubble-4,Transmitter,FSK,402.7900,N/A,False
+64565,Hubble-4,Transmitter,FM,2022.5000,N/A,False
+64565,Hubble-4,Transmitter,FM,2200.5000,N/A,False
+64840,Hubble-5,Transmitter,FM,2200.5000,N/A,False
+64840,Hubble-5,Transmitter,FM,2022.5000,N/A,False
+64840,Hubble-5,Transmitter,FSK,402.7900,N/A,False
+64562,Hubble-6,Transmitter,GMSK,401.1000,N/A,False
+64562,Hubble-6,Transmitter,FM,2200.5000,N/A,False
+64562,Hubble-6,Transmitter,FM,402.7900,N/A,False
+64592,Hubble-7,Transmitter,GMSK,401.1000,N/A,False
+64592,Hubble-7,Transmitter,FM,2200.5000,N/A,False
+64592,Hubble-7,Transmitter,FM,402.7900,N/A,False
+55093,Huygens,Transmitter,BPSK,2207.0000,N/A,False
+55093,Huygens,Transmitter,FM,401.5000,N/A,False
+55093,Huygens,Transmitter,BPSK,2206.5000,N/A,False
+98308,Hydra-3,Transmitter,GMSK,401.3200,N/A,False
+61772,HyperView-1G,Transmitter,DVB-S2,10465.0000,N/A,False
+61772,HyperView-1G,Transmitter,GMSK USP,436.6000,N/A,False
+61772,HyperView-1G,Transmitter,GMSK USP,436.5400,N/A,False
+98848,Hyperfield-1,Transmitter,FM,2248.3000,N/A,False
+98848,Hyperfield-1,Transmitter,FM,8130.0000,N/A,False
+64552,Hyperfield-1B,Transmitter,FM,8130.0000,N/A,False
+64552,Hyperfield-1B,Transmitter,FM,2248.3000,N/A,False
+64552,Hyperfield-1B,Transmitter,BPSK,2245.3950,N/A,False
+43613,ICESat-2,Transmitter,FM,2279.1000,N/A,False
+98658,ICEYE-4,Transmitter,FM,2238.0000,N/A,False
+43800,ICEYE-X2,Transmitter,BPSK,2263.5000,N/A,False
+55049,ICEYE-X21,Transmitter,BPSK,2263.5000,N/A,False
+56963,ICEYE-X25,Transmitter,BPSK,2263.5000,N/A,False
+56961,ICEYE-X26,Transmitter,BPSK,2269.6500,N/A,False
+56947,ICEYE-X30,Transmitter,BPSK,2275.9200,N/A,False
+58288,ICEYE-X31,Transmitter,BPSK,2263.5000,N/A,False
+58288,ICEYE-X31,Transmitter,FM,2246.0200,N/A,False
+60548,ICEYE-X33,Transmitter,BPSK,2276.0000,N/A,False
+58294,ICEYE-X34,Transmitter,BPSK,2269.7000,N/A,False
+58302,ICEYE-X35,Transmitter,BPSK,2263.6000,N/A,False
+59102,ICEYE-X37,Transmitter,BPSK,2263.5000,N/A,False
+59100,ICEYE-X38,Transmitter,BPSK,2269.7000,N/A,False
+44390,ICEYE-X4,Transmitter,BPSK,2263.5000,N/A,False
+60549,ICEYE-X40,Transmitter,FM,2269.7750,N/A,False
+62700,ICEYE-X41,Transmitter,BPSK,2263.5000,N/A,False
+62698,ICEYE-X42,Transmitter,BPSK,2276.0000,N/A,False
+60539,ICEYE-X43,Transmitter,,2263.5000,N/A,False
+62707,ICEYE-X44,Transmitter,FM,2269.7250,N/A,False
+62705,ICEYE-X45,Transmitter,BPSK,2263.5000,N/A,False
+63258,ICEYE-X46,Transmitter,FM,2276.0000,N/A,False
+63255,ICEYE-X50,Transmitter,FM,2263.5000,N/A,False
+63257,ICEYE-X51,Transmitter,FM,2269.7500,N/A,False
+64572,ICEYE-X52,Transmitter,FM,2263.5000,N/A,False
+64584,ICEYE-X53,Transmitter,FM,2265.1250,N/A,False
+64570,ICEYE-X54,Transmitter,FM,2263.5000,N/A,False
+64581,ICEYE-X55,Transmitter,FM,2269.7250,N/A,False
+64574,ICEYE-X56,Transmitter,,2269.7250,N/A,False
+64578,ICEYE-X57,Transmitter,FM,2275.8800,N/A,False
+46497,ICEYE-X6,Transmitter,FM,2263.6200,N/A,False
+66754,ICEYE-X61,Transmitter,FM,2240.0000,N/A,False
+66755,ICEYE-X62,Transmitter,FM,2270.0000,N/A,False
+46496,ICEYE-X7,Transmitter,BPSK,2263.5000,N/A,False
+68497,ICEYE-X75,Transmitter,FM,2263.5000,N/A,False
+68995,ICEYE-X78,Transmitter,UNKNOWN,2269.7000,N/A,False
+26857,ICO F2,Transmitter,LoRa,2185.5000,N/A,False
+26857,ICO F2,Transmitter,BPSK,2212.7000,N/A,False
+26857,ICO F2,Transmitter,LoRa,2198.7300,N/A,False
+26857,ICO F2,Transmitter,LoRa,2198.7000,N/A,False
+39432,ICUBE-1,Transceiver,FM,145.9470,435.0600,False
+39432,ICUBE-1,Transmitter,BPSK,145.9470,N/A,False
+43223,IGS OPT 6,Transmitter,FM,2260.0000,N/A,False
+42072,IGS RADAR 5,Transmitter,FM,2242.0000,N/A,False
+55329,IGS RADAR 7,Transmitter,BPSK,2242.0000,N/A,False
+66772,IHI-SAT 2,Transmitter,FM,401.0500,N/A,False
+66772,IHI-SAT 2,Transmitter,FM,8200.0000,N/A,False
+66772,IHI-SAT 2,Transmitter,FM,2282.5000,N/A,False
+98865,IITMSAT,Transmitter,GMSK,437.5050,N/A,False
+98865,IITMSAT,Transmitter,CW,437.5050,N/A,False
+26113,IMAGE,Transmitter,FM,2275.9050,N/A,False
+6893,IMP-8,Transmitter,FM,148.9800,N/A,False
+62673,IMPULSE-2 MIRA,Transmitter,FM,2221.0000,N/A,False
+62673,IMPULSE-2 MIRA,Transmitter,FM,8495.0000,N/A,False
+98333,INCA-2,Transceiver,GMSK,437.1250,145.9000,False
+98333,INCA-2,Transmitter,GMSK,437.1250,N/A,False
+66653,INHA-RoSAT,Transmitter,QPSK,2417.0000,N/A,False
+66653,INHA-RoSAT,Transmitter,GFSK,437.6650,N/A,False
+28628,INMARSAT 4-F1,Transmitter,BPSK,1545.9525,N/A,False
+62616,INNOCUBE,Transmitter,CW,437.0200,N/A,False
+62616,INNOCUBE,Transmitter,MSK AX.100 Mode 5,435.9500,N/A,False
+63212,IOD-1,Transmitter,FM,2245.0000,N/A,False
+64538,IOD2_Startical,Transmitter,FM,2272.5000,N/A,False
+68435,ION SCV Astounding Alexandra,Transmitter,FSK AX.100 Mode 5,401.4145,N/A,False
+68435,ION SCV Astounding Alexandra,Transmitter,FM,2247.5000,N/A,False
+64575,ION SCV Charismatic Carlus,Transmitter,FSK AX.100 Mode 5,401.4145,N/A,False
+58469,ION SCV Daring Diego,Transmitter,FM,2257.5000,N/A,False
+58469,ION SCV Daring Diego,Transmitter,FSK AX.100 Mode 5,401.4145,N/A,False
+98508,ION SCV Galactic Georgius,Transmitter,FM,2251.5000,N/A,False
+63230,ION SCV Marvelous Mathias,Transmitter,FSK AX.100 Mode 5,401.4145,N/A,False
+63230,ION SCV Marvelous Mathias,Transmitter,BPSK,2275.5000,N/A,False
+64545,ION SCV Passionate Paula,Transmitter,FM,2255.5000,N/A,False
+64545,ION SCV Passionate Paula,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+98507,ION SCV Stellar Stephanus,Transmitter,FM,2253.5000,N/A,False
+50993,ION SCV-004,Transmitter,BPSK,2261.5000,N/A,False
+50993,ION SCV-004,Transmitter,FSK AX.100 Mode 5,437.5150,N/A,False
+50993,ION SCV-004,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+52761,ION SCV-006,Transmitter,FM,2261.5000,N/A,False
+52761,ION SCV-006,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+55060,ION SCV-007,Transmitter,BPSK,2261.5000,N/A,False
+55060,ION SCV-007,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+55051,ION SCV-008,Transmitter,BPSK,2259.5000,N/A,False
+55051,ION SCV-008,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+56192,ION SCV-010,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+56192,ION SCV-010,Transmitter,BPSK,2261.5000,N/A,False
+56957,ION SCV-011,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+56957,ION SCV-011,Transmitter,FM,2264.8000,N/A,False
+60573,ION SCV-012,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+60573,ION SCV-012,Transmitter,BPSK,2267.5000,N/A,False
+62630,ION SCV-014,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+62628,ION SCV-016,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+58300,ION-MK02-SCV013,Transmitter,BPSK,2265.5000,N/A,False
+58300,ION-MK02-SCV013,Transmitter,FSK AX.100 Mode 5,401.4150,N/A,False
+66698,IRIDE FM4,Transmitter,FM,2260.0000,N/A,False
+62697,IRIDE-MS2-HEO-01,Transmitter,FM,2264.0000,N/A,False
+62697,IRIDE-MS2-HEO-01,Transmitter,FM,8180.0000,N/A,False
+64569,IRIDE-MS2-HEO-02,Transmitter,FM,2264.0000,N/A,False
+64568,IRIDE-MS2-HEO-03,Transmitter,FM,2264.0000,N/A,False
+64582,IRIDE-MS2-HEO-04,Transmitter,FM,2264.0000,N/A,False
+64571,IRIDE-MS2-HEO-05,Transmitter,FM,2264.0000,N/A,False
+64576,IRIDE-MS2-HEO-06,Transmitter,FM,2264.0000,N/A,False
+64576,IRIDE-MS2-HEO-06,Transmitter,FM,2264.1500,N/A,False
+64587,IRIDE-MS2-HEO-08,Transmitter,FM,2264.8120,N/A,False
+64585,IRIDE-MS2-HEO-09,Transmitter,FM,2264.0000,N/A,False
+39197,IRIS,Transmitter,FM,2220.8000,N/A,False
+62684,IRIS-F2,Transmitter,FM,2280.0000,N/A,False
+62684,IRIS-F2,Transmitter,BPSK,400.9100,N/A,False
+62619,IRIS-F3,Transmitter,BPSK,400.9200,N/A,False
+62619,IRIS-F3,Transmitter,FM,2280.0000,N/A,False
+28051,IRS P6,Transmitter,BPSK,2250.0000,N/A,False
+21688,IRS-1B,Transmitter,FM,149.5220,N/A,False
+3669,ISIS-1,Transmitter,USB,136.4100,N/A,False
+25544,ISS,Transmitter,AM,2725.0000,N/A,False
+25544,ISS,Transmitter,FMN,768.9750,N/A,False
+25544,ISS,Transmitter,SSTV,437.5500,N/A,False
+25544,ISS,Transmitter,FSK,414.2000,N/A,False
+25544,ISS,Transmitter,SSTV,437.8000,N/A,False
+25544,ISS,Transmitter,DVB-S2,2395.0000,N/A,False
+25544,ISS,Transceiver,FM,437.8000,145.9900,False
+25544,ISS,Transmitter,SSTV,145.8000,N/A,False
+25544,ISS,Transceiver,AFSK,437.8250,437.8250,False
+25544,ISS,Transmitter,GMSK,2272.5000,N/A,False
+25544,ISS,Transmitter,GMSK,2232.5000,N/A,False
+25544,ISS,Transmitter,CW,922.7630,N/A,False
+25544,ISS,Transmitter,FM,166.0000,N/A,False
+25544,ISS,Transceiver,AFSK,145.8250,145.8250,False
+25544,ISS,Transceiver,FM,145.8000,144.4900,False
+25544,ISS,Transceiver,FM,145.8000,145.2000,False
+25544,ISS,Transmitter,FMN,143.6250,N/A,False
+25544,ISS,Transmitter,FMN,130.1670,N/A,False
+25544,ISS,Transmitter,FM,121.7500,N/A,False
+25544,ISS,Transmitter,CW,137.6257,N/A,False
+25544,ISS,Transmitter,QPSK,2265.0000,N/A,False
+25544,ISS,Transmitter,FSK,437.8000,N/A,False
+25544,ISS,Transmitter,PSK,468.1000,N/A,False
+25544,ISS,Transmitter,FM,632.0000,N/A,False
+25544,ISS,Transmitter,AM,2860.0000,N/A,False
+25544,ISS,Transmitter,FM,435.4000,N/A,False
+25544,ISS,Transmitter,FM,121.1000,N/A,False
+25544,ISS,Transmitter,FM,121.2750,N/A,False
+25544,ISS,Transmitter,FM,630.1280,N/A,False
+25544,ISS,Transmitter,BPSK,2216.0000,N/A,False
+25544,ISS,Transmitter,FM,400.5750,N/A,False
+25544,ISS,Transmitter,FM,2375.0000,N/A,False
+25544,ISS,Transmitter,BPSK,2205.5000,N/A,False
+25544,ISS,Transmitter,FSK,417.1000,N/A,False
+25544,ISS,Transmitter,BPSK,400.5000,N/A,False
+25544,ISS,Transmitter,BPSK,2213.5000,N/A,False
+25544,ISS,Transmitter,FMN,139.2080,N/A,False
+25544,ISS,Transmitter,FM,637.5000,N/A,False
+25544,ISS,Transmitter,FM,922.7500,N/A,False
+25544,ISS,Transmitter,FM,2425.0000,N/A,False
+60238,ISTSAT-1,Transmitter,AFSK,145.8950,N/A,False
+60238,ISTSAT-1,Transmitter,CW,145.8950,N/A,False
+22826,ITAMSAT,Transmitter,BPSK,435.7720,N/A,False
+43786,ITASAT 1,Transmitter,BPSK,2400.1500,N/A,False
+43786,ITASAT 1,Transmitter,BPSK,145.8600,N/A,False
+35935,ITUPSAT 1,Transmitter,GFSK,437.3250,N/A,False
+35935,ITUPSAT 1,Transmitter,CW,437.3250,N/A,False
+35935,ITUPSAT 1,Transmitter,GFSK,437.3225,N/A,False
+99089,Impulse-1,Transmitter,FM,401.6800,N/A,False
+58301,Impulse-1 (LEO Express-1),Transmitter,FM,402.6800,N/A,False
+39215,Inmarsat-4A F4,Transmitter,FSK,1552.6500,N/A,False
+64878,InnoSat16,Transmitter,GFSK,435.8300,N/A,False
+64894,InnoSat3,Transmitter,GFSK,436.4360,N/A,False
+98348,Io-1,Transmitter,,2245.0000,N/A,False
+61735,Ionosfera-M №1,Transmitter,CW,399.9200,N/A,False
+61735,Ionosfera-M №1,Transmitter,CW,149.9700,N/A,False
+61736,Ionosfera-M №2,Transmitter,CW,149.9700,N/A,False
+61736,Ionosfera-M №2,Transmitter,CW,399.9190,N/A,False
+64876,Ionosfera-M №3,Transmitter,FM,399.9190,N/A,False
+64877,Ionosfera-M №4,Transmitter,FM,399.9190,N/A,False
+60520,Iperdrone.0,Transmitter,FM,2225.0000,N/A,False
+60520,Iperdrone.0,Transmitter,FSK,401.1100,N/A,False
+42803,Iridium 113,Transmitter,FM,1623.1920,N/A,False
+43072,Iridium 116,Transmitter,FM,1623.8590,N/A,False
+43073,Iridium 130,Transmitter,FM,1623.1920,N/A,False
+98563,JACK-001,Transmitter,FSK,436.3000,N/A,False
+68417,JACK-002,Transmitter,FSK,436.3000,N/A,False
+98488,JACK-003,Transmitter,FSK,436.3000,N/A,False
+98487,JACK-004,Transmitter,FSK,436.3000,N/A,False
+24278,JAS-2,Transmitter,FM,435.9100,N/A,False
+24278,JAS-2,Transponder,USB,435.8000,145.9000,True
+24278,JAS-2,Transmitter,CW,435.7950,N/A,False
+33105,JASON 2,Transmitter,FM,2268.4500,N/A,False
+41240,JASON-3,Transmitter,FSK,2215.9200,N/A,False
+40961,JILIN 1,Transmitter,BPSK,2231.2750,N/A,False
+44777,JILIN-01 GAOFEN 2A,Transmitter,FM,2214.9600,N/A,False
+44836,JILIN-01 GAOFEN 2B,Transmitter,FM,2219.2780,N/A,False
+49256,JILIN-01 GAOFEN 2D,Transmitter,BPSK,2219.2780,N/A,False
+46454,JILIN-01 GAOFEN 3B,Transmitter,BPSK,1615.6591,N/A,False
+52444,JILIN-01 GAOFEN 3D 27,Transmitter,FM,1615.6980,N/A,False
+52445,JILIN-01 GAOFEN 3D 28,Transmitter,FM,1615.6940,N/A,False
+52390,JILIN-01 GAOFEN 3D 5,Transmitter,FM,1615.6930,N/A,False
+46457,JILIN-01 GAOFEN 3E,Transmitter,BPSK,1615.6616,N/A,False
+46458,JILIN-01 GAOFEN 3F,Transmitter,BPSK,1615.6641,N/A,False
+46459,JILIN-01 GAOFEN 3G,Transmitter,BPSK,1615.6655,N/A,False
+46460,JILIN-01 GAOFEN 3H,Transmitter,BPSK,1615.6655,N/A,False
+46462,JILIN-01 GAOFEN 3J,Transmitter,BPSK,1615.6558,N/A,False
+43022,JILIN-01-04,Transmitter,BPSK,2219.2750,N/A,False
+43023,JILIN-01-05,Transmitter,BPSK,2228.1750,N/A,False
+43159,JILIN-01-07,Transmitter,BPSK,2214.9500,N/A,False
+43160,JILIN-01-08,Transmitter,BPSK,2244.9750,N/A,False
+43943,JILIN-01-09,Transmitter,BPSK,2283.9750,N/A,False
+43946,JILIN-01-10,Transmitter,FM,2244.9770,N/A,False
+41914,JILIN-1-03,Transmitter,BPSK,2266.7000,N/A,False
+63210,JINJUSat-1B,Transmitter,BPSK,435.1850,N/A,False
+99155,JLC-101-v1-2,Transmitter,GMSK,436.3000,N/A,False
+98796,JOVIAN-1,Transmitter,BPSK,145.8950,N/A,False
+37839,JUGNU,Transmitter,CW,437.2750,N/A,False
+37839,JUGNU,Transmitter,FSK,437.5050,N/A,False
+43803,JY1Sat,Transponder,USB,145.8550,435.1000,True
+43803,JY1Sat,Transmitter,BPSK,145.8400,N/A,False
+43803,JY1Sat,Transponder,CW,145.8550,435.1000,False
+98922,Jackal X-1L-001,Transmitter,QPSK,2282.5000,N/A,False
+98922,Jackal X-1L-001,Transmitter,QPSK,2205.0000,N/A,False
+98923,Jackal X-1L-002,Transmitter,QPSK,2205.0000,N/A,False
+98923,Jackal X-1L-002,Transmitter,QPSK,2282.5000,N/A,False
+49338,Jilin-01 GaoFen 2F,Transmitter,BPSK,2228.1870,N/A,False
+53346,Jumang,Transmitter,LoRa,400.1300,N/A,False
+53346,Jumang,Transmitter,FM,2224.1620,N/A,False
+53346,Jumang,Transmitter,FM,2210.1600,N/A,False
+98489,K-HERO,Transmitter,MSK AX.100 Mode 5,437.1800,N/A,False
+99913,K2SAT,Transmitter,BPSK,435.8350,N/A,False
+99913,K2SAT,Transmitter,QPSK,2404.0000,N/A,False
+99913,K2SAT,Transceiver,FM,436.2250,145.9800,False
+39731,KAZEOSAT 1,Transmitter,FM,400.8000,N/A,False
+43783,KAZSTSAT,Transmitter,FM,2226.6700,N/A,False
+98372,KENSAT,Transmitter,GFSK,437.0800,N/A,False
+60084,KINEIS-1A,Transmitter,BPSK,2260.5000,N/A,False
+60084,KINEIS-1A,Transmitter,FSK AX.100 Mode 5,400.6570,N/A,False
+60084,KINEIS-1A,Transmitter,BPSK,2265.5000,N/A,False
+60079,KINEIS-1B,Transmitter,BPSK,2265.5000,N/A,False
+60079,KINEIS-1B,Transmitter,FSK,400.6570,N/A,False
+60081,KINEIS-1C,Transmitter,BPSK,2260.5000,N/A,False
+60082,KINEIS-1D,Transmitter,BPSK,2264.1000,N/A,False
+60082,KINEIS-1D,Transmitter,BPSK,2264.5000,N/A,False
+60083,KINEIS-1E,Transmitter,FSK AX.100 Mode 5,400.6570,N/A,False
+60083,KINEIS-1E,Transmitter,BPSK,2265.5000,N/A,False
+62932,KINEIS-2A,Transmitter,BPSK,2264.5000,N/A,False
+62932,KINEIS-2A,Transmitter,FM,400.6450,N/A,False
+62934,KINEIS-2B,Transmitter,FM,2260.5000,N/A,False
+62934,KINEIS-2B,Transmitter,BPSK,2265.5000,N/A,False
+62934,KINEIS-2B,Transmitter,FM,400.6455,N/A,False
+62929,KINEIS-2C,Transmitter,FM,400.6450,N/A,False
+62929,KINEIS-2C,Transmitter,FM,2260.5000,N/A,False
+62929,KINEIS-2C,Transmitter,FM,2264.5000,N/A,False
+62931,KINEIS-2E,Transmitter,FM,401.6380,N/A,False
+62931,KINEIS-2E,Transmitter,FM,2265.5000,N/A,False
+61223,KINEIS-3A,Transmitter,FM,400.6620,N/A,False
+61223,KINEIS-3A,Transmitter,BPSK,2264.5000,N/A,False
+61224,KINEIS-3B,Transmitter,FM,400.6620,N/A,False
+61224,KINEIS-3B,Transmitter,BPSK,2264.5000,N/A,False
+61220,KINEIS-3C,Transmitter,FM,400.6620,N/A,False
+61220,KINEIS-3C,Transmitter,BPSK,2264.5000,N/A,False
+61221,KINEIS-3D,Transmitter,BPSK,2264.5000,N/A,False
+61221,KINEIS-3D,Transmitter,BPSK,400.6620,N/A,False
+61222,KINEIS-3E,Transmitter,FM,400.6620,N/A,False
+61222,KINEIS-3E,Transmitter,BPSK,2264.5000,N/A,False
+63303,KINEIS-4A,Transmitter,FM,2260.5000,N/A,False
+63303,KINEIS-4A,Transmitter,BPSK PMT-A3,400.6510,N/A,False
+63304,KINEIS-4B,Transmitter,BPSK,2260.5000,N/A,False
+63304,KINEIS-4B,Transmitter,BPSK PMT-A3,400.6510,N/A,False
+63301,KINEIS-4C,Transmitter,BPSK,2265.5000,N/A,False
+63301,KINEIS-4C,Transmitter,BPSK PMT-A3,400.6510,N/A,False
+63302,KINEIS-4D,Transmitter,FM,400.6510,N/A,False
+63300,KINEIS-4E,Transmitter,FM,2260.5000,N/A,False
+63300,KINEIS-4E,Transmitter,BPSK PMT-A3,400.6510,N/A,False
+62084,KINEIS-5A,Transmitter,BPSK PMT-A3,400.6380,N/A,False
+62084,KINEIS-5A,Transmitter,FM,2264.5000,N/A,False
+62082,KINEIS-5D,Transmitter,FM,2264.5000,N/A,False
+62083,KINEIS-5E,Transmitter,BPSK PMT-A3,400.6390,N/A,False
+62083,KINEIS-5E,Transmitter,BPSK,2264.5000,N/A,False
+33499,KKS-1,Transmitter,CW,437.3850,N/A,False
+33499,KKS-1,Transmitter,AFSK,437.4450,N/A,False
+44785,KL-Alpha A,Transmitter,BPSK,2220.0000,N/A,False
+99921,KNACKSAT,Transmitter,CW,435.6350,N/A,False
+99921,KNACKSAT,Transmitter,GFSK,435.6350,N/A,False
+99921,KNACKSAT,Transmitter,GFSK,435.6350,N/A,False
+67683,KNACKSAT-2,Transceiver,FSK,145.8250,145.8250,False
+67683,KNACKSAT-2,Transmitter,FSK,400.6300,N/A,False
+49402,KOSEN-1,Transmitter,CW,435.5250,N/A,False
+49402,KOSEN-1,Transmitter,GMSK,435.5250,N/A,False
+49402,KOSEN-1,Transponder,AFSK,435.5250,21.1250,False
+49402,KOSEN-1,Transmitter,AFSK,435.5250,N/A,False
+98328,KOSEN-2R,Transmitter,LoRa,465.3600,N/A,False
+98328,KOSEN-2R,Transmitter,AFSK,465.3600,N/A,False
+98328,KOSEN-2R,Transmitter,GMSK,465.3600,N/A,False
+98395,KOSTKA,Transmitter,GFSK,436.8700,N/A,False
+98395,KOSTKA,Transmitter,CW,436.8700,N/A,False
+98970,KOYOH,Transmitter,FM,467.6740,N/A,False
+98970,KOYOH,Transmitter,FM,1623.8300,N/A,False
+98970,KOYOH,Transmitter,BPSK,2232.0000,N/A,False
+99047,KSAT3U,Transponder,FM,435.9350,145.9350,False
+99047,KSAT3U,Transmitter,FSK,435.7300,N/A,False
+99047,KSAT3U,Transmitter,FSK,435.6300,N/A,False
+99047,KSAT3U,Transmitter,FSK,435.7300,N/A,False
+99047,KSAT3U,Transmitter,FSK,435.6300,N/A,False
+46912,KSM1-A,Transmitter,FSK AX.100 Mode 5,401.0300,N/A,False
+46914,KSM1-B,Transmitter,FSK AX.100 Mode 5,401.0601,N/A,False
+46906,KSM1-C,Transmitter,FSK AX.100 Mode 5,401.1200,N/A,False
+46907,KSM1-D,Transmitter,FSK AX.100 Mode 5,401.0900,N/A,False
+98888,KUbeSat-1,Transmitter,GMSK,437.0850,N/A,False
+60556,Kanyini,Transmitter,FSK,400.5000,N/A,False
+62085,Kineis-5B,Transmitter,BPSK,2264.1000,N/A,False
+38338,Kompsat 3,Transmitter,BPSK,2232.0000,N/A,False
+39227,Kompsat 5,Transmitter,BPSK,2256.0000,N/A,False
+61769,Kosar,Transmitter,FM,8200.0000,N/A,False
+61769,Kosar,Transmitter,FSK,436.7400,N/A,False
+61769,Kosar,Transmitter,FSK,436.7500,N/A,False
+67264,Kosar 1.5,Transmitter,LoRa,436.1000,N/A,False
+67264,Kosar 1.5,Transmitter,LoRa,863.4000,N/A,False
+99225,KuwaitSat-1,Transmitter,FSK,436.9800,N/A,False
+99225,KuwaitSat-1,Transmitter,FM,436.9800,N/A,False
+99225,KuwaitSat-1,Transmitter,BPSK,2208.2500,N/A,False
+99225,KuwaitSat-1,Transmitter,FM,2208.5000,N/A,False
+57217,KuzGTU-1,Transmitter,GMSK USP,437.1000,N/A,False
+39084,LANDSAT 8,Transmitter,OQPSK,8200.5000,N/A,False
+39084,LANDSAT 8,Transmitter,FM,2282.3000,N/A,False
+49260,LANDSAT 9,Transmitter,FM,2282.3000,N/A,False
+29709,LAPAN-A1,Transmitter,FM,437.3250,N/A,False
+29709,LAPAN-A1,Transmitter,FM,436.0750,N/A,False
+40931,LAPAN-A2,Transceiver,AFSK,145.8250,145.8250,False
+40931,LAPAN-A2,Transceiver,FM,435.8800,145.8800,False
+40931,LAPAN-A2,Transmitter,AFSK,437.4250,N/A,False
+40931,LAPAN-A2,Transmitter,CW,145.8250,N/A,False
+40931,LAPAN-A2,Transceiver,AFSK,435.8800,145.8800,False
+40931,LAPAN-A2,Transmitter,FM,8200.0000,N/A,False
+41603,LAPAN-A3,Transmitter,FM,8200.0000,N/A,False
+41603,LAPAN-A3,Transmitter,FFSK,437.4250,N/A,False
+53105,LARES-2,Transceiver,CW,40000.0000,40000.0000,False
+62391,LASARsat,Transmitter,GFSK,436.9250,N/A,False
+62391,LASARsat,Transmitter,CW,436.9250,N/A,False
+62391,LASARsat,Transceiver,GFSK,436.9250,436.9250,False
+66295,LEMUR 2 AFFIE-WAUWIE,Transmitter,FM,401.1000,N/A,False
+48269,LEMUR 2 AMANDA-SVANTE,Transmitter,FM,401.1000,N/A,False
+42840,LEMUR 2 FURIAUS,Transmitter,FM,402.7000,N/A,False
+42840,LEMUR 2 FURIAUS,Transmitter,BPSK,400.5500,N/A,False
+42840,LEMUR 2 FURIAUS,Transmitter,FM,402.6700,N/A,False
+67370,LEMUR 2 GRAMESUE,Transmitter,BPSK,401.1000,N/A,False
+58336,LEMUR 2 JK0903EM1407,Transmitter,GMSK,402.7900,N/A,False
+43184,LEMUR 2 KADI,Transmitter,BPSK,400.5510,N/A,False
+63358,LEMUR 2 LANGER2SPACE,Transmitter,FM,401.1000,N/A,False
+60577,LEMUR 2 LLOYD,Transmitter,BPSK,400.5510,N/A,False
+42841,LEMUR 2 PETERG,Transmitter,FM,402.7000,N/A,False
+59147,LEMUR 2 ROCINANTE,Transmitter,FM,2260.0000,N/A,False
+62696,LEMUR 2 STAR-FOX,Transmitter,FM,400.5800,N/A,False
+60579,LEMUR SIERRINI,Transmitter,BPSK,400.5810,N/A,False
+60536,LEMUR-2-MARHISYAM,Transmitter,FM,2022.5000,N/A,False
+60536,LEMUR-2-MARHISYAM,Transmitter,FM,402.7900,N/A,False
+60536,LEMUR-2-MARHISYAM,Transmitter,FM,2200.5000,N/A,False
+60533,LEMUR-2-STELLA,Transmitter,FM,402.7900,N/A,False
+60471,LEMUR-2-TOMATOKECHUP,Transmitter,FM,402.7900,N/A,False
+67687,LEOPARD,Transmitter,BPSK,2279.1000,N/A,False
+67687,LEOPARD,Transmitter,GMSK,400.9600,N/A,False
+67687,LEOPARD,Transmitter,CW,400.9600,N/A,False
+1002,LES-1,Transmitter,USB,236.9970,N/A,False
+40908,LILACSAT 2,Transmitter,GFSK,437.2250,N/A,False
+40908,LILACSAT 2,Transceiver,AFSK,144.3900,144.3900,False
+40908,LILACSAT 2,Transmitter,CW,437.2000,N/A,False
+40908,LILACSAT 2,Transmitter,BPSK,437.2000,N/A,False
+98478,LILIUM-2,Transmitter,FM,2280.0000,N/A,False
+98478,LILIUM-2,Transmitter,FM,2202.0000,N/A,False
+98478,LILIUM-2,Transmitter,FM,401.9100,N/A,False
+98477,LILIUM-3,Transmitter,FM,401.9200,N/A,False
+98477,LILIUM-3,Transmitter,FM,2280.0000,N/A,False
+98477,LILIUM-3,Transmitter,FM,2202.0000,N/A,False
+62648,LIME,Transmitter,GMSK,2240.0000,N/A,False
+62648,LIME,Transmitter,GMSK,2240.0000,N/A,False
+40960,LINGQIAO VIDEO B,Transmitter,BPSK,2274.3500,N/A,False
+63233,LIZZIESAT (LS-3),Transmitter,BPSK,2201.2000,N/A,False
+59132,LIZZIESAT-1,Transmitter,FM,8378.2500,N/A,False
+59132,LIZZIESAT-1,Transmitter,FM,2201.2500,N/A,False
+59132,LIZZIESAT-1,Transmitter,FM,2283.2500,N/A,False
+59132,LIZZIESAT-1,Transmitter,BPSK,2260.0000,N/A,False
+59132,LIZZIESAT-1,Transmitter,FSK,400.5040,N/A,False
+59132,LIZZIESAT-1,Transmitter,FM,2262.5000,N/A,False
+59132,LIZZIESAT-1,Transmitter,FM,8045.2500,N/A,False
+62383,LIZZIESAT-2,Transmitter,FM,2201.2500,N/A,False
+62383,LIZZIESAT-2,Transmitter,FM,2262.2500,N/A,False
+62383,LIZZIESAT-2,Transmitter,FM,8046.0000,N/A,False
+62383,LIZZIESAT-2,Transmitter,,8379.0000,N/A,False
+62383,LIZZIESAT-2,Transmitter,FM,2283.2500,N/A,False
+43034,LKW-1,Transmitter,FM,2207.0360,N/A,False
+43080,LKW-2,Transmitter,FMN,2213.2780,N/A,False
+43146,LKW-3,Transmitter,FM,2219.0350,N/A,False
+43236,LKW-4,Transmitter,FM,2227.6770,N/A,False
+43236,LKW-4,Transmitter,FM,401.7500,N/A,False
+98965,LOGSATS,Transmitter,BPSK,401.3750,N/A,False
+62689,LOGSATS-2,Transmitter,BPSK,401.3750,N/A,False
+62689,LOGSATS-2,Transmitter,BPSK,401.3750,N/A,False
+68409,LPNTSAT-002,Transmitter,BPSK,2221.9500,N/A,False
+40958,LQSAT,Transmitter,QPSK31,2404.0000,N/A,False
+40958,LQSAT,Transmitter,MSK,437.6500,N/A,False
+40958,LQSAT,Transmitter,CW,437.6500,N/A,False
+51284,LT-1 O1A,Transmitter,FM,2210.4090,N/A,False
+51284,LT-1 O1A,Transmitter,FM,2201.3050,N/A,False
+51822,LT-1 O1B,Transmitter,FM,2219.2770,N/A,False
+99156,LUMIR T1,Transmitter,FSK,437.4750,N/A,False
+98509,LUNA-1,Transmitter,GMSK,401.7750,N/A,False
+68470,LUNA-2,Transmitter,GMSK,401.7250,N/A,False
+60506,LUR-1,Transmitter,FSK AX.100 Mode 5,401.7000,N/A,False
+60506,LUR-1,Transmitter,FM,2217.0000,N/A,False
+20442,LUSAT,Transceiver,BPSK,437.1500,145.8400,False
+20442,LUSAT,Transmitter,CW,437.1250,N/A,False
+20442,LUSAT,Transmitter,,435.0780,N/A,False
+52162,LYNK TOWER 1,Transmitter,BPSK,2260.0000,N/A,False
+55046,LYNK TOWER 3,Transmitter,BPSK,2260.0000,N/A,False
+55034,LYNK TOWER 4,Transmitter,FM,2260.0000,N/A,False
+59121,LYNK TOWER 5,Transmitter,BPSK,2260.0000,N/A,False
+59123,LYNK TOWER 6,Transmitter,BPSK,2260.0000,N/A,False
+62664,LYRA-1,Transmitter,FSK,400.5000,N/A,False
+64577,LYRA-3,Transmitter,FM,400.5000,N/A,False
+64691,LYRA-4,Transmitter,FM,400.5030,N/A,False
+25682,Landsat 7,Transmitter,BPSK,2287.5000,N/A,False
+60532,Lemu Nge,Transmitter,BPSK,2208.2000,N/A,False
+58337,Lemur 2 - Mango 2B,Transmitter,FM,400.5805,N/A,False
+58903,Lemur 2 CAEL,Transmitter,FM,402.7920,N/A,False
+48273,Lemur 2 special K,Transmitter,FM,400.5520,N/A,False
+64869,Lide,Transmitter,FM,2235.0000,N/A,False
+98391,Lilium-4,Transmitter,GFSK,2405.0000,N/A,False
+98391,Lilium-4,Transmitter,AFSK,437.8500,N/A,False
+98429,Lobachevsky,Transmitter,DVB-S2,10470.0000,N/A,False
+98429,Lobachevsky,Transmitter,SSDV,436.3200,N/A,False
+98429,Lobachevsky,Transmitter,GFSK,436.3200,N/A,False
+98449,Luca,Transmitter,GMSK,437.1800,N/A,False
+98449,Luca,Transmitter,GMSK,437.1800,N/A,False
+43485,Luojia-1,Transmitter,FM,148.3750,N/A,False
+43485,Luojia-1,Transmitter,GMSK,437.2500,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,DVB-S2,6965.0000,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,DVB-S2,4920.0000,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,DVB-S2,1552.0000,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,DVB-S2,1534.5000,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,GFSK,400.5000,N/A,False
+63231,M-SEL/CORTEZ,Transmitter,DVB-S2,2491.7500,N/A,False
+45727,M2 PATHFINDER,Transmitter,FSK,449.5380,N/A,False
+99037,MACSAT,Transmitter,BPSK,2185.1000,N/A,False
+99037,MACSAT,Transmitter,FM,401.0500,N/A,False
+98323,MAGNARO-II - Piscis,Transmitter,CW,436.3250,N/A,False
+98323,MAGNARO-II - Piscis,Transmitter,GMSK,436.3250,N/A,False
+98323,MAGNARO-II - Piscis,Transmitter,GMSK,436.3250,N/A,False
+98323,MAGNARO-II - Piscis,Transmitter,AFSK,436.3250,N/A,False
+98324,MAGNARO-II - Tigris,Transmitter,CW,145.8500,N/A,False
+98324,MAGNARO-II - Tigris,Transmitter,AFSK,145.8500,N/A,False
+98324,MAGNARO-II - Tigris,Transmitter,GMSK,145.8500,N/A,False
+98324,MAGNARO-II - Tigris,Transmitter,GMSK,145.8500,N/A,False
+48907,MANDRAKE 2 ABLE,Transmitter,FSK,400.4979,N/A,False
+54227,MATS,Transmitter,OQPSK,2214.0000,N/A,False
+98674,MBZ-SAT,Transmitter,FM,8215.0000,N/A,False
+98674,MBZ-SAT,Transmitter,FM,2228.2000,N/A,False
+98972,MEMESat-1,Transceiver,GMSK,437.4500,437.4500,False
+98972,MEMESat-1,Transmitter,GMSK,437.4500,N/A,False
+55010,MENUT,Transceiver,QPSK,2245.3000,2056.6000,False
+98510,MERCURY ONE (M1),Transmitter,FM,2220.0000,N/A,False
+98510,MERCURY ONE (M1),Transmitter,FM,2265.0000,N/A,False
+60209,MESAT-1,Transmitter,BPSK,1616.2500,N/A,False
+60209,MESAT-1,Transmitter,BPSK,435.8000,N/A,False
+35865,METEOR M-1,Transmitter,QPSK,137.0970,N/A,False
+35865,METEOR M-1,Transmitter,CW,2200.6470,N/A,False
+35865,METEOR M-1,Transmitter,HRPT,1700.0000,N/A,False
+40069,METEOR M-2,Transmitter,LRPT,137.1000,N/A,False
+40069,METEOR M-2,Transmitter,HRPT,1700.0000,N/A,False
+44387,METEOR M-2-2,Transmitter,BPSK,1544.5000,N/A,False
+44387,METEOR M-2-2,Transmitter,HRPT,1700.0000,N/A,False
+44387,METEOR M-2-2,Transmitter,FM,8320.0000,N/A,False
+44387,METEOR M-2-2,Transmitter,FM,3405.2350,N/A,False
+44387,METEOR M-2-2,Transmitter,FM,8128.0000,N/A,False
+57166,METEOR M2-3,Transmitter,LRPT,137.1000,N/A,False
+57166,METEOR M2-3,Transmitter,LRPT,137.9125,N/A,False
+57166,METEOR M2-3,Transmitter,BPSK,1700.0000,N/A,False
+57166,METEOR M2-3,Transmitter,LRPT,137.9000,N/A,False
+57166,METEOR M2-3,Transmitter,FM,3405.2350,N/A,False
+57166,METEOR M2-3,Transmitter,FM,8128.0000,N/A,False
+57166,METEOR M2-3,Transmitter,FSK,137.9000,N/A,False
+57166,METEOR M2-3,Transmitter,FSK,137.1000,N/A,False
+57166,METEOR M2-3,Transmitter,LRPT,137.9000,N/A,False
+57166,METEOR M2-3,Transmitter,LRPT,137.1000,N/A,False
+57166,METEOR M2-3,Transmitter,BPSK,1544.5000,N/A,False
+57166,METEOR M2-3,Transmitter,FM,8320.0000,N/A,False
+59051,METEOR M2-4,Transmitter,LRPT,137.9125,N/A,False
+59051,METEOR M2-4,Transmitter,LRPT,137.9000,N/A,False
+59051,METEOR M2-4,Transmitter,LRPT,137.1000,N/A,False
+59051,METEOR M2-4,Transmitter,HRPT,1700.0000,N/A,False
+59051,METEOR M2-4,Transmitter,FSK,137.1000,N/A,False
+59051,METEOR M2-4,Transmitter,BPSK,1544.5000,N/A,False
+59051,METEOR M2-4,Transmitter,LRPT,137.1000,N/A,False
+59051,METEOR M2-4,Transmitter,LRPT,137.9000,N/A,False
+59051,METEOR M2-4,Transmitter,FSK,137.9000,N/A,False
+59051,METEOR M2-4,Transmitter,HRPT,1705.0000,N/A,False
+59101,METHANESAT,Transmitter,FM,8175.0000,N/A,False
+59101,METHANESAT,Transmitter,QPSK,2234.5000,N/A,False
+29499,METOP-A,Transmitter,LRPT,137.9125,N/A,False
+29499,METOP-A,Transmitter,LRPT,137.1000,N/A,False
+29499,METOP-A,Transmitter,AHRPT,1707.0000,N/A,False
+29499,METOP-A,Transmitter,PSK,2230.0000,N/A,False
+29499,METOP-A,Transmitter,BPSK,1544.5000,N/A,False
+29499,METOP-A,Transmitter,BPSK PMT-A3,465.9875,N/A,False
+29499,METOP-A,Transmitter,AHRPT,1701.3000,N/A,False
+38771,METOP-B,Transmitter,BPSK PMT-A3,465.9875,N/A,False
+38771,METOP-B,Transmitter,BPSK,465.9875,N/A,False
+38771,METOP-B,Transmitter,FM,7800.0000,N/A,False
+38771,METOP-B,Transmitter,AHRPT,1701.3000,N/A,False
+38771,METOP-B,Transmitter,BPSK,1544.5000,N/A,False
+38771,METOP-B,Transmitter,CW,2230.0000,N/A,False
+43689,METOP-C,Transmitter,BPSK PMT-A3,465.9875,N/A,False
+43689,METOP-C,Transmitter,AHRPT,1701.3000,N/A,False
+43689,METOP-C,Transmitter,FM,7800.0000,N/A,False
+43689,METOP-C,Transmitter,PSK,2230.0000,N/A,False
+98518,MICE-1,Transmitter,FM,2260.0000,N/A,False
+98518,MICE-1,Transmitter,GMSK,401.5000,N/A,False
+98518,MICE-1,Transmitter,FM,2243.0000,N/A,False
+52900,MIMAN,Transmitter,FSK AX.100 Mode 5,436.5000,N/A,False
+58497,MISRSAT-2,Transmitter,BPSK,2281.0810,N/A,False
+98591,MOBIUS-1,Transmitter,FM,2222.2000,N/A,False
+98335,MOCI,Transmitter,GMSK,437.3500,N/A,False
+98335,MOCI,Transmitter,QPSK,2410.5000,N/A,False
+43005,MOHAMMED VI-A,Transmitter,BPSK,2241.7750,N/A,False
+43717,MOHAMMED VI-B,Transmitter,BPSK,2241.7750,N/A,False
+44408,MOMENTUS-X1,Transmitter,FM,400.5000,N/A,False
+49052,MONOLITH,Transmitter,FM,2275.6700,N/A,False
+27939,MOZHAYETS 4,Transmitter,DOKA,435.3530,N/A,False
+27939,MOZHAYETS 4,Transmitter,CW,435.3520,N/A,False
+27939,MOZHAYETS 4,Transmitter,CW,435.3528,N/A,False
+67557,MR-1,Transmitter,FM,2245.0000,N/A,False
+67556,MR-2,Transmitter,FM,2249.0000,N/A,False
+53109,MTCube 2,Transmitter,GMSK,436.7500,N/A,False
+61750,MTUSI-1,Transmitter,LoRa,438.1000,N/A,False
+61750,MTUSI-1,Transmitter,FSK,435.6000,N/A,False
+48908,Mandrake 2B,Transmitter,FSK,400.4975,N/A,False
+66756,Mauve,Transmitter,FM,401.7500,N/A,False
+66756,Mauve,Transmitter,LoRa,137.9250,N/A,False
+66756,Mauve,Transmitter,FM,2250.0000,N/A,False
+26546,MegSat-1,Transmitter,FM,137.9050,N/A,False
+52145,Meridian-M 10,Transmitter,FM,279.5500,N/A,False
+52145,Meridian-M 10,Transmitter,FM,483.7500,N/A,False
+52145,Meridian-M 10,Transmitter,FM,992.4500,N/A,False
+52145,Meridian-M 10,Transmitter,FM,486.2500,N/A,False
+52145,Meridian-M 10,Transmitter,FM,484.2500,N/A,False
+43758,MinXSS 2,Transmitter,GMSK,437.2500,N/A,False
+57184,Monitor-2,Transmitter,AFSK,435.6500,N/A,False
+57184,Monitor-2,Transmitter,FSK,435.8600,N/A,False
+57184,Monitor-2,Transmitter,AFSK,435.8150,N/A,False
+57184,Monitor-2,Transmitter,DOKA,435.9150,N/A,False
+57184,Monitor-2,Transmitter,DOKA,435.0000,N/A,False
+57180,Monitor-3,Transmitter,GMSK USP,435.2900,N/A,False
+57180,Monitor-3,Transmitter,SSTV,435.2900,N/A,False
+57180,Monitor-3,Transmitter,GMSK USP,435.2900,N/A,False
+57182,Monitor-4,Transmitter,GMSK USP,436.0800,N/A,False
+57182,Monitor-4,Transmitter,GMSK USP,436.0800,N/A,False
+57182,Monitor-4,Transmitter,GMSK USP,436.0800,N/A,False
+59099,MuSat-2,Transmitter,OQPSK,8390.0000,N/A,False
+59099,MuSat-2,Transmitter,FM,8205.0000,N/A,False
+59099,MuSat-2,Transmitter,OQPSK,8385.0000,N/A,False
+98425,Mule 4T,Transmitter,LoRa,436.7000,N/A,False
+99036,N3SS,Transmitter,BPSK,2218.0000,N/A,False
+98511,NAHLA,Transmitter,FM,2245.0000,N/A,False
+40024,NANOSATC-BR1,Transmitter,BPSK,145.8650,N/A,False
+48963,NAPA 2,Transmitter,BPSK,401.1240,N/A,False
+46320,NAPA-1,Transmitter,BPSK,401.1250,N/A,False
+49044,NAUKA,Transmitter,FM,166.0750,N/A,False
+49044,NAUKA,Transmitter,FM,631.0000,N/A,False
+49044,NAUKA,Transmitter,FM,630.8730,N/A,False
+49044,NAUKA,Transmitter,FM,631.1290,N/A,False
+39151,NEE-01 PEGASUS,Transmitter,FM,910.0000,N/A,False
+39441,NEE-02 Krysaor,Transmitter,FM,980.0000,N/A,False
+46277,NEMO-HD,Transmitter,QPSK,8212.0000,N/A,False
+46506,NETSAT 1,Transmitter,FSK AX.25 G3RUH,435.6000,N/A,False
+46507,NETSAT 2,Transmitter,FSK AX.25 G3RUH,435.6000,N/A,False
+46505,NETSAT 3,Transmitter,FSK AX.25 G3RUH,435.6000,N/A,False
+46504,NETSAT 4,Transmitter,FSK AX.25 G3RUH,435.6000,N/A,False
+60535,NIGHTJAR,Transmitter,GFSK,435.3500,N/A,False
+44779,NINGXIA-1 1,Transmitter,FM,2270.6620,N/A,False
+44779,NINGXIA-1 1,Transmitter,BPSK,2202.7210,N/A,False
+44780,NINGXIA-1 2,Transmitter,FM,2289.1200,N/A,False
+44781,NINGXIA-1 3,Transmitter,FM,2232.7200,N/A,False
+44783,NINGXIA-1 5,Transmitter,FM,2270.6620,N/A,False
+65053,NISAR,Transmitter,FM,2245.6800,N/A,False
+25338,NOAA 15,Transmitter,BPSK,1544.5000,N/A,False
+25338,NOAA 15,Transmitter,HRPT,1702.5000,N/A,False
+25338,NOAA 15,Transmitter,DSB,137.3500,N/A,False
+28654,NOAA 18,Transmitter,HRPT,1707.0000,N/A,False
+28654,NOAA 18,Transmitter,FSK,137.9125,N/A,False
+28654,NOAA 18,Transmitter,BPSK,2247.4840,N/A,False
+28654,NOAA 18,Transmitter,BPSK,1544.5000,N/A,False
+28654,NOAA 18,Transmitter,BPSK,465.9875,N/A,False
+28654,NOAA 18,Transmitter,FMN,1698.0000,N/A,False
+28654,NOAA 18,Transmitter,DSB,137.3500,N/A,False
+33591,NOAA 19,Transmitter,BPSK,2247.5000,N/A,False
+33591,NOAA 19,Transmitter,FM,137.9320,N/A,False
+33591,NOAA 19,Transmitter,BPSK PMT-A3,465.9875,N/A,False
+33591,NOAA 19,Transmitter,BPSK,1544.5000,N/A,False
+33591,NOAA 19,Transmitter,HRPT,1698.0000,N/A,False
+33591,NOAA 19,Transmitter,DSB,137.7700,N/A,False
+33591,NOAA 19,Transmitter,FM,1702.5000,N/A,False
+43013,NOAA 20,Transmitter,FM,1227.6000,N/A,False
+43013,NOAA 20,Transmitter,QPSK,7812.0000,N/A,False
+43013,NOAA 20,Transmitter,QPSK,26703.4000,N/A,False
+43013,NOAA 20,Transmitter,BPSK,2247.5000,N/A,False
+43013,NOAA 20,Transmitter,FM,1575.4200,N/A,False
+43013,NOAA 20,Transmitter,BPSK,1544.5000,N/A,False
+43013,NOAA 20,Transmitter,FM,2067.2700,N/A,False
+43013,NOAA 20,Transmitter,FM,7812.0000,N/A,False
+11416,NOAA 6,Transmitter,CW,137.5000,N/A,False
+15427,NOAA 9,Transmitter,HRPT,1707.0000,N/A,False
+15427,NOAA 9,Transmitter,BPSK,136.7700,N/A,False
+6235,NOAA-2,Transmitter,APT,137.6200,N/A,False
+6235,NOAA-2,Transmitter,FM,136.7700,N/A,False
+6235,NOAA-2,Transmitter,HRPT,1697.5000,N/A,False
+6235,NOAA-2,Transmitter,APT,137.5000,N/A,False
+6235,NOAA-2,Transmitter,FM,136.7700,N/A,False
+54234,NOAA-21 JPSS-2,Transmitter,BPSK,2247.5000,N/A,False
+54234,NOAA-21 JPSS-2,Transmitter,FM,2067.2700,N/A,False
+46494,NORBI,Transmitter,GFSK,436.7000,N/A,False
+46494,NORBI,Transmitter,LoRa,436.7030,N/A,False
+42828,NORSAT 2,Transmitter,FM,2209.0000,N/A,False
+42828,NORSAT 2,Transponder,GMSK,161.7875,157.1875,False
+48272,NORSAT 3,Transmitter,FM,2212.9930,N/A,False
+38773,NOSS 3-6 (P),Transmitter,FM,2277.5190,N/A,False
+43619,NOVASAR 1,Transmitter,FM,2226.6650,N/A,False
+44340,NPSAT1,Transmitter,CERTO,400.0320,N/A,False
+69002,NULINK-1,Transmitter,UNKNOWN,2217.9950,N/A,False
+63211,NUSHSat1,Transmitter,FSK AX.100 Mode 5,436.2000,N/A,False
+63211,NUSHSat1,Transmitter,FSK AX.100 Mode 5,436.2000,N/A,False
+99515,NanoDragon,Transmitter,BPSK,437.3650,N/A,False
+58810,NanoFF A,Transmitter,GMSK,435.9500,N/A,False
+58810,NanoFF A,Transmitter,FM,2264.1260,N/A,False
+58810,NanoFF A,Transmitter,FMN,435.9500,N/A,False
+58755,NanoFF B,Transmitter,FMN,435.9500,N/A,False
+58755,NanoFF B,Transmitter,BPSK,2263.9960,N/A,False
+58755,NanoFF B,Transmitter,GMSK,435.9500,N/A,False
+98431,NasbSat-1,Transmitter,GMSK USP,401.6000,N/A,False
+98431,NasbSat-1,Transmitter,GMSK USP,401.5000,N/A,False
+67285,NasbSat-2,Transmitter,GMSK USP,401.7000,N/A,False
+67285,NasbSat-2,Transmitter,GMSK USP,401.8000,N/A,False
+59587,NeonSat-1,Transmitter,FM,2242.7500,N/A,False
+57179,Norby-2,Transmitter,LoRa,436.5000,N/A,False
+57179,Norby-2,Transmitter,GFSK,436.5000,N/A,False
+57179,Norby-2,Transmitter,GFSK,436.7000,N/A,False
+98770,Norby-3,Transmitter,LoRa,436.5700,N/A,False
+98770,Norby-3,Transmitter,FSK,436.5700,N/A,False
+98322,NuLink-1,Transmitter,FSK,401.0000,N/A,False
+98322,NuLink-1,Transmitter,FM,401.0000,N/A,False
+98322,NuLink-1,Transmitter,FSK AX.100 Mode 5,2218.0000,N/A,False
+98321,NuLink-2,Transmitter,FM,401.0000,N/A,False
+98321,NuLink-2,Transmitter,FSK AX.100 Mode 5,2220.0000,N/A,False
+98321,NuLink-2,Transmitter,FSK,401.0000,N/A,False
+37224,O/OREOS,Transmitter,AFSK,437.3050,N/A,False
+59917,OBJECT A,Transmitter,FM,401.2050,N/A,False
+59917,OBJECT A,Transmitter,FM,400.6000,N/A,False
+59918,OBJECT B,Transmitter,FSK,400.1500,N/A,False
+59918,OBJECT B,Transmitter,FM,401.2500,N/A,False
+69100,OBJECT D,Transmitter,UNKNOWN,401.1500,N/A,False
+64051,OBJECT D,Transmitter,FM,401.4020,N/A,False
+54254,OBJECT D,Transmitter,FM,1615.6890,N/A,False
+49006,OBJECT D,Transmitter,BPSK,1615.6658,N/A,False
+54685,OBJECT D,Transmitter,FM,1615.6990,N/A,False
+49007,OBJECT E,Transmitter,BPSK,1615.6607,N/A,False
+58921,OBJECT E,Transmitter,FSK,437.2500,N/A,False
+54686,OBJECT E,Transmitter,FM,1615.6990,N/A,False
+68202,OBJECT E,Transmitter,UNKNOWN,401.0500,N/A,False
+64052,OBJECT E - 2025-103,Transmitter,FM,401.2500,N/A,False
+68203,OBJECT F,Transmitter,UNKNOWN,401.2500,N/A,False
+62615,OBJECT G,Transmitter,BPSK,2242.5000,N/A,False
+62615,OBJECT G,Transmitter,FM,401.9000,N/A,False
+51831,OBJECT H,Transmitter,BPSK,1615.6567,N/A,False
+54689,OBJECT H,Transmitter,FM,1615.6980,N/A,False
+53452,OBJECT J,Transmitter,FM,1615.6970,N/A,False
+66674,OBJECT J,Transmitter,FM,401.9100,N/A,False
+51832,OBJECT J - 2022-019,Transmitter,FM,401.8880,N/A,False
+53453,OBJECT K,Transmitter,FM,1615.6990,N/A,False
+51834,OBJECT L,Transmitter,BPSK,1615.6586,N/A,False
+51835,OBJECT M,Transmitter,BPSK,1615.6591,N/A,False
+54695,OBJECT P,Transmitter,FM,1615.6960,N/A,False
+51839,OBJECT R,Transmitter,FM,1615.6860,N/A,False
+51840,OBJECT S,Transmitter,FM,401.6500,N/A,False
+51840,OBJECT S,Transmitter,FM,1615.6890,N/A,False
+62626,OBJECT T,Transmitter,FM,2228.2500,N/A,False
+51844,OBJECT W,Transmitter,FM,1615.6910,N/A,False
+67271,OBJECT Z,Transmitter,FSK,437.2000,N/A,False
+98373,OBZP1,Transmitter,DOKA,435.7150,N/A,False
+98373,OBZP1,Transmitter,AFSK,435.6150,N/A,False
+98373,OBZP1,Transmitter,AFSK,435.7150,N/A,False
+26702,ODIN,Transmitter,BPSK,2265.1540,N/A,False
+26702,ODIN,Transmitter,QPSK,2208.1390,N/A,False
+45860,OFEQ-16,Transmitter,FM,2285.0000,N/A,False
+52157,OMNI-L1,Transmitter,FM,401.0500,N/A,False
+52771,OMNI-L2,Transmitter,FM,401.0500,N/A,False
+98991,OMNI-LER1,Transmitter,FM,2245.0000,N/A,False
+55904,OMOTENASHI,Transmitter,FM,437.4100,N/A,False
+55904,OMOTENASHI,Transmitter,FM,8494.5300,N/A,False
+55904,OMOTENASHI,Transmitter,PSK31,437.4100,N/A,False
+55904,OMOTENASHI,Transmitter,PSK31,437.3100,N/A,False
+55904,OMOTENASHI,Transmitter,FM,437.3100,N/A,False
+98716,ONDOSAT-OWL-10,Transmitter,LoRa,400.1600,N/A,False
+98715,ONDOSAT-OWL-11,Transmitter,LoRa,400.1600,N/A,False
+98714,ONDOSAT-OWL-12,Transmitter,LoRa,400.1600,N/A,False
+98723,ONDOSAT-OWL-3,Transmitter,LoRa,400.1600,N/A,False
+98722,ONDOSAT-OWL-4,Transmitter,LoRa,400.1600,N/A,False
+98721,ONDOSAT-OWL-5,Transmitter,LoRa,400.1600,N/A,False
+98720,ONDOSAT-OWL-6,Transmitter,LoRa,400.1600,N/A,False
+98719,ONDOSAT-OWL-7,Transmitter,LoRa,400.1600,N/A,False
+98718,ONDOSAT-OWL-8,Transmitter,LoRa,400.1600,N/A,False
+98717,ONDOSAT-OWL-9,Transmitter,LoRa,400.1600,N/A,False
+60240,OOV-Cube,Transmitter,AFSK,435.9500,N/A,False
+60240,OOV-Cube,Transmitter,FM,2263.0000,N/A,False
+26063,OPAL,Transmitter,FSK,437.1000,N/A,False
+10033,OPS 5644,Transmitter,FM,2252.5360,N/A,False
+10033,OPS 5644,Transmitter,FM,2237.5000,N/A,False
+4237,OPS 7613 (P/L 4),Transmitter,CW,137.4070,N/A,False
+5680,OPS 7898 (NRL P/L 172),Transmitter,CW,137.0790,N/A,False
+98924,OPTIMUS 2,Transmitter,QPSK,2260.0000,N/A,False
+98370,OPTISAT,Transmitter,,2275.0000,N/A,False
+98370,OPTISAT,Transmitter,GMSK,400.3600,N/A,False
+98370,OPTISAT,Transmitter,,2235.0000,N/A,False
+42900,OPTSAT 3000,Transmitter,FM,2285.0000,N/A,False
+99053,ORB-12 STRIDER,Transmitter,FM,2260.0000,N/A,False
+69006,ORBASTRO-JEN-1,Transmitter,FM,2259.9850,N/A,False
+58258,ORBASTRO-PC-1,Transmitter,FM,2260.0000,N/A,False
+25984,ORBCOMM FM 36,Transmitter,DPSK,137.4400,N/A,False
+25984,ORBCOMM FM 36,Transmitter,OQPSK,137.5600,N/A,False
+25984,ORBCOMM FM 36,Transmitter,CW,400.1000,N/A,False
+40087,ORBCOMM FM107,Transmitter,,137.2500,N/A,False
+40086,ORBCOMM FM109,Transmitter,FM,137.2500,N/A,False
+41183,ORBCOMM FM118,Transmitter,FM,137.2880,N/A,False
+60525,ORESAT0.5,Transmitter,GMSK,436.5000,N/A,False
+25635,ORSTED,Transceiver,BPSK,2296.0000,2114.0000,False
+25635,ORSTED,Transceiver,BPSK,2215.0000,N/A,False
+7530,OSCAR 7,Transmitter,CW,29.5020,N/A,False
+7530,OSCAR 7,Transponder,USB,145.9250,432.1250,True
+7530,OSCAR 7,Transmitter,CW,145.9775,N/A,False
+7530,OSCAR 7,Transponder,USB,29.4000,145.8500,False
+7530,OSCAR 7,Transmitter,CW,435.1000,N/A,False
+7530,OSCAR 7,Transmitter,CW,2304.1000,N/A,False
+7530,OSCAR 7,Transponder,CW,29.4000,145.8500,False
+41757,OSIRIS-REx,Transmitter,FM,8445.5380,N/A,False
+98990,OSW Cazorla,Transmitter,FM,2203.7000,N/A,False
+98990,OSW Cazorla,Transmitter,FM,2220.0000,N/A,False
+63235,OTP-2,Transmitter,FSK,2222.5000,N/A,False
+63235,OTP-2,Transmitter,GFSK,400.5000,N/A,False
+66678,OTTER,Transmitter,GMSK,401.0250,N/A,False
+2389,OV3-3,Transmitter,USB,258.4800,N/A,False
+22491,OXP-1,Transmitter,PSK,137.0500,N/A,False
+44905,Object A,Transmitter,FM,387.4623,N/A,False
+62081,Object A,Transmitter,BPSK,2260.5000,N/A,False
+58849,Object A,Transmitter,FM,2221.0000,N/A,False
+65259,Object A,Transmitter,FM,400.7500,N/A,False
+62081,Object A,Transmitter,FM,400.6380,N/A,False
+67646,Object A,Transmitter,FM,2253.5920,N/A,False
+56731,Object A,Transmitter,FM,2206.8000,N/A,False
+65815,Object A,Transmitter,FM,2252.8710,N/A,False
+44905,Object A,Transmitter,FM,388.6873,N/A,False
+44905,Object A,Transmitter,FM,265.0590,N/A,False
+45016,Object A,Transmitter,BPSK,2279.9500,N/A,False
+45939,Object A,Transmitter,FM,2246.1540,N/A,False
+65815,Object A,Transmitter,FM,2218.5590,N/A,False
+67277,Object AF,Transmitter,LoRa,435.8400,N/A,False
+58821,Object B,Transmitter,FM,401.4500,N/A,False
+62726,Object B,Transmitter,FM,2238.0000,N/A,False
+66054,Object B,Transmitter,FM,2230.8000,N/A,False
+44880,Object B,Transmitter,FM,2264.3980,N/A,False
+49316,Object B,Transmitter,FM,2283.1290,N/A,False
+49316,Object B,Transmitter,FM,2211.5970,N/A,False
+66651,Object B,Transmitter,FM,2249.0440,N/A,False
+66994,Object B,Transmitter,FM,2222.5000,N/A,False
+65489,Object B,Transmitter,FM,401.1000,N/A,False
+60521,Object BF,Transmitter,BPSK,2219.0000,N/A,False
+67748,Object C,Transmitter,BPSK,2242.0000,N/A,False
+68418,Object C,Transmitter,FM,400.3560,N/A,False
+57492,Object C,Transmitter,FM,2285.0000,N/A,False
+57492,Object C,Transmitter,FM,2284.1000,N/A,False
+58989,Object C,Transmitter,BPSK,2277.3070,N/A,False
+66741,Object CD,Transmitter,FM,2288.0000,N/A,False
+65262,Object D,Transmitter,FM,2288.2000,N/A,False
+51827,Object D,Transmitter,FM,401.6500,N/A,False
+48843,Object D,Transmitter,FM,2284.0770,N/A,False
+44882,Object D,Transmitter,FM,401.5500,N/A,False
+44883,Object E,Transmitter,FM,2204.4010,N/A,False
+51951,Object F,Transmitter,FM,402.7920,N/A,False
+54687,Object F,Transmitter,FSK,400.5500,N/A,False
+67254,Object G,Transmitter,FM,435.8520,N/A,False
+67254,Object G,Transmitter,FM,436.0300,N/A,False
+68357,Object H,Transmitter,FM,2214.2290,N/A,False
+53451,Object H,Transmitter,BPSK,1615.6950,N/A,False
+58925,Object J,Transmitter,FM,2246.4050,N/A,False
+44887,Object J,Transmitter,FM,2252.9990,N/A,False
+68989,Object K,Transmitter,FM,2261.9440,N/A,False
+68430,Object Q,Transmitter,FM,2219.0000,N/A,False
+66682,Object S,Transmitter,FM,2251.5000,N/A,False
+66682,Object S,Transmitter,FM,2253.5200,N/A,False
+62654,Objext AX,Transmitter,FM,401.8500,N/A,False
+58323,Observer-1A,Transmitter,FM,2246.0000,N/A,False
+35931,Oceansat 2,Transmitter,BPSK,2250.0000,N/A,False
+35931,Oceansat 2,Transmitter,FM,2245.0000,N/A,False
+54361,Oceansat 3,Transmitter,FM,8275.0000,N/A,False
+54361,Oceansat 3,Transmitter,FM,465.9880,N/A,False
+54361,Oceansat 3,Transmitter,BPSK,2250.0000,N/A,False
+54361,Oceansat 3,Transmitter,QPSK,1703.0000,N/A,False
+55803,Oneweb-0639,Transmitter,FM,2257.2280,N/A,False
+63236,Orbastro-TR5,Transmitter,FM,2259.9850,N/A,False
+41187,Orbcomm FM108,Transmitter,FM,137.4600,N/A,False
+41187,Orbcomm FM108,Transmitter,FM,137.7130,N/A,False
+41182,Orbcomm FM110,Transmitter,FM,137.2880,N/A,False
+41184,Orbcomm FM112,Transmitter,FM,137.8000,N/A,False
+41184,Orbcomm FM112,Transmitter,FM,137.6630,N/A,False
+41185,Orbcomm FM113,Transmitter,FM,137.8000,N/A,False
+41185,Orbcomm FM113,Transmitter,FM,137.6630,N/A,False
+41179,Orbcomm FM114,Transmitter,FM,137.7400,N/A,False
+41179,Orbcomm FM114,Transmitter,FM,137.2880,N/A,False
+41189,Orbcomm FM116,Transmitter,FM,137.8000,N/A,False
+41189,Orbcomm FM116,Transmitter,FM,137.6630,N/A,False
+41188,Orbcomm FM117,Transmitter,FM,137.7130,N/A,False
+41188,Orbcomm FM117,Transmitter,FM,137.4600,N/A,False
+99105,Orbiter SN3,Transmitter,FM,2245.0000,N/A,False
+68795,OrigamiSat-2,Transmitter,QPSK,5840.0000,N/A,False
+68795,OrigamiSat-2,Transmitter,CW,5840.0000,N/A,False
+68795,OrigamiSat-2,Transmitter,BPSK,5840.0000,N/A,False
+68795,OrigamiSat-2,Transmitter,CW,437.5050,N/A,False
+68795,OrigamiSat-2,Transmitter,AFSK,437.5050,N/A,False
+56933,Otter Pup,Transmitter,GFSK,400.5000,N/A,False
+64537,Otter Pup 2,Transmitter,GFSK,400.5000,N/A,False
+68428,Out of the Box,Transmitter,GMSK,402.3600,N/A,False
+99101,Outpost Mission 1,Transmitter,FM,401.0500,N/A,False
+99101,Outpost Mission 1,Transmitter,FM,401.5000,N/A,False
+58334,Outpost Mission 2,Transmitter,FM,401.5000,N/A,False
+58334,Outpost Mission 2,Transmitter,FM,401.2500,N/A,False
+58928,PACE,Transmitter,FM,2273.1300,N/A,False
+48909,PACE-1,Transmitter,FM,2283.0720,N/A,False
+20439,PACSAT,Transmitter,CW,437.0260,N/A,False
+20439,PACSAT,Transmitter,BPSK,437.0510,N/A,False
+20439,PACSAT,Transmitter,BPSK,437.0260,N/A,False
+64559,PADRE,Transmitter,FM,2277.5000,N/A,False
+64559,PADRE,Transmitter,GMSK,401.3600,N/A,False
+98415,PANDORA,Transmitter,FM,2211.9000,N/A,False
+59065,PARS 1,Transmitter,FM,145.0000,N/A,False
+59065,PARS 1,Transmitter,FM,2221.0000,N/A,False
+68456,PARUS-6U1,Transmitter,GMSK,437.1950,N/A,False
+68456,PARUS-6U1,Transmitter,FM,2402.0000,N/A,False
+98707,PARUS-T1,Transceiver,AFSK,145.8250,145.8250,False
+98707,PARUS-T1,Transmitter,AFSK,436.8500,N/A,False
+98602,PARUS-T2,Transmitter,AFSK,437.8500,N/A,False
+62653,PAUSAT1,Transmitter,FM,8342.5000,N/A,False
+62653,PAUSAT1,Transmitter,FM,2262.5000,N/A,False
+43215,PAZ,Transmitter,FM,8150.0000,N/A,False
+43215,PAZ,Transmitter,FM,2284.9910,N/A,False
+26931,PCSAT,Transmitter,AFSK,145.8268,N/A,False
+26931,PCSAT,Transceiver,AFSK,145.8250,145.8250,True
+26931,PCSAT,Transmitter,AFSK,144.3900,N/A,False
+98332,PEARL-1A,Transmitter,GFSK,401.5400,N/A,False
+98330,PEARL-1B,Transmitter,GFSK,401.6200,N/A,False
+98491,PERSAT01,Transmitter,FM,437.1250,N/A,False
+40039,PERSEUS M1,Transmitter,GFSK,400.1700,N/A,False
+64874,PEXT,Transmitter,FM,2257.4500,N/A,False
+64874,PEXT,Transmitter,FM,2235.0000,N/A,False
+66681,PHASMA-DIRAC,Transceiver,FSK,400.5500,401.2500,False
+66681,PHASMA-DIRAC,Transceiver,FSK,2208.0000,2108.0000,False
+66673,PHASMA-LAMARR,Transceiver,FSK,400.6000,401.2500,False
+66673,PHASMA-LAMARR,Transceiver,FSK,2210.0000,2108.0000,False
+98512,PHI-1,Transmitter,GMSK,436.8500,N/A,False
+98512,PHI-1,Transmitter,FM,2230.0000,N/A,False
+98347,PHOBOS,Transmitter,FSK,2240.7500,N/A,False
+98347,PHOBOS,Transmitter,GMSK,400.8000,N/A,False
+56959,PHOTON-04,Transmitter,FM,2272.5000,N/A,False
+98475,PIAST-M,Transmitter,FM,2273.0000,N/A,False
+98474,PIAST-S1,Transmitter,FM,2280.0000,N/A,False
+98473,PIAST-S2,Transmitter,FM,2287.0000,N/A,False
+99024,PICO-1A-1,Transmitter,LoRa,454.1000,N/A,False
+99024,PICO-1A-1,Transmitter,LoRa,454.3000,N/A,False
+99023,PICO-1A-2,Transmitter,LoRa,454.3000,N/A,False
+99023,PICO-1A-2,Transmitter,LoRa,454.1000,N/A,False
+99022,PICO-1A-3,Transmitter,LoRa,454.3000,N/A,False
+99022,PICO-1A-3,Transmitter,LoRa,454.1000,N/A,False
+99021,PICO-1A-4,Transmitter,LoRa,454.1000,N/A,False
+99021,PICO-1A-4,Transmitter,LoRa,454.3000,N/A,False
+99020,PICO-1A-5,Transmitter,LoRa,454.3000,N/A,False
+99020,PICO-1A-5,Transmitter,LoRa,454.1000,N/A,False
+99019,PICO-1A-6,Transmitter,LoRa,454.1000,N/A,False
+99019,PICO-1A-6,Transmitter,LoRa,454.3000,N/A,False
+99018,PICO-1A-7,Transmitter,LoRa,454.1000,N/A,False
+99018,PICO-1A-7,Transmitter,LoRa,454.3000,N/A,False
+99016,PICO-1A-9,Transmitter,LoRa,454.3000,N/A,False
+99016,PICO-1A-9,Transmitter,LoRa,454.1000,N/A,False
+98820,PICO-1B-3,Transmitter,LoRa,450.1875,N/A,False
+98821,PICO-1B-4,Transmitter,LoRa,450.0625,N/A,False
+98823,PICO-1B-6,Transmitter,LoRa,450.0625,N/A,False
+98824,PICO-1B-7,Transmitter,LoRa,450.1875,N/A,False
+98825,PICO-1B-8,Transmitter,LoRa,450.0625,N/A,False
+98826,PICO-1B-9,Transmitter,LoRa,450.1875,N/A,False
+47448,PIXL-1,Transmitter,MSK AX.100 Mode 5,400.5750,N/A,False
+47448,PIXL-1,Transmitter,MSK AX.100 Mode 5,400.5750,N/A,False
+47448,PIXL-1,Transmitter,FM,2262.5000,N/A,False
+58262,PLATERO,Transceiver,QPSK,2217.9000,2049.7000,False
+39019,PLEIADES 1B,Transmitter,BPSK,2269.2000,N/A,False
+98724,PLEIADES-ORPHEUS,Transmitter,LoRa,437.4000,N/A,False
+48268,PNEO3,Transmitter,BPSK,2265.8630,N/A,False
+49070,PNEO4,Transmitter,BPSK,2265.8620,N/A,False
+23802,POLAR,Transmitter,FM,2264.9850,N/A,False
+40042,POLYITAN-1,Transmitter,FSK,437.6750,N/A,False
+98706,POQUITO,Transmitter,CW,437.0500,N/A,False
+98706,POQUITO,Transmitter,GFSK,437.0500,N/A,False
+65573,PRAETORIAN SDA_610,Transmitter,FM,2225.6710,N/A,False
+41783,PRATHAM,Transmitter,CW,145.9800,N/A,False
+41783,PRATHAM,Transmitter,FSK,437.4550,N/A,False
+99054,PRECURSOR,Transponder,USB,145.9625,435.0125,True
+99054,PRECURSOR,Transponder,USB,2400.6000,1261.2500,True
+99054,PRECURSOR,Transmitter,GMSK,144.0150,N/A,False
+59965,PREFIRE-1,Transmitter,BPSK,2212.1000,N/A,False
+59965,PREFIRE-1,Transmitter,BPSK,2212.5000,N/A,False
+59881,PREFIRE-2,Transmitter,,2212.5000,N/A,False
+58023,PRETTY,Transmitter,BPSK,2250.0000,N/A,False
+58023,PRETTY,Transmitter,FM,2244.2200,N/A,False
+58023,PRETTY,Transmitter,GFSK,137.7400,N/A,False
+44072,PRISMA,Transmitter,BPSK,2283.5000,N/A,False
+26958,PROBA-1,Transmitter,BPSK,2235.0000,N/A,False
+36037,PROBA-2,Transmitter,BPSK,2235.0000,N/A,False
+36037,PROBA-2,Transmitter,BPSK,2235.0000,N/A,False
+39159,PROBA-V,Transmitter,BPSK,2235.0000,N/A,False
+38756,PROITERES,Transmitter,CW,437.4850,N/A,False
+98705,PROMETHEUS-1,Transmitter,LoRa,437.4000,N/A,False
+5580,PROSPERO,Transmitter,FSK,137.5600,N/A,False
+61793,PROTOSAT-1,Transmitter,BPSK,2230.3920,N/A,False
+65055,PRSC-S1,Transmitter,FM,2209.2000,N/A,False
+43530,PRSS 1,Transmitter,FM,2275.4380,N/A,False
+60565,"PTD-4, PT4F1N",Transmitter,FSK,401.2050,N/A,False
+60523,PTD-R,Transmitter,FSK,401.2050,N/A,False
+60523,PTD-R,Transmitter,BPSK,2213.2000,N/A,False
+63178,PUNCH-NFI00,Transmitter,FM,2216.1000,N/A,False
+58025,PVCC,Transmitter,BPSK,8175.5000,N/A,False
+58025,PVCC,Transmitter,BPSK,2221.0000,N/A,False
+98513,PW-6U,Transmitter,FM,401.1000,N/A,False
+98513,PW-6U,Transmitter,FM,2265.5000,N/A,False
+98928,PYXIS,Transmitter,FM,8175.0000,N/A,False
+98928,PYXIS,Transmitter,FM,2278.2500,N/A,False
+43529,Paktes 1A,Transmitter,FM,2245.5000,N/A,False
+43529,Paktes 1A,Transmitter,FM,2250.0000,N/A,False
+43529,Paktes 1A,Transmitter,FM,401.4150,N/A,False
+68416,PeakSat,Transmitter,FSK,400.5000,N/A,False
+68416,PeakSat,Transmitter,CW,400.5000,N/A,False
+14129,Phase 3-B,Transmitter,CW,145.8100,N/A,False
+14129,Phase 3-B,Transmitter,CW,145.9870,N/A,False
+26609,Phase 3-D,Transmitter,BPSK,435.4500,N/A,False
+98405,Platform-6,Transmitter,GMSK,401.3600,N/A,False
+99095,Pleiades-Squared,Transmitter,LoRa,437.4000,N/A,False
+99095,Pleiades-Squared,Transmitter,FSK,437.4000,N/A,False
+99095,Pleiades-Squared,Transceiver,LoRa,437.4000,437.4000,False
+99206,Pleiades-Yearling,Transmitter,LoRa,437.4000,N/A,False
+98421,Polytech Universe 6,Transmitter,LoRa,436.3500,N/A,False
+57191,Polytech Universe-3,Transmitter,FSK,436.5500,N/A,False
+57191,Polytech Universe-3,Transmitter,LoRa,436.5500,N/A,False
+98776,Polytech Universe-4,Transmitter,LoRa,435.2500,N/A,False
+98776,Polytech Universe-4,Transmitter,FSK,435.2500,N/A,False
+98775,Polytech Universe-5,Transmitter,FSK,436.3500,N/A,False
+98775,Polytech Universe-5,Transmitter,LoRa,437.8850,N/A,False
+59105,Pony Express-2 SV1,Transmitter,GMSK,400.8400,N/A,False
+59105,Pony Express-2 SV1,Transmitter,QPSK,2492.0000,N/A,False
+59105,Pony Express-2 SV1,Transmitter,FM,8380.0000,N/A,False
+59104,Pony Express-2 SV2,Transmitter,QPSK,2492.0000,N/A,False
+59104,Pony Express-2 SV2,Transmitter,GMSK,401.3400,N/A,False
+59104,Pony Express-2 SV2,Transmitter,FM,8320.0000,N/A,False
+65576,Praetorian SDA_613,Transmitter,UNKNOWN,2225.6770,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,402.9250,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,2222.0000,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,401.4500,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,401.0500,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,2262.0000,N/A,False
+99004,ProtoMéthée-1,Transmitter,FM,2280.7000,N/A,False
+44339,Prox-1,Transmitter,FSK,2306.5000,N/A,False
+99484,PyCubed-1,Transmitter,LoRa,437.2900,N/A,False
+58818,QAEM 100 R/B,Transmitter,FSK,437.5400,N/A,False
+58818,QAEM 100 R/B,Transmitter,FSK,435.0000,N/A,False
+40025,QB50P1,Transponder,USB,145.9350,435.0470,True
+40025,QB50P1,Transmitter,BPSK,145.8150,N/A,False
+40025,QB50P1,Transmitter,CW,145.8800,N/A,False
+40025,QB50P1,Transmitter,BPSK,145.8137,N/A,False
+40032,QB50P2,Transmitter,CW,145.8800,N/A,False
+40032,QB50P2,Transmitter,BPSK,145.8787,N/A,False
+67291,QMR-KWT 2,Transmitter,SSTV,436.9500,N/A,False
+67291,QMR-KWT 2,Transceiver,FM,436.9500,145.9200,False
+67291,QMR-KWT 2,Transmitter,GMSK,436.9500,N/A,False
+98903,QPS-SAR-7,Transmitter,FM,2254.0000,N/A,False
+98839,QPS-SAR-8,Transmitter,FM,2254.0000,N/A,False
+27845,QUAKESAT,Transmitter,FSK,436.6750,N/A,False
+60476,QUBE,Transmitter,FSK,435.6000,N/A,False
+98314,QUBE2,Transmitter,GFSK,435.6000,N/A,False
+98314,QUBE2,Transmitter,FM,437.9000,N/A,False
+98314,QUBE2,Transmitter,FM,2282.5000,N/A,False
+64558,QUICK³,Transmitter,GFSK,401.0500,N/A,False
+64558,QUICK³,Transmitter,FM,2282.5000,N/A,False
+46913,R2,Transmitter,FM,401.0498,N/A,False
+60207,R5-S2-2.0,Transmitter,FM,1621.2500,N/A,False
+60206,R5-S4,Transmitter,FM,1621.2500,N/A,False
+32382,RADARSAT 2,Transmitter,FM,2230.0000,N/A,False
+23439,RADIO ROSTO,Transmitter,CW,29.3525,N/A,False
+36358,RADUGA-1M 2,Transmitter,FM,3775.0000,N/A,False
+36358,RADUGA-1M 2,Transmitter,FM,3941.7500,N/A,False
+36358,RADUGA-1M 2,Transmitter,FM,3800.0000,N/A,False
+52898,RANDEV,Transmitter,BPSK,436.0285,N/A,False
+43772,RANGE A,Transmitter,GFSK,437.4750,N/A,False
+43772,RANGE A,Transmitter,GFSK,437.1500,N/A,False
+43772,RANGE A,Transmitter,FSK,437.1500,N/A,False
+43773,RANGE B,Transmitter,GFSK,437.1500,N/A,False
+43773,RANGE B,Transmitter,GFSK,437.4750,N/A,False
+43773,RANGE B,Transmitter,FSK,437.4750,N/A,False
+62627,RAY-1,Transmitter,FM,0.0022,N/A,False
+64875,REAL,Transmitter,GFSK,450.0600,N/A,False
+64875,REAL,Transmitter,FM,2202.0000,N/A,False
+98600,RIDU-Sat 1,Transmitter,GMSK,145.9250,N/A,False
+98600,RIDU-Sat 1,Transceiver,AFSK,145.8250,145.8250,False
+46905,RISAT-2BR2,Transmitter,FM,2250.3720,N/A,False
+39769,RISING 2,Transmitter,FM,2285.0000,N/A,False
+60243,ROBUSTA-3A,Transmitter,GMSK,436.7500,N/A,False
+60243,ROBUSTA-3A,Transmitter,BPSK,2202.0000,N/A,False
+60243,ROBUSTA-3A,Transmitter,GMSK,436.7500,N/A,False
+98927,ROSE,Transmitter,FM,8180.0000,N/A,False
+98927,ROSE,Transmitter,FM,2213.0000,N/A,False
+59106,RROCI-2,Transmitter,QPSK,2217.0000,N/A,False
+59106,RROCI-2,Transmitter,OQPSK,8125.0000,N/A,False
+39133,RS-43,Transmitter,DOKA,435.2150,N/A,False
+61785,RTU MIREA1,Transmitter,GFSK,436.2000,N/A,False
+61785,RTU MIREA1,Transmitter,CW,436.2000,N/A,False
+61785,RTU MIREA1,Transmitter,QPSK,10473.0000,N/A,False
+56953,RUNNER-1,Transmitter,FM,2067.0000,N/A,False
+56953,RUNNER-1,Transmitter,FM,2242.0000,N/A,False
+99125,Rassvet-1 1,Transmitter,FM,637.5000,N/A,False
+99094,Rassvet-1 2,Transmitter,FM,637.5000,N/A,False
+99093,Rassvet-1 3,Transmitter,FM,637.5000,N/A,False
+28810,Reimei,Transmitter,FM,2263.5958,N/A,False
+98875,Replicator,Transmitter,GMSK,401.7500,N/A,False
+98875,Replicator,Transmitter,FM,2246.5000,N/A,False
+57168,ReshUCube-2,Transmitter,LoRa,436.0000,N/A,False
+37387,Resourcesat 2,Transmitter,BPSK,2250.0000,N/A,False
+41877,Resourcesat 2A,Transmitter,BPSK,2250.0020,N/A,False
+39763,Rodnik,Transmitter,FM,388.1873,N/A,False
+39762,Rodnik,Transmitter,FM,388.1873,N/A,False
+39762,Rodnik,Transmitter,FM,388.6873,N/A,False
+39763,Rodnik,Transmitter,FM,388.6873,N/A,False
+43188,S-Net A,Transmitter,FM,2263.0000,N/A,False
+43188,S-Net A,Transmitter,AFSK TUBiX10,435.9500,N/A,False
+43187,S-Net B,Transmitter,FM,2263.0000,N/A,False
+43187,S-Net B,Transmitter,AFSK TUBiX10,435.9500,N/A,False
+43189,S-Net C,Transmitter,AFSK TUBiX10,435.9500,N/A,False
+43189,S-Net C,Transmitter,FM,2263.0000,N/A,False
+43186,S-Net D,Transmitter,FM,2263.0000,N/A,False
+43186,S-Net D,Transmitter,AFSK TUBiX10,435.9500,N/A,False
+99049,S-band unknown,Transmitter,BPSK,2205.4740,N/A,False
+67290,SAKHACUBE-CHOLBON,Transmitter,SSTV,437.3500,N/A,False
+67290,SAKHACUBE-CHOLBON,Transmitter,GMSK USP,437.3500,N/A,False
+67290,SAKHACUBE-CHOLBON,Transmitter,GMSK,437.3500,N/A,False
+68458,SAL-E,Transmitter,FSK,436.9650,N/A,False
+46495,SALSAT,Transmitter,BPSK,2266.0000,N/A,False
+46495,SALSAT,Transmitter,AFSK TUBiX10,435.9500,N/A,False
+43641,SAOCOM 1-A,Transmitter,BPSK,2255.5000,N/A,False
+46265,SAOCOM 1-B,Transmitter,BPSK,2255.5000,N/A,False
+39086,SARAL,Transmitter,FM,2245.0000,N/A,False
+39086,SARAL,Transmitter,FM,8212.5000,N/A,False
+39086,SARAL,Transmitter,QPSK,1703.0000,N/A,False
+39086,SARAL,Transmitter,FM,2280.0000,N/A,False
+39086,SARAL,Transmitter,FM,2224.9000,N/A,False
+39086,SARAL,Transmitter,FM,2203.2000,N/A,False
+39086,SARAL,Transmitter,FM,8125.0000,N/A,False
+39086,SARAL,Transmitter,BPSK PMT-A3,465.9875,N/A,False
+39086,SARAL,Transmitter,QPSK,1698.4000,N/A,False
+62713,SATGUS,Transmitter,BPSK,2215.1750,N/A,False
+62713,SATGUS,Transmitter,FSK,400.2000,N/A,False
+64551,SATMAR,Transmitter,FM,2221.5000,N/A,False
+64551,SATMAR,Transmitter,FM,2280.8000,N/A,False
+64551,SATMAR,Transmitter,FM,400.5010,N/A,False
+64551,SATMAR,Transmitter,FM,161.8625,N/A,False
+64551,SATMAR,Transmitter,FM,157.2625,N/A,False
+60477,SATORO-T2,Transmitter,FM,2280.0000,N/A,False
+60477,SATORO-T2,Transmitter,BPSK,400.4250,N/A,False
+64589,SATORO-T3,Transmitter,BPSK,2269.7750,N/A,False
+64589,SATORO-T3,Transmitter,BPSK,401.9700,N/A,False
+64589,SATORO-T3,Transmitter,FM,2280.0000,N/A,False
+57174,SATURN,Transmitter,AFSK,435.7900,N/A,False
+57174,SATURN,Transmitter,DOKA,435.7900,N/A,False
+98671,SATURNIN-1,Transmitter,FSK AX.100 Mode 5,401.9000,N/A,False
+27607,SAUDISAT 1C,Transceiver,FM,436.7950,145.8500,False
+27607,SAUDISAT 1C,Transmitter,FM,149.0250,N/A,False
+98389,SC-Sat1a,Transmitter,FM,2278.6000,N/A,False
+27858,SCISAT 1,Transmitter,BPSK,2232.0000,N/A,False
+57484,SCOOB-II,Transmitter,GFSK,437.5000,N/A,False
+62617,SCOT-1,Transmitter,FM,2260.0000,N/A,False
+62617,SCOT-1,Transmitter,FM,8325.0000,N/A,False
+65974,SDA_1664,Transmitter,UNKNOWN,2225.6830,N/A,False
+65977,SDA_1667,Transmitter,FM,2225.6820,N/A,False
+65994,SDA_1684,Transmitter,FM,2225.6950,N/A,False
+49387,SDGSAT 1,Transmitter,FM,2210.3990,N/A,False
+62459,SDX01,Transmitter,FM,2233.9400,N/A,False
+62459,SDX01,Transmitter,BPSK,2284.5590,N/A,False
+62459,SDX01,Transmitter,BPSK,436.5000,N/A,False
+62460,SDX02,Transmitter,BPSK,2240.0000,N/A,False
+62460,SDX02,Transmitter,BPSK,2210.0000,N/A,False
+43820,SEAHAWK-1,Transmitter,GMSK,400.7510,N/A,False
+3891,SECOR 13,Transmitter,CW,136.8000,N/A,False
+1315,SECOR 4,Transmitter,FM,136.8450,N/A,False
+2411,SECOR 7,Transmitter,FM,136.4400,N/A,False
+32791,SEEDS II,Transmitter,CW,437.4850,N/A,False
+32791,SEEDS II,Transmitter,AFSK,437.4850,N/A,False
+32791,SEEDS II,Transmitter,SSTV,437.4850,N/A,False
+32791,SEEDS II,Transmitter,CW,437.4857,N/A,False
+32791,SEEDS II,Transmitter,FMN,437.4850,N/A,False
+69020,SELENE,Transmitter,FSK,2255.0000,N/A,False
+59140,SENTRY,Transmitter,FM,401.5000,N/A,False
+52763,SHERPA-AC1,Transmitter,FM,1260.0000,N/A,False
+52763,SHERPA-AC1,Transmitter,FM,2245.0000,N/A,False
+52763,SHERPA-AC1,Transmitter,FM,400.5000,N/A,False
+52763,SHERPA-AC1,Transmitter,FM,1616.2500,N/A,False
+53754,SHERPA-LTC2,Transmitter,FM,400.4800,N/A,False
+53754,SHERPA-LTC2,Transmitter,FM,400.5200,N/A,False
+43850,SHIELDS 1,Transmitter,FSK,400.2500,N/A,False
+5485,SHINSEI (MS-F2),Transmitter,CW,136.6940,N/A,False
+33433,SHIYUAN 3 SY-3,Transmitter,FM,2230.7940,N/A,False
+62632,SIGI,Transmitter,BPSK,2222.5000,N/A,False
+62632,SIGI,Transmitter,FM,8255.0000,N/A,False
+98427,SINP-MSU-80 (Scorpion),Transmitter,AFSK,435.2400,N/A,False
+98427,SINP-MSU-80 (Scorpion),Transmitter,DOKA,435.2400,N/A,False
+98427,SINP-MSU-80 (Scorpion),Transmitter,DOKA,435.3400,N/A,False
+98427,SINP-MSU-80 (Scorpion),Transmitter,BPSK,2401.0000,N/A,False
+98427,SINP-MSU-80 (Scorpion),Transmitter,AFSK,435.3400,N/A,False
+61764,SIT-2086,Transmitter,GMSK USP,401.0300,N/A,False
+61763,SIT-HSE,Transmitter,GMSK USP,401.0150,N/A,False
+57199,SITRO-AIS-10,Transmitter,GMSK USP,401.2900,N/A,False
+57208,SITRO-AIS-11,Transmitter,GMSK USP,401.3200,N/A,False
+57204,SITRO-AIS-12,Transmitter,GMSK USP,401.3500,N/A,False
+61743,SITRO-AIS-13,Transmitter,GMSK USP,401.0150,N/A,False
+61752,SITRO-AIS-14,Transmitter,GMSK USP,401.0350,N/A,False
+61738,SITRO-AIS-15,Transmitter,GMSK USP,401.0550,N/A,False
+61737,SITRO-AIS-16,Transmitter,GMSK USP,401.0750,N/A,False
+61789,SITRO-AIS-17,Transmitter,GMSK USP,401.0950,N/A,False
+61790,SITRO-AIS-18,Transmitter,GMSK USP,401.1150,N/A,False
+61759,SITRO-AIS-19,Transmitter,GMSK USP,401.1350,N/A,False
+61758,SITRO-AIS-20,Transmitter,GMSK USP,401.1550,N/A,False
+61739,SITRO-AIS-21,Transmitter,GMSK USP,401.1750,N/A,False
+61740,SITRO-AIS-22,Transmitter,GMSK USP,401.1950,N/A,False
+61742,SITRO-AIS-23,Transmitter,GMSK USP,401.2150,N/A,False
+61741,SITRO-AIS-24,Transmitter,GMSK USP,401.2350,N/A,False
+59066,SITRO-AIS-25,Transmitter,GMSK USP,401.2150,N/A,False
+59067,SITRO-AIS-26,Transmitter,GMSK USP,401.0625,N/A,False
+59068,SITRO-AIS-27,Transmitter,GMSK USP,401.0775,N/A,False
+59071,SITRO-AIS-28,Transmitter,GMSK USP,401.0925,N/A,False
+61780,SITRO-AIS-37,Transmitter,GMSK USP,401.0025,N/A,False
+61786,SITRO-AIS-38,Transmitter,GMSK USP,401.0450,N/A,False
+61778,SITRO-AIS-39,Transmitter,GMSK USP,401.0650,N/A,False
+61776,SITRO-AIS-40,Transmitter,GMSK USP,401.0850,N/A,False
+61760,SITRO-AIS-41,Transmitter,GMSK USP,401.1050,N/A,False
+61756,SITRO-AIS-42,Transmitter,GMSK USP,401.1250,N/A,False
+61755,SITRO-AIS-43,Transmitter,GMSK USP,401.1450,N/A,False
+61748,SITRO-AIS-44,Transmitter,GMSK USP,401.1650,N/A,False
+61788,SITRO-AIS-45,Transmitter,GMSK USP,401.1850,N/A,False
+61774,SITRO-AIS-46,Transmitter,GMSK USP,401.2050,N/A,False
+61773,SITRO-AIS-47,Transmitter,GMSK USP,401.2250,N/A,False
+61771,SITRO-AIS-48,Transmitter,GMSK USP,401.2450,N/A,False
+57176,SITRO-AIS-5,Transmitter,GMSK USP,401.1400,N/A,False
+59776,SITRO-AIS-53,Transmitter,FM,401.0500,N/A,False
+59777,SITRO-AIS-54,Transmitter,FSK,401.0800,N/A,False
+59809,SITRO-AIS-55,Transmitter,FSK,401.1080,N/A,False
+59778,SITRO-AIS-56,Transmitter,FSK,401.2150,N/A,False
+57192,SITRO-AIS-6,Transmitter,GMSK USP,401.1700,N/A,False
+57194,SITRO-AIS-7,Transmitter,GMSK USP,401.2000,N/A,False
+57193,SITRO-AIS-8,Transmitter,GMSK USP,401.2300,N/A,False
+57201,SITRO-AIS-9,Transmitter,GMSK USP,401.2600,N/A,False
+66545,SJ-30A,Transmitter,BPSK,2273.5000,N/A,False
+28413,SJ-6A,Transmitter,FM,2229.6050,N/A,False
+29505,SJ-6C,Transmitter,BPSK,2265.1000,N/A,False
+29506,SJ-6D,Transmitter,FM,2256.2510,N/A,False
+33408,SJ-6E,Transmitter,BPSK,2224.5600,N/A,False
+33409,SJ-6F,Transmitter,FM,2251.4430,N/A,False
+37179,SJ-6G,Transmitter,FM,2229.6000,N/A,False
+37180,SJ-6H,Transmitter,FM,2235.8420,N/A,False
+28737,SJ-7,Transmitter,BPSK,2205.4875,N/A,False
+38860,SJ-9A,Transmitter,FM,2214.4640,N/A,False
+38861,SJ-9B,Transmitter,FM,2255.0400,N/A,False
+98484,SJSAT-4,Transmitter,FM,8195.0000,N/A,False
+98484,SJSAT-4,Transmitter,FM,2249.0500,N/A,False
+62671,SKYBEE-A01,Transmitter,FM,8330.0000,N/A,False
+62671,SKYBEE-A01,Transmitter,FM,2228.0000,N/A,False
+62671,SKYBEE-A01,Transmitter,FM,401.0500,N/A,False
+31598,SKYMED 1,Transmitter,BPSK,2230.0000,N/A,False
+32376,SKYMED 2,Transmitter,FM,2242.2790,N/A,False
+32376,SKYMED 2,Transmitter,BPSK,2230.0190,N/A,False
+37216,SKYMED 4,Transmitter,FM,2244.2720,N/A,False
+37216,SKYMED 4,Transmitter,FM,2230.0070,N/A,False
+57800,SLiM,Transmitter,FM,2212.0000,N/A,False
+40376,SMAP,Transmitter,DBPSK,2274.3000,N/A,False
+40376,SMAP,Transmitter,FM,8180.0000,N/A,False
+40376,SMAP,Transmitter,DBPSK,2274.3000,N/A,False
+98309,SNAPPY,Transmitter,FM,2229.5000,N/A,False
+56749,SNIPE A,Transmitter,MSK AX.100 Mode 5,435.4500,N/A,False
+56745,SNIPE B,Transmitter,MSK AX.100 Mode 5,436.0000,N/A,False
+99160,SNIPE C,Transmitter,MSK AX.100 Mode 5,436.9500,N/A,False
+56744,SNIPE D,Transmitter,FM,2251.2080,N/A,False
+56744,SNIPE D,Transmitter,FSK AX.100 Mode 5,437.8000,N/A,False
+43784,SNUGLITE,Transmitter,GMSK,437.2750,N/A,False
+52899,SNUGLITE-II,Transmitter,GMSK,436.4900,N/A,False
+52899,SNUGLITE-II,Transmitter,DQPSK,2405.0000,N/A,False
+98497,SNUGLITE-III DURI,Transmitter,GMSK,436.7880,N/A,False
+98496,SNUGLITE-III HANA,Transmitter,GMSK,436.4600,N/A,False
+63263,SOAP-1,Transmitter,FM,2220.0000,N/A,False
+63263,SOAP-1,Transmitter,FM,8253.5000,N/A,False
+1291,SOLRAD-7B,Transmitter,USB,136.8010,N/A,False
+59112,SONATE-2,Transmitter,QPSK,2267.7000,N/A,False
+59112,SONATE-2,Transceiver,AFSK,145.8250,145.8250,False
+59112,SONATE-2,Transmitter,SSTV,145.8800,N/A,False
+59112,SONATE-2,Transmitter,CW,145.8400,N/A,False
+59112,SONATE-2,Transmitter,GMSK,437.0250,N/A,False
+98418,SPARCS,Transmitter,FM,2225.5000,N/A,False
+99672,SPARTAN,Transmitter,FSK,400.3600,N/A,False
+98471,SPIN-2,Transmitter,FM,2230.0000,N/A,False
+98471,SPIN-2,Transmitter,GMSK,401.0250,N/A,False
+98471,SPIN-2,Transmitter,FM,402.0000,N/A,False
+98492,SPIRONE,Transmitter,GMSK,436.6500,N/A,False
+98492,SPIRONE,Transmitter,BPSK,2425.1000,N/A,False
+66993,SPNeX,Transmitter,CW,437.7190,N/A,False
+27421,SPOT 5,Transmitter,FM,2218.0240,N/A,False
+99396,SPiN-1,Transceiver,FSK AX.25 G3RUH,401.0000,401.0000,False
+37841,SRMSAT,Transmitter,CW,437.4250,N/A,False
+98893,SSAMUSAT,Transmitter,QPSK,2400.0000,N/A,False
+43618,SSTL-S1 4,Transmitter,BPSK,2240.0000,N/A,False
+98520,STARCLOUD-1,Transmitter,FSK,400.5000,N/A,False
+33498,STARS,Transmitter,CW,437.2750,N/A,False
+52897,STEP CubeLab-II,Transmitter,GMSK,437.4850,N/A,False
+29510,STEREO-A,Transmitter,FM,8443.5800,N/A,False
+99218,STERNULA-1,Transmitter,QPSK,157.2620,N/A,False
+99218,STERNULA-1,Transmitter,QPSK,161.8630,N/A,False
+62406,STRIX-2,Transmitter,FM,2277.3070,N/A,False
+37849,SUOMI NPP,Transmitter,BPSK,2247.5000,N/A,False
+37849,SUOMI NPP,Transmitter,FM,15003.4000,N/A,False
+37849,SUOMI NPP,Transmitter,FM,8212.5000,N/A,False
+37849,SUOMI NPP,Transmitter,FM,7812.0000,N/A,False
+52322,SUPERVIEW NEO-1 02,Transmitter,BPSK,2264.5000,N/A,False
+60089,SVOM,Transmitter,FM,137.7600,N/A,False
+60089,SVOM,Transmitter,FM,137.7400,N/A,False
+60089,SVOM,Transmitter,FM,137.7300,N/A,False
+60089,SVOM,Transmitter,FM,137.7700,N/A,False
+60089,SVOM,Transmitter,FM,137.7500,N/A,False
+60089,SVOM,Transmitter,FM,137.7100,N/A,False
+60089,SVOM,Transmitter,FM,137.7800,N/A,False
+60089,SVOM,Transmitter,FM,137.7200,N/A,False
+60089,SVOM,Transmitter,FM,2207.2800,N/A,False
+39452,SWARM A,Transmitter,FM,2249.0000,N/A,False
+39451,SWARM B,Transmitter,FM,2270.0000,N/A,False
+39453,SWARM C,Transmitter,FM,2277.0000,N/A,False
+35932,SWISSCUBE,Transmitter,CW,437.5050,N/A,False
+35932,SWISSCUBE,Transmitter,CW,437.5007,N/A,False
+35932,SWISSCUBE,Transmitter,BPSK,437.5000,N/A,False
+35932,SWISSCUBE,Transmitter,AFSK,437.5050,N/A,False
+98783,SWSU-60,Transmitter,AFSK,435.7500,N/A,False
+98783,SWSU-60,Transmitter,AFSK,437.0500,N/A,False
+57173,SamSat-ION,Transmitter,CW,437.4020,N/A,False
+57173,SamSat-ION,Transmitter,FSK,437.4000,N/A,False
+61784,SamSat-Ionosphere,Transmitter,FSK,437.4000,N/A,False
+98649,SamSat-Orion,Transmitter,FSK,437.0800,N/A,False
+99237,Sapling Sempervirens,Transmitter,LoRa,437.4000,N/A,False
+99015,Sateliot 1,Transmitter,BPSK,2189.8000,N/A,False
+99015,Sateliot 1,Transmitter,BPSK,2266.4000,N/A,False
+99013,Sateliot 3,Transmitter,BPSK,2189.8000,N/A,False
+28371,SaudiSat 2,Transmitter,FM,137.5130,N/A,False
+40016,SaudiSat 4,Transmitter,FM,148.0350,N/A,False
+40016,SaudiSat 4,Transmitter,FM,401.6000,N/A,False
+43831,SaudiSat 5A,Transmitter,FM,401.3500,N/A,False
+43831,SaudiSat 5A,Transmitter,FM,401.8500,N/A,False
+43833,SaudiSat 5B,Transmitter,FM,401.8500,N/A,False
+43833,SaudiSat 5B,Transmitter,FM,401.3500,N/A,False
+60580,Sedna-1,Transmitter,GMSK,400.6250,N/A,False
+98661,Sedna-2,Transmitter,FM,400.6250,N/A,False
+98661,Sedna-2,Transmitter,FM,400.5750,N/A,False
+99926,SeeMe,Transmitter,BPSK,2425.0000,N/A,False
+99926,SeeMe,Transmitter,FM,437.4500,N/A,False
+99926,SeeMe,Transmitter,FM,437.4250,N/A,False
+46984,Sentinel-6 Michael Freilich,Transmitter,FM,8090.0000,N/A,False
+46984,Sentinel-6 Michael Freilich,Transmitter,BPSK,2256.8000,N/A,False
+98886,Serenity,Transmitter,GFSK,437.0000,N/A,False
+55104,Sharjahsat-1,Transmitter,GMSK,437.3250,N/A,False
+99152,Sirius-SINP-3U,Transmitter,AFSK,436.5500,N/A,False
+99152,Sirius-SINP-3U,Transmitter,CW,436.5500,N/A,False
+98446,Sitro-AIS-57,Transmitter,GMSK USP,401.0025,N/A,False
+98445,Sitro-AIS-58,Transmitter,GMSK USP,401.0325,N/A,False
+98444,Sitro-AIS-59,Transmitter,GMSK USP,401.0475,N/A,False
+98443,Sitro-AIS-60,Transmitter,GMSK USP,401.0625,N/A,False
+98442,Sitro-AIS-61,Transmitter,GMSK USP,401.0775,N/A,False
+98441,Sitro-AIS-62,Transmitter,GMSK USP,401.0925,N/A,False
+98440,Sitro-AIS-63,Transmitter,GMSK USP,401.1075,N/A,False
+98439,Sitro-AIS-64,Transmitter,GMSK USP,401.1225,N/A,False
+98438,Sitro-AIS-65,Transmitter,GMSK USP,401.1375,N/A,False
+98437,Sitro-TD-3,Transmitter,GMSK USP,401.1725,N/A,False
+98436,Sitro-TD-4,Transmitter,GMSK USP,401.1975,N/A,False
+54153,Skif-D,Transmitter,FM,435.4660,N/A,False
+54153,Skif-D,Transmitter,FM,435.5660,N/A,False
+64544,SkyBee-A02,Transmitter,FM,8330.0000,N/A,False
+64544,SkyBee-A02,Transmitter,FM,2255.5100,N/A,False
+64544,SkyBee-A02,Transmitter,GMSK,401.0500,N/A,False
+64544,SkyBee-A02,Transmitter,FM,2228.0000,N/A,False
+55041,Skykraft 1 Deployer,Transmitter,LoRa,400.4500,N/A,False
+98452,Slippers2Sat,Transmitter,GFSK,437.3750,N/A,False
+58468,SpIRIT,Transmitter,FSK,401.8950,N/A,False
+99416,SpaceTeamSat1,Transmitter,GFSK,437.3950,N/A,False
+99416,SpaceTeamSat1,Transmitter,CW,437.3950,N/A,False
+58295,SpaceVan,Transmitter,FM,401.0500,N/A,False
+58295,SpaceVan,Transmitter,FM,2288.5000,N/A,False
+58295,SpaceVan,Transmitter,FM,2271.7500,N/A,False
+98358,Spacevan-002,Transmitter,FM,2288.5000,N/A,False
+98358,Spacevan-002,Transmitter,FM,2271.7500,N/A,False
+99222,Sphere-1,Transmitter,FM,2272.2000,N/A,False
+99222,Sphere-1,Transmitter,FM,8055.0000,N/A,False
+63232,Sphinx/Frazier,Transmitter,GFSK,401.1000,N/A,False
+63232,Sphinx/Frazier,Transmitter,GFSK,400.5000,N/A,False
+55009,Star Vibe,Transmitter,GMSK,437.0250,N/A,False
+47883,Starlink 2342,Transmitter,CW,11325.0000,N/A,False
+47883,Starlink 2342,Transmitter,CW,11575.0000,N/A,False
+47883,Starlink 2342,Transmitter,CW,11950.0000,N/A,False
+47883,Starlink 2342,Transmitter,CW,12450.0000,N/A,False
+49144,Starlink 3100,Transmitter,CW,11325.0000,N/A,False
+49144,Starlink 3100,Transmitter,CW,11575.0000,N/A,False
+49144,Starlink 3100,Transmitter,CW,12450.0000,N/A,False
+49144,Starlink 3100,Transmitter,CW,11950.0000,N/A,False
+53043,Starlink 4362,Transmitter,CW,11950.0000,N/A,False
+53043,Starlink 4362,Transmitter,CW,11325.0000,N/A,False
+53043,Starlink 4362,Transmitter,CW,11575.0000,N/A,False
+53043,Starlink 4362,Transmitter,CW,12450.0000,N/A,False
+53468,Starlink 4400,Transmitter,CW,12450.0000,N/A,False
+53468,Starlink 4400,Transmitter,CW,11325.0000,N/A,False
+53468,Starlink 4400,Transmitter,CW,11575.0000,N/A,False
+53468,Starlink 4400,Transmitter,CW,11950.0000,N/A,False
+53204,Starlink 4410,Transmitter,CW,12450.0000,N/A,False
+53204,Starlink 4410,Transmitter,CW,11950.0000,N/A,False
+53204,Starlink 4410,Transmitter,CW,11325.0000,N/A,False
+53204,Starlink 4410,Transmitter,CW,11575.0000,N/A,False
+53676,Starlink 4621,Transmitter,CW,11325.0000,N/A,False
+53676,Starlink 4621,Transmitter,CW,11575.0000,N/A,False
+53676,Starlink 4621,Transmitter,CW,11950.0000,N/A,False
+53676,Starlink 4621,Transmitter,CW,12450.0000,N/A,False
+43679,Stars-AO,Transmitter,FM,437.4000,N/A,False
+43679,Stars-AO,Transmitter,GMSK,437.2000,N/A,False
+43679,Stars-AO,Transmitter,CW,437.3500,N/A,False
+99292,Stork 6,Transmitter,FSK,401.1000,N/A,False
+40920,Strela-3M 13,Transmitter,FM,388.6873,N/A,False
+40921,Strela-3M 14,Transmitter,FM,388.6873,N/A,False
+40922,Strela-3M 15,Transmitter,FM,388.6873,N/A,False
+43751,Strela-3M 16,Transmitter,FM,388.6873,N/A,False
+43751,Strela-3M 16,Transmitter,FM,387.1748,N/A,False
+43752,Strela-3M 17,Transmitter,FM,387.1748,N/A,False
+43752,Strela-3M 17,Transmitter,FM,388.6873,N/A,False
+43753,Strela-3M 18,Transmitter,FM,388.6873,N/A,False
+43753,Strela-3M 18,Transmitter,FM,387.1748,N/A,False
+59224,StriX-3,Transmitter,FM,2228.0000,N/A,False
+59224,StriX-3,Transmitter,FM,2277.3000,N/A,False
+43804,Suomi 100,Transmitter,MSK AX.100 Mode 5,437.7750,N/A,False
+98975,Superdove 003 A13,Transmitter,FM,2245.9830,N/A,False
+43099,Superview-1 03,Transmitter,FM,2262.9360,N/A,False
+43099,Superview-1 03,Transmitter,FM,2274.9550,N/A,False
+57187,Svyatobor-1,Transmitter,GMSK,437.8750,N/A,False
+57187,Svyatobor-1,Transmitter,GMSK USP,437.8750,N/A,False
+98515,T.MicroSat-1,Transmitter,GFSK,401.0250,N/A,False
+68433,T.MicroSat-2,Transmitter,FSK,2220.0000,N/A,False
+68433,T.MicroSat-2,Transmitter,GFSK,401.0250,N/A,False
+62378,TANSAAFL-2,Transmitter,BPSK,2205.0000,N/A,False
+62378,TANSAAFL-2,Transmitter,DVB-S2,25600.0000,N/A,False
+62378,TANSAAFL-2,Transmitter,FM,15500.0000,N/A,False
+62378,TANSAAFL-2,Transmitter,QPSK,2282.5000,N/A,False
+28479,TANSUO 2,Transmitter,FM,2217.3630,N/A,False
+98390,TATARA-1R,Transmitter,FM,2280.0000,N/A,False
+98524,TAURUS 1,Transmitter,GFSK,401.7625,N/A,False
+98523,TAURUS 2,Transmitter,GFSK,401.7625,N/A,False
+98522,TAURUS 3,Transmitter,GFSK,401.7625,N/A,False
+98521,TAURUS 4,Transmitter,GFSK,401.7625,N/A,False
+42829,TECHNOSAT,Transmitter,GMSK,435.9500,N/A,False
+42829,TECHNOSAT,Transmitter,CW,435.9500,N/A,False
+25397,TECHSAT 1B,Transmitter,FSK,435.3250,N/A,False
+25397,TECHSAT 1B,Transmitter,FSK,435.2250,N/A,False
+31698,TERRA SAR X,Transmitter,FM,2280.0000,N/A,False
+63217,TEVEL2-1,Transmitter,BPSK,436.4000,N/A,False
+63217,TEVEL2-1,Transceiver,FM,436.4000,145.9700,False
+63219,TEVEL2-2,Transmitter,BPSK,436.4000,N/A,False
+63219,TEVEL2-2,Transceiver,FM,436.4000,145.9700,False
+63218,TEVEL2-3,Transmitter,BPSK,436.4000,N/A,False
+63218,TEVEL2-3,Transceiver,FM,436.4000,145.9700,False
+63213,TEVEL2-4,Transmitter,BPSK,436.4000,N/A,False
+63213,TEVEL2-4,Transceiver,FM,436.4000,145.9700,False
+63214,TEVEL2-5,Transceiver,FM,436.4000,145.9700,False
+63214,TEVEL2-5,Transmitter,BPSK,436.4000,N/A,False
+63215,TEVEL2-6,Transceiver,FM,436.4000,145.9700,False
+63215,TEVEL2-6,Transmitter,BPSK,436.4000,N/A,False
+63238,TEVEL2-7,Transmitter,BPSK,436.4000,N/A,False
+63238,TEVEL2-7,Transceiver,FM,436.4000,145.9700,False
+63239,TEVEL2-8,Transceiver,FM,436.4000,145.9700,False
+63239,TEVEL2-8,Transmitter,BPSK,436.4000,N/A,False
+63237,TEVEL2-9,Transmitter,BPSK,436.4000,N/A,False
+63237,TEVEL2-9,Transceiver,FM,436.4000,145.9700,False
+43796,THEA,Transmitter,FSK AX.100 Mode 5,400.5950,N/A,False
+33396,THEOS,Transmitter,BPSK,2211.0000,N/A,False
+58016,THEOS 2,Transmitter,FM,2244.2300,N/A,False
+57792,TIANQI 21,Transmitter,LoRa,400.4500,N/A,False
+57792,TIANQI 21,Transmitter,FM,400.2640,N/A,False
+57793,TIANQI 22,Transmitter,LoRa,400.4500,N/A,False
+57794,TIANQI 23,Transmitter,LoRa,400.2650,N/A,False
+57794,TIANQI 23,Transmitter,LoRa,400.4500,N/A,False
+46810,TIANQI-6,Transmitter,,400.5000,N/A,False
+63209,TIANYAN 23,Transmitter,FM,401.1550,N/A,False
+64049,TIANYI B,Transmitter,FSK,401.2510,N/A,False
+64050,TIANYI C,Transmitter,FSK,401.1000,N/A,False
+59141,TIGER-7,Transmitter,BPSK,2240.5480,N/A,False
+40043,TIGRISAT,Transmitter,FSK,435.0000,N/A,False
+4256,TIMATION-II,Transmitter,CW,137.3830,N/A,False
+1430,TIROS-10,Transmitter,FM,136.9200,N/A,False
+1430,TIROS-10,Transmitter,FM,136.2320,N/A,False
+1430,TIROS-10,Transmitter,SSTV,235.0000,N/A,False
+11060,TIROS-N,Transmitter,CW,137.7700,N/A,False
+11060,TIROS-N,Transmitter,BPSK,1698.0000,N/A,False
+36799,TISAT 1,Transmitter,CW,437.3050,N/A,False
+36799,TISAT 1,Transceiver,FM,145.9800,145.9800,False
+60530,TORO,Transmitter,GMSK,435.4100,N/A,False
+98495,TORO-2,Transmitter,GFSK,401.5800,N/A,False
+68481,TORO-3,Transmitter,GFSK,401.5800,N/A,False
+64533,TPA-1,Transmitter,GMSK,2220.5000,N/A,False
+64533,TPA-1,Transmitter,GFSK,401.9000,N/A,False
+965,TRANSIT 5B-5,Transmitter,FM,149.9880,N/A,False
+965,TRANSIT 5B-5,Transmitter,FM,400.0000,N/A,False
+965,TRANSIT 5B-5,Transmitter,FMN,136.6500,N/A,False
+965,TRANSIT 5B-5,Transmitter,FM,324.0000,N/A,False
+965,TRANSIT 5B-5,Transmitter,FM,162.0000,N/A,False
+965,TRANSIT 5B-5,Transmitter,USB,136.6585,N/A,False
+53108,TRISAT-R,Transmitter,GFSK,435.6125,N/A,False
+98406,TRISAT-S,Transmitter,FM,2280.5500,N/A,False
+58017,TRITON,Transmitter,CW,400.9000,N/A,False
+39427,TRITON-1,Transmitter,AFSK,145.8150,N/A,False
+39427,TRITON-1,Transmitter,CW,145.8600,N/A,False
+39427,TRITON-1,Transmitter,FM,2408.0000,N/A,False
+39427,TRITON-1,Transmitter,CW,145.8150,N/A,False
+39427,TRITON-1,Transmitter,AFSK,145.8600,N/A,False
+39427,TRITON-1,Transmitter,CW,145.8180,N/A,False
+62658,TROLL,Transmitter,FM,2281.2500,N/A,False
+62658,TROLL,Transmitter,BPSK,2256.2500,N/A,False
+98472,TRYAD-2,Transmitter,FM,401.4750,N/A,False
+39152,TURKSAT-3U,Transmitter,CW,437.2250,N/A,False
+61231,TY-41,Transmitter,FSK AX.100 Mode 5,401.7500,N/A,False
+48256,Taijing 2-01,Transmitter,BPSK,401.6498,N/A,False
+60507,Tanager 4001,Transmitter,FM,8375.0000,N/A,False
+36605,Tandem X,Transmitter,FM,2268.0000,N/A,False
+36605,Tandem X,Transmitter,FM,2280.0000,N/A,False
+41898,Tansat,Transmitter,FM,2218.3260,N/A,False
+44530,Taurus-1,Transceiver,FM,436.7600,145.8200,False
+44530,Taurus-1,Transmitter,BPSK,435.8400,N/A,False
+56310,TeLEOS-2,Transmitter,FM,2210.7700,N/A,False
+99344,Team Miles,Transmitter,FM,2295.7400,N/A,False
+60208,TechEdSat-11,Transmitter,FM,2280.0000,N/A,False
+60208,TechEdSat-11,Transmitter,FM,401.8750,N/A,False
+98666,TechEdSat-22,Transmitter,FM,401.8745,N/A,False
+49396,TeikyoSat-4,Transmitter,CW,437.4500,N/A,False
+49396,TeikyoSat-4,Transmitter,GMSK,437.4500,N/A,False
+49396,TeikyoSat-4,Transmitter,AFSK,437.4500,N/A,False
+49396,TeikyoSat-4,Transmitter,FSK,5831.0000,N/A,False
+49396,TeikyoSat-4,Transmitter,SSTV,437.4500,N/A,False
+43677,Ten-Koh,Transceiver,GMSK,437.3900,435.2800,False
+43677,Ten-Koh,Transmitter,CW,437.3900,N/A,False
+43677,Ten-Koh,Transmitter,WSJT,437.5100,N/A,False
+68261,Ten-Koh 2,Transmitter,CW,5839.0000,N/A,False
+68261,Ten-Koh 2,Transmitter,CW,435.8600,N/A,False
+48951,Tenzing,Transmitter,FM,400.5020,N/A,False
+48951,Tenzing,Transmitter,FM,400.5000,N/A,False
+57795,Tianqi-24,Transmitter,LoRa,400.4500,N/A,False
+45935,Tianwen-1,Transmitter,FM,8430.5304,N/A,False
+44315,Tianxiang-1,Transmitter,FM,401.8000,N/A,False
+56866,Tianyi-26,Transmitter,LoRa,401.9000,N/A,False
+59120,Tiger 8,Transmitter,FM,2240.5000,N/A,False
+98572,Time Flies,Transmitter,GMSK,2260.0000,N/A,False
+56962,Tomorrow R2,Transmitter,FSK,400.5000,N/A,False
+60479,Tomorrow-S1,Transmitter,OQPSK,8030.0000,N/A,False
+60485,Tomorrow-S2,Transmitter,OQPSK,8030.0000,N/A,False
+60496,Tyche,Transmitter,FM,2230.0000,N/A,False
+60496,Tyche,Transmitter,FM,8200.0000,N/A,False
+48606,Tyvak 0130,Transmitter,FM,400.7650,N/A,False
+48606,Tyvak 0130,Transmitter,FSK,400.7805,N/A,False
+48606,Tyvak 0130,Transmitter,BPSK,2201.7000,N/A,False
+28117,UFO 11,Transmitter,FM,262.3250,N/A,False
+40074,UKUBE-1,Transmitter,BPSK,145.8400,N/A,False
+40074,UKUBE-1,Transmitter,CW,145.8442,N/A,False
+40074,UKUBE-1,Transponder,USB,145.9300,435.0743,True
+40074,UKUBE-1,Transmitter,BPSK,145.9150,N/A,False
+40074,UKUBE-1,Transmitter,CW,145.8400,N/A,False
+40074,UKUBE-1,Transmitter,CW,145.8438,N/A,False
+60555,UM5Sat-EOsat,Transmitter,GFSK,401.2750,N/A,False
+60554,UM5Sat-Ribat,Transmitter,BPSK,2208.0000,N/A,False
+60554,UM5Sat-Ribat,Transmitter,FSK AX.100 Mode 5,401.6000,N/A,False
+60554,UM5Sat-Ribat,Transmitter,GFSK,401.1000,N/A,False
+98988,UMBRA 07,Transmitter,FM,2254.0000,N/A,False
+64535,UND ROADS 1,Transmitter,QPSK,2401.8750,N/A,False
+64535,UND ROADS 1,Transmitter,GFSK,435.4000,N/A,False
+64535,UND ROADS 1,Transmitter,FSK AX.100 Mode 5,145.9000,N/A,False
+64549,UND ROADS 2,Transmitter,FSK AX.100 Mode 5,145.9000,N/A,False
+64549,UND ROADS 2,Transmitter,FSK AX.100 Mode 5,435.4000,N/A,False
+64549,UND ROADS 2,Transmitter,QPSK,2401.8750,N/A,False
+98353,UNICORN-2R,Transmitter,FSK,401.8200,N/A,False
+98352,UNICORN-2S,Transmitter,FSK,401.8200,N/A,False
+39767,UNIFORM 1,Transmitter,FM,2228.0050,N/A,False
+40012,UNISAT-6,Transmitter,FSK,437.4215,N/A,False
+47945,UNISAT-7,Transmitter,FSK,437.4250,N/A,False
+14781,UOSAT 2,Transmitter,AFSK,145.8250,N/A,False
+42716,UPSAT,Transmitter,CW,435.7650,N/A,False
+28537,USA 181,Transmitter,FM,2232.5040,N/A,False
+29249,USA 184,Transmitter,FM,2277.5200,N/A,False
+29249,USA 184,Transmitter,FM,2232.5200,N/A,False
+37386,USA 229,Transmitter,FM,2257.5060,N/A,False
+38758,USA 238,Transmitter,BPSK,2232.5000,N/A,False
+39462,USA 247,Transmitter,FM,2242.5020,N/A,False
+40964,USA 264,Transmitter,FM,2232.5000,N/A,False
+66992,USA 570,Transmitter,FM,2277.5200,N/A,False
+98334,USNA-16,Transmitter,LoRa,437.2350,N/A,False
+98334,USNA-16,Transmitter,LoRa,2420.0000,N/A,False
+98334,USNA-16,Transmitter,GFSK,437.2350,N/A,False
+57203,UTMN2,Transmitter,SSTV,436.1250,N/A,False
+57203,UTMN2,Transmitter,GMSK USP,435.6800,N/A,False
+57203,UTMN2,Transmitter,GMSK USP,436.1250,N/A,False
+57203,UTMN2,Transmitter,GMSK USP,436.1250,N/A,False
+63251,UVSQ-SAT-NG,Transmitter,FM,2208.0000,N/A,False
+63251,UVSQ-SAT-NG,Transmitter,BPSK,401.8500,N/A,False
+39446,UWE-3,Transmitter,FSK,437.3840,N/A,False
+39446,UWE-3,Transmitter,FSK,436.3950,N/A,False
+39446,UWE-3,Transmitter,FSK,437.3850,N/A,False
+43880,UWE-4,Transmitter,FSK,435.6000,N/A,False
+98398,UiTMSAT-2,Transmitter,AFSK,145.8250,N/A,False
+98398,UiTMSAT-2,Transmitter,GMSK,437.3750,N/A,False
+98398,UiTMSAT-2,Transmitter,CW,437.3750,N/A,False
+57172,UmKA-1,Transmitter,GMSK USP,437.6250,N/A,False
+57172,UmKA-1,Transmitter,GMSK USP,437.6250,N/A,False
+57172,UmKA-1,Transmitter,BPSK,2402.4000,N/A,False
+57172,UmKA-1,Transmitter,SSTV,437.6250,N/A,False
+57172,UmKA-1,Transmitter,CW,437.6250,N/A,False
+98832,Umbra 09,Transmitter,FM,2254.0000,N/A,False
+98833,Umbra 10,Transmitter,FM,2254.0000,N/A,False
+63980,Unicorn-2O,Transmitter,FM,401.8210,N/A,False
+63981,Unicorn-2P,Transmitter,FM,401.8210,N/A,False
+98000,Unidentified,Transmitter,BPSK,2265.1500,N/A,False
+60013,Unknown - 24110B,Transmitter,FM,401.9500,N/A,False
+60015,Unknown - 24110D,Transmitter,FM,401.9500,N/A,False
+98337,Unknown 1 - MinoTaur IV,Transmitter,FSK,401.5000,N/A,False
+98331,Unknown 2 - MinoTaur IV,Transmitter,FSK,401.5000,N/A,False
+98345,Unknown 2 - T16,Transmitter,FSK,437.0000,N/A,False
+63298,Unknown 25055H,Transmitter,FSK,437.1250,N/A,False
+98342,Unknown 5 - T16,Transmitter,FSK,400.4000,N/A,False
+99695,Unknown 99695,Transmitter,FSK,401.9000,N/A,False
+98424,Unknown Satellite,Transmitter,FSK,437.6000,N/A,False
+98423,Unknown Satellite,Transmitter,LoRa,436.5500,N/A,False
+44886,Unknown Satellite - 19093H,Transmitter,FM,401.9518,N/A,False
+44889,Unknown Satellite - 19093L,Transmitter,FM,401.3551,N/A,False
+99033,Unknown Satellite from VV23,Transmitter,FM,401.0500,N/A,False
+98814,Unknown_2_T11,Transmitter,GFSK,401.0500,N/A,False
+60468,Unknown_3_T11,Transmitter,BPSK,2247.3220,N/A,False
+98913,VEERY-0E “Ectobius”,Transmitter,FSK,437.1250,N/A,False
+98519,VEGAFLY-1,Transmitter,GFSK,436.6550,N/A,False
+40057,VELOX 1,Transmitter,CW,145.9800,N/A,False
+57482,VELOX-AM,Transmitter,FSK AX.100 Mode 5,437.1250,N/A,False
+39438,VELOX-PII,Transmitter,CW,145.9800,N/A,False
+98359,VIGORIDE 7,Transmitter,FSK,400.5000,N/A,False
+98350,VIREON-1,Transmitter,FM,2265.0000,N/A,False
+98350,VIREON-1,Transmitter,FM,2240.0000,N/A,False
+98349,VIREON-2,Transmitter,FM,2265.0000,N/A,False
+98349,VIREON-2,Transmitter,FM,2240.0000,N/A,False
+57189,VIZARD-meteo,Transmitter,SSTV,437.8250,N/A,False
+57189,VIZARD-meteo,Transmitter,GMSK USP,437.8250,N/A,False
+38782,VRSS-1,Transmitter,BPSK,2243.7560,N/A,False
+42954,VRSS-2,Transmitter,FM,2250.2410,N/A,False
+42901,Venus,Transmitter,FM,2285.0010,N/A,False
+55056,Vigoride-5,Transmitter,FM,8212.5000,N/A,False
+55056,Vigoride-5,Transmitter,FM,9950.0000,N/A,False
+55056,Vigoride-5,Transmitter,FM,9884.0000,N/A,False
+55056,Vigoride-5,Transmitter,FM,400.5000,N/A,False
+99930,VisionCube,Transmitter,GMSK,437.4250,N/A,False
+61749,Vizard-ion,Transmitter,DVB-S2,10475.0000,N/A,False
+61749,Vizard-ion,Transmitter,GFSK,436.8700,N/A,False
+98784,Vladivostok-1,Transmitter,LoRa,436.8050,N/A,False
+98784,Vladivostok-1,Transmitter,FSK,436.8050,N/A,False
+64543,W-SERIES 4,Transmitter,FM,2272.5000,N/A,False
+98357,W-Series 6,Transmitter,FM,2272.5000,N/A,False
+98327,WASEDA-SAT-ZERO-II,Transmitter,CW,437.2000,N/A,False
+98327,WASEDA-SAT-ZERO-II,Transmitter,FSK,437.2000,N/A,False
+57764,WILDFIRE 1,Transmitter,FM,2277.8000,N/A,False
+57766,WILDFIRE 10,Transmitter,FM,2277.8000,N/A,False
+57758,WILDFIRE 3,Transmitter,BPSK,2277.8030,N/A,False
+57765,WILDFIRE 9,Transmitter,FM,2277.8000,N/A,False
+98664,WINNEBAGO-2,Transmitter,FM,2272.5000,N/A,False
+99492,WISeSAT-2,Transmitter,LoRa,401.7000,N/A,False
+42835,WNISAT 1R,Transmitter,FM,401.8000,N/A,False
+39435,WREN,Transmitter,FM,437.4050,N/A,False
+60478,WREN-1,Transmitter,GMSK,401.7500,N/A,False
+60478,WREN-1,Transmitter,LoRa,137.9250,N/A,False
+59481,WSF-M,Transmitter,BPSK,2237.5000,N/A,False
+59481,WSF-M,Transmitter,BPSK,2252.5000,N/A,False
+60469,Waratah Seed-1,Transmitter,BPSK,400.6500,N/A,False
+57769,Wildfire 5,Transmitter,BPSK,2277.8040,N/A,False
+62400,XCUBE-1,Transmitter,FM,8200.0000,N/A,False
+62400,XCUBE-1,Transmitter,BPSK,2245.0000,N/A,False
+45603,XINGYUN-2 02,Transmitter,FM,1521.5000,N/A,False
+36122,XIWANG-1,Transmitter,CW,435.7910,N/A,False
+36122,XIWANG-1,Transceiver,FM,435.6750,145.8250,True
+50466,XW-3,Transmitter,BPSK,435.1800,N/A,False
+50466,XW-3,Transmitter,GMSK,435.7250,N/A,False
+50466,XW-3,Transmitter,CW,435.5750,N/A,False
+57422,Xingshidai 16,Transmitter,FM,401.5490,N/A,False
+45602,Xingyun-2 01,Transmitter,BPSK,1521.5000,N/A,False
+45602,Xingyun-2 01,Transmitter,FM,272.5000,N/A,False
+64580,YAM-10,Transmitter,FM,2253.4000,N/A,False
+48915,YAM-3,Transmitter,FM,400.1000,N/A,False
+48915,YAM-3,Transmitter,FM,401.0170,N/A,False
+48915,YAM-3,Transmitter,FM,400.8750,N/A,False
+48915,YAM-3,Transmitter,FM,401.0850,N/A,False
+48915,YAM-3,Transmitter,BPSK,401.5000,N/A,False
+55076,YAM-5,Transmitter,FM,401.5000,N/A,False
+55076,YAM-5,Transmitter,FM,400.1000,N/A,False
+59126,YAM-6,Transmitter,FM,400.8750,N/A,False
+59126,YAM-6,Transmitter,FM,8125.0000,N/A,False
+59126,YAM-6,Transmitter,FM,401.5000,N/A,False
+59126,YAM-6,Transmitter,FM,2277.3000,N/A,False
+60504,YAM-7,Transmitter,FM,2230.0000,N/A,False
+60504,YAM-7,Transmitter,FM,8125.0000,N/A,False
+60504,YAM-7,Transmitter,FSK,401.5000,N/A,False
+63254,YAM-8,Transmitter,BPSK,2248.3000,N/A,False
+36834,YAOGAN 10,Transmitter,FM,2253.8340,N/A,False
+36834,YAOGAN 10,Transmitter,FM,2237.9940,N/A,False
+37875,YAOGAN 12,Transmitter,FM,2207.5240,N/A,False
+40143,YAOGAN 21,Transmitter,FM,2248.5470,N/A,False
+32289,YAOGAN 3,Transmitter,FM,2212.8120,N/A,False
+32289,YAOGAN 3,Transmitter,FM,2295.6040,N/A,False
+37388,YOUTHSAT,Transmitter,FM,149.9950,N/A,False
+37388,YOUTHSAT,Transmitter,FM,2279.9960,N/A,False
+37388,YOUTHSAT,Transmitter,FM,2254.3450,N/A,False
+37388,YOUTHSAT,Transmitter,CW,400.0000,N/A,False
+38735,YUBELEINY 2,Transmitter,CW,435.3650,N/A,False
+38735,YUBELEINY 2,Transmitter,CW,435.2650,N/A,False
+38735,YUBELEINY 2,Transmitter,DOKA,435.2650,N/A,False
+38735,YUBELEINY 2,Transmitter,DOKA,435.3650,N/A,False
+32953,YUBILEINY,Transmitter,FM,435.3530,N/A,False
+32953,YUBILEINY,Transmitter,DOKA,435.3150,N/A,False
+32953,YUBILEINY,Transmitter,PSK,435.2150,N/A,False
+32953,YUBILEINY,Transmitter,CW,435.3157,N/A,False
+44547,YUNHAI 1-02,Transmitter,BPSK,1704.0000,N/A,False
+33446,Yaogan 4,Transmitter,FM,2216.5000,N/A,False
+36110,Yaogan 7,Transmitter,FM,2216.5250,N/A,False
+57200,Yarilo No. 4,Transmitter,FSK,435.4000,N/A,False
+57200,Yarilo No. 4,Transmitter,FM,435.7200,N/A,False
+41857,Yunhai 1-01,Transmitter,FM,1704.0000,N/A,False
+53877,Yunhai 1-03,Transmitter,FM,1704.0000,N/A,False
+49399,Z-Sat,Transmitter,FSK AX.25 G3RUH,145.8750,N/A,False
+49399,Z-Sat,Transceiver,FSK AX.25 G3RUH,145.8750,435.4800,False
+39417,ZACUBE-1,Transmitter,FSK,437.3560,N/A,False
+39417,ZACUBE-1,Transmitter,FSK,437.3560,N/A,False
+39417,ZACUBE-1,Transmitter,CW,14.0990,N/A,False
+43194,ZHANGHENG-1,Transmitter,BPSK,2228.8820,N/A,False
+37166,ZHEDA PIXING 1B,Transmitter,BPSK,2289.5910,N/A,False
+37167,ZHEDA PIXING 1C,Transmitter,FM,2285.4970,N/A,False
+44536,ZHUHAI-1 03B,Transmitter,FM,2248.7980,N/A,False
+44538,ZHUHAI-1 03D,Transmitter,FM,2212.8000,N/A,False
+44539,ZHUHAI-1 03E,Transmitter,FM,2207.2800,N/A,False
+43441,ZHUHAI-1 OHS-02,Transmitter,FSK,401.5600,N/A,False
+43441,ZHUHAI-1 OHS-02,Transmitter,BPSK,2253.5000,N/A,False
+43440,ZHUHAI-1 OVS-02,Transmitter,BPSK,2207.2800,N/A,False
+43440,ZHUHAI-1 OVS-02,Transmitter,,401.4400,N/A,False
+57177,ZORKIY-2M,Transmitter,GMSK USP,401.4800,N/A,False
+57177,ZORKIY-2M,Transmitter,GMSK USP,401.9500,N/A,False
+38038,ZY 1,Transmitter,BPSK,2225.5160,N/A,False
+38046,ZY 3,Transmitter,FM,2236.5620,N/A,False
+67131,ZY 3 04,Transmitter,FM,2215.4420,N/A,False
+44528,ZY-1 02D,Transmitter,FM,2239.4400,N/A,False
+50465,ZY-1 02E,Transmitter,FM,2231.7600,N/A,False
+64393,Zhangheng 1-02,Transmitter,FM,2228.8810,N/A,False
+44537,Zhuhai-1 03C,Transmitter,FM,2253.6000,N/A,False
+41556,Ziyuan 3-2,Transmitter,BPSK,2201.0380,N/A,False
+59774,Zorkiy 2M-6,Transmitter,GMSK USP,401.0050,N/A,False
+59774,Zorkiy 2M-6,Transmitter,GMSK USP,401.1400,N/A,False
+98434,Zorkiy-2M 5,Transmitter,GMSK USP,401.2300,N/A,False
+98434,Zorkiy-2M 5,Transmitter,GMSK USP,401.1650,N/A,False
+98433,Zorkiy-2M 7,Transmitter,GMSK USP,401.0175,N/A,False
+98433,Zorkiy-2M 7,Transmitter,GMSK USP,401.2450,N/A,False
+98435,Zorkiy-2M VPE,Transmitter,GMSK USP,401.2125,N/A,False
+98435,Zorkiy-2M VPE,Transmitter,GMSK USP,401.1800,N/A,False
+59775,Zorkiy-2M-4,Transmitter,GMSK USP,401.1600,N/A,False
+59775,Zorkiy-2M-4,Transmitter,GMSK USP,401.0350,N/A,False
+58466,uHETSat,Transmitter,FSK,401.5000,N/A,False
+67255,unknown,Transmitter,FM,436.7400,N/A,False
+99213,ÑuSat 32,Transmitter,FM,8030.0000,N/A,False
+99213,ÑuSat 32,Transmitter,DVB-S2,8075.0000,N/A,False
